@@ -1,0 +1,10 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2009-01-13,4,-4,HOUSTON ROCKETS,HOME,LOS ANGELES LAKERS,LOSS,261,2,2,0,0,0,0,1,0,0,0,0,0,0,4.1
+True,2009-02-04,0,0,HOUSTON ROCKETS,AWAY,MEMPHIS GRIZZLIES,LOSS,384,0,3,0,0,0,0,3,0,0,0,1,0,1,0.3
+True,2009-02-07,0,-3,HOUSTON ROCKETS,HOME,MINNESOTA TIMBERWOLVES,WIN,303,0,0,0,0,0,0,0,2,0,0,0,0,0,0.6
+True,2009-02-22,0,3,HOUSTON ROCKETS,HOME,CHARLOTTE BOBCATS,WIN,252,0,0,0,0,0,0,0,1,0,0,1,2,1,-1.4
+True,2009-03-16,1,8,HOUSTON ROCKETS,AWAY,NEW ORLEANS HORNETS,WIN,1478,0,1,0,0,1,2,2,4,0,0,3,2,1,2.2
+True,2009-03-18,0,-3,HOUSTON ROCKETS,HOME,DETROIT PISTONS,WIN,261,0,0,0,0,0,0,0,1,0,0,1,0,1,0.6
+True,2009-04-01,1,0,HOUSTON ROCKETS,AWAY,PHOENIX SUNS,LOSS,319,0,0,0,0,1,2,0,1,0,0,1,0,1,1.2
+True,2009-04-07,0,-6,HOUSTON ROCKETS,HOME,ORLANDO MAGIC,WIN,448,0,0,0,0,0,0,1,2,0,0,0,0,2,0.5
+True,2009-04-10,10,5,HOUSTON ROCKETS,AWAY,GOLDEN STATE WARRIORS,WIN,2072,3,7,0,0,4,5,5,10,0,0,4,2,4,11.6

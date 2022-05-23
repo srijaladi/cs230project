@@ -1,0 +1,8 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2007-10-31,0,-4,TORONTO RAPTORS,HOME,PHILADELPHIA 76ERS,WIN,409,0,2,0,1,0,0,0,0,1,0,0,1,0,-1.7
+True,2007-11-02,3,-2,TORONTO RAPTORS,AWAY,NEW JERSEY NETS,WIN,391,1,4,1,2,0,0,1,2,0,0,0,0,0,1.9
+True,2007-11-04,3,4,TORONTO RAPTORS,HOME,BOSTON CELTICS,LOSS,517,1,3,1,2,0,0,0,0,0,0,0,0,0,1.3
+True,2007-11-06,3,-10,TORONTO RAPTORS,AWAY,MILWAUKEE BUCKS,LOSS,774,1,4,1,3,0,0,0,3,0,1,0,0,0,2.5
+True,2007-11-07,0,-6,TORONTO RAPTORS,HOME,ORLANDO MAGIC,LOSS,270,0,1,0,0,0,0,1,1,0,0,0,0,1,-0.1
+True,2007-11-10,5,-3,TORONTO RAPTORS,AWAY,CHICAGO BULLS,WIN,611,2,4,1,3,0,0,0,1,0,1,0,0,1,3.9
+True,2007-11-16,8,10,TORONTO RAPTORS,HOME,INDIANA PACERS,WIN,1456,3,7,2,5,0,0,0,6,2,1,0,0,0,8.5

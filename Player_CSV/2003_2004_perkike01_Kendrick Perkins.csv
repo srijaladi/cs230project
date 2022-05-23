@@ -1,0 +1,11 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2003-12-13,0,3,BOSTON CELTICS,AWAY,CLEVELAND CAVALIERS,WIN,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2003-12-15,7,-1,BOSTON CELTICS,HOME,MINNESOTA TIMBERWOLVES,LOSS,317,2,4,0,0,3,3,2,0,0,0,0,0,1,6.0
+True,2004-01-25,1,-2,BOSTON CELTICS,AWAY,NEW JERSEY NETS,LOSS,225,0,1,0,0,1,2,1,0,0,0,0,1,2,-1.2
+True,2004-01-30,0,8,BOSTON CELTICS,HOME,NEW YORK KNICKS,LOSS,315,0,0,0,0,0,0,0,1,0,0,0,1,1,-1.1
+True,2004-02-07,2,5,BOSTON CELTICS,AWAY,PHILADELPHIA 76ERS,WIN,235,1,2,0,0,0,2,0,0,0,0,0,0,0,0.2
+True,2004-02-12,4,10,BOSTON CELTICS,AWAY,CHICAGO BULLS,LOSS,395,1,2,0,0,2,2,0,3,1,0,2,1,0,5.0
+True,2004-03-01,0,-5,BOSTON CELTICS,HOME,ORLANDO MAGIC,WIN,132,0,1,0,0,0,0,0,1,0,0,0,1,1,-1.8
+True,2004-03-12,4,-1,BOSTON CELTICS,HOME,INDIANA PACERS,LOSS,228,2,3,0,0,0,0,1,2,0,0,0,1,1,2.6
+True,2004-03-19,2,0,BOSTON CELTICS,AWAY,DALLAS MAVERICKS,LOSS,150,1,1,0,0,0,0,1,2,0,0,0,0,0,3.0
+True,2004-03-28,2,1,BOSTON CELTICS,HOME,PHILADELPHIA 76ERS,WIN,88,1,1,0,0,0,0,0,0,2,0,0,0,0,3.1

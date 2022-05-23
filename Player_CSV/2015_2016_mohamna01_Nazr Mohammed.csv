@@ -1,0 +1,6 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2016-03-09,0,0,OKLAHOMA CITY THUNDER,HOME,LOS ANGELES CLIPPERS,WIN,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2016-03-14,2,1,OKLAHOMA CITY THUNDER,HOME,PORTLAND TRAIL BLAZERS,WIN,408,1,2,0,0,0,0,0,1,0,0,0,2,2,-1.5
+True,2016-03-16,2,4,OKLAHOMA CITY THUNDER,AWAY,BOSTON CELTICS,WIN,121,1,1,0,0,0,0,0,1,0,0,0,0,0,2.0
+True,2016-03-24,2,-3,OKLAHOMA CITY THUNDER,HOME,UTAH JAZZ,WIN,249,0,0,0,0,2,2,0,0,0,0,0,0,1,1.6
+True,2016-04-05,2,-5,OKLAHOMA CITY THUNDER,AWAY,DENVER NUGGETS,WIN,332,1,2,0,0,0,0,1,1,0,0,0,1,1,0.6

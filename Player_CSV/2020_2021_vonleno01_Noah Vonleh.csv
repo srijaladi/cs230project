@@ -1,0 +1,5 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2021-02-09,0,3,BROOKLYN NETS,AWAY,DETROIT PISTONS,LOSS,151,0,0,0,0,0,0,0,0,0,0,0,0,1,-0.4
+True,2021-02-10,0,-6,BROOKLYN NETS,HOME,INDIANA PACERS,WIN,114,0,0,0,0,0,0,0,0,0,0,0,1,1,-1.4
+True,2021-02-13,0,-4,BROOKLYN NETS,AWAY,GOLDEN STATE WARRIORS,WIN,193,0,2,0,1,0,0,0,1,1,0,0,1,0,-1.4
+True,2021-02-18,0,-9,BROOKLYN NETS,AWAY,LOS ANGELES LAKERS,WIN,188,0,1,0,1,0,0,0,0,0,0,0,0,0,-0.7

@@ -1,0 +1,9 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2008-02-24,4,2,PHOENIX SUNS,HOME,DETROIT PISTONS,LOSS,720,2,4,0,0,0,0,2,1,1,0,1,0,1,4.7
+True,2008-02-26,0,-5,PHOENIX SUNS,AWAY,MEMPHIS GRIZZLIES,WIN,122,0,0,0,0,0,0,1,0,0,0,0,0,1,0.3
+True,2008-02-27,5,-2,PHOENIX SUNS,AWAY,NEW ORLEANS HORNETS,LOSS,1451,2,5,1,2,0,0,1,6,1,0,0,1,5,2.5
+True,2008-03-01,0,-5,PHOENIX SUNS,HOME,PHILADELPHIA 76ERS,LOSS,97,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2008-03-05,0,1,PHOENIX SUNS,AWAY,DENVER NUGGETS,LOSS,283,0,0,0,0,0,0,0,0,0,0,0,1,2,-1.8
+True,2008-03-11,6,-10,PHOENIX SUNS,HOME,MEMPHIS GRIZZLIES,WIN,534,3,5,0,0,0,0,1,1,1,0,0,0,1,5.0
+True,2008-03-30,6,12,TORONTO RAPTORS,HOME,NEW ORLEANS HORNETS,LOSS,466,2,4,0,1,2,2,0,1,1,0,0,1,1,3.6
+True,2008-03-31,0,-5,TORONTO RAPTORS,AWAY,CHARLOTTE BOBCATS,WIN,111,0,1,0,0,0,0,0,0,0,0,0,2,0,-2.7

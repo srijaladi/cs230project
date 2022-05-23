@@ -1,0 +1,5 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2004-03-02,0,-3,GOLDEN STATE WARRIORS,HOME,INDIANA PACERS,LOSS,385,0,1,0,0,0,0,0,2,0,1,0,1,2,-0.9
+True,2004-03-07,1,-11,GOLDEN STATE WARRIORS,HOME,MEMPHIS GRIZZLIES,LOSS,533,0,1,0,0,1,2,0,1,2,1,0,2,0,0.6
+True,2004-03-09,3,1,GOLDEN STATE WARRIORS,AWAY,SACRAMENTO KINGS,LOSS,21,1,1,1,1,0,0,0,0,0,0,0,0,0,2.7
+True,2004-03-10,0,-4,GOLDEN STATE WARRIORS,AWAY,UTAH JAZZ,LOSS,205,0,0,0,0,0,0,0,0,0,0,0,1,0,-1.0

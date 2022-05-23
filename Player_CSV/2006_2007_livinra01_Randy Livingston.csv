@@ -1,0 +1,5 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2007-04-11,0,-16,SEATTLE SUPERSONICS,AWAY,PHOENIX SUNS,LOSS,367,0,1,0,0,0,0,0,0,0,0,0,0,1,-1.1
+True,2007-04-14,0,-13,SEATTLE SUPERSONICS,AWAY,PORTLAND TRAIL BLAZERS,LOSS,444,0,1,0,0,0,0,1,0,0,0,0,0,1,-0.4
+True,2007-04-15,0,-6,SEATTLE SUPERSONICS,AWAY,LOS ANGELES LAKERS,LOSS,132,0,0,0,0,0,0,0,0,0,0,0,1,0,-1.0
+True,2007-04-18,0,-7,SEATTLE SUPERSONICS,HOME,DALLAS MAVERICKS,LOSS,606,0,1,0,0,0,0,0,0,4,0,0,0,0,2.1

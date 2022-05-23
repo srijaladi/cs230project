@@ -1,0 +1,6 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2002-12-03,0,3,WASHINGTON WIZARDS,HOME,MILWAUKEE BUCKS,WIN,109,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2002-12-10,2,4,WASHINGTON WIZARDS,HOME,PORTLAND TRAIL BLAZERS,LOSS,377,1,4,0,1,0,0,3,0,1,0,0,1,0,1.4
+True,2002-12-18,2,2,WASHINGTON WIZARDS,HOME,MEMPHIS GRIZZLIES,WIN,110,0,0,0,0,2,2,0,0,0,0,0,0,0,2.0
+True,2002-12-30,0,0,WASHINGTON WIZARDS,AWAY,ORLANDO MAGIC,LOSS,108,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2003-01-02,0,3,WASHINGTON WIZARDS,AWAY,CHICAGO BULLS,WIN,157,0,0,0,0,0,0,0,2,0,0,0,0,0,0.6

@@ -1,0 +1,5 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2009-02-03,0,2,CLEVELAND CAVALIERS,HOME,TORONTO RAPTORS,WIN,129,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7
+True,2009-02-11,4,-2,CLEVELAND CAVALIERS,HOME,PHOENIX SUNS,WIN,558,0,4,0,0,4,4,0,1,0,0,0,1,1,0.1
+True,2009-02-24,0,-3,CLEVELAND CAVALIERS,HOME,MEMPHIS GRIZZLIES,WIN,93,0,0,0,0,0,0,0,0,0,0,0,0,1,-0.4
+True,2009-02-27,0,-9,CLEVELAND CAVALIERS,AWAY,SAN ANTONIO SPURS,WIN,68,0,0,0,0,0,0,0,0,0,0,0,0,2,-0.8

@@ -1,0 +1,9 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2016-02-20,0,10,LOS ANGELES CLIPPERS,HOME,GOLDEN STATE WARRIORS,LOSS,99,0,0,0,0,0,0,0,1,0,0,0,0,0,0.3
+True,2016-02-22,2,-2,LOS ANGELES CLIPPERS,HOME,PHOENIX SUNS,WIN,423,1,1,0,0,0,0,1,0,0,0,1,0,3,1.9
+True,2016-03-07,0,-4,LOS ANGELES CLIPPERS,AWAY,DALLAS MAVERICKS,WIN,113,0,0,0,0,0,2,0,0,0,0,1,0,1,-0.5
+True,2016-03-09,0,0,LOS ANGELES CLIPPERS,AWAY,OKLAHOMA CITY THUNDER,LOSS,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2016-03-12,4,11,MEMPHIS GRIZZLIES,AWAY,ATLANTA HAWKS,LOSS,1117,1,5,0,0,2,2,2,4,2,1,2,0,0,7.3
+True,2016-03-14,12,-15,MEMPHIS GRIZZLIES,AWAY,HOUSTON ROCKETS,LOSS,1517,5,17,0,0,2,8,13,2,0,0,0,0,6,7.0
+True,2016-03-16,0,0,MEMPHIS GRIZZLIES,HOME,MINNESOTA TIMBERWOLVES,LOSS,327,0,0,0,0,0,0,0,1,0,0,0,0,1,-0.1
+True,2016-03-17,4,-2,MEMPHIS GRIZZLIES,AWAY,MILWAUKEE BUCKS,LOSS,676,2,4,0,0,0,0,3,1,0,0,1,0,1,4.7

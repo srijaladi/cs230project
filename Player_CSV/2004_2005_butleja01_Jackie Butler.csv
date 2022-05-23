@@ -1,0 +1,4 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2005-03-21,2,-1,NEW YORK KNICKS,HOME,SAN ANTONIO SPURS,WIN,55,1,1,0,0,0,0,0,0,0,0,0,0,0,1.7
+True,2005-03-23,6,3,NEW YORK KNICKS,HOME,BOSTON CELTICS,WIN,109,2,2,0,0,2,2,0,0,0,1,0,0,0,6.4
+True,2005-04-05,2,-1,NEW YORK KNICKS,HOME,INDIANA PACERS,LOSS,99,1,1,0,0,0,0,0,0,0,0,0,1,0,0.7

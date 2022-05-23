@@ -1,0 +1,4 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2017-03-01,0,0,DALLAS MAVERICKS,AWAY,ATLANTA HAWKS,LOSS,269,0,0,0,0,0,0,0,0,0,0,0,0,1,-0.4
+True,2017-03-05,0,-2,DALLAS MAVERICKS,HOME,OKLAHOMA CITY THUNDER,WIN,155,0,0,0,0,0,0,0,2,0,0,0,1,0,-0.4
+True,2017-03-07,0,-10,DALLAS MAVERICKS,HOME,LOS ANGELES LAKERS,WIN,168,0,3,0,1,0,0,0,0,0,0,0,0,0,-2.1

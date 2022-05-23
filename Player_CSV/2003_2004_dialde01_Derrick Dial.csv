@@ -1,0 +1,10 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2003-11-17,5,7,ORLANDO MAGIC,AWAY,UTAH JAZZ,LOSS,837,1,3,1,2,2,2,0,0,0,2,0,0,1,4.9
+True,2003-11-20,4,6,ORLANDO MAGIC,AWAY,PHOENIX SUNS,LOSS,538,2,4,0,1,0,0,1,1,0,1,0,0,1,3.6
+True,2003-11-21,0,-3,ORLANDO MAGIC,AWAY,SACRAMENTO KINGS,LOSS,186,0,1,0,0,0,0,1,0,0,0,0,0,1,-0.4
+True,2003-11-24,0,0,ORLANDO MAGIC,HOME,INDIANA PACERS,LOSS,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2004-04-02,0,-7,ORLANDO MAGIC,HOME,ATLANTA HAWKS,LOSS,98,0,0,0,0,0,0,0,0,0,0,0,0,1,-0.4
+True,2004-04-06,5,-2,ORLANDO MAGIC,AWAY,DETROIT PISTONS,LOSS,877,2,4,1,1,0,0,0,1,1,1,0,1,1,3.6
+True,2004-04-10,4,5,ORLANDO MAGIC,HOME,DETROIT PISTONS,LOSS,651,2,3,0,0,0,0,1,0,0,0,0,0,0,3.4
+True,2004-04-12,4,0,ORLANDO MAGIC,AWAY,CHICAGO BULLS,WIN,1343,0,9,0,3,4,6,2,4,1,2,0,0,1,1.8
+True,2004-04-14,4,7,ORLANDO MAGIC,HOME,PHILADELPHIA 76ERS,WIN,430,2,4,0,2,0,0,0,2,0,0,0,0,0,2.6

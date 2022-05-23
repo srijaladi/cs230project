@@ -1,0 +1,6 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2019-11-17,0,-10,ATLANTA HAWKS,AWAY,LOS ANGELES LAKERS,LOSS,149,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2019-11-22,8,1,ATLANTA HAWKS,AWAY,DETROIT PISTONS,LOSS,988,3,7,2,5,0,0,1,2,0,3,0,1,1,7.2
+True,2019-11-30,3,-16,ATLANTA HAWKS,AWAY,HOUSTON ROCKETS,LOSS,980,1,5,1,5,0,0,0,1,2,1,0,0,2,1.8
+True,2019-12-11,3,-4,ATLANTA HAWKS,AWAY,CHICAGO BULLS,LOSS,479,1,2,1,2,0,0,0,2,0,0,0,1,0,1.6
+True,2019-12-27,0,-11,ATLANTA HAWKS,HOME,MILWAUKEE BUCKS,LOSS,657,0,4,0,2,0,0,0,1,1,0,1,1,0,-2.1

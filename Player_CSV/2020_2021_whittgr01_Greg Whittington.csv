@@ -1,0 +1,5 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2021-02-27,0,-3,DENVER NUGGETS,AWAY,OKLAHOMA CITY THUNDER,WIN,352,0,2,0,2,0,0,0,0,0,0,0,0,0,-1.4
+True,2021-03-02,0,10,DENVER NUGGETS,AWAY,MILWAUKEE BUCKS,WIN,136,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2021-03-13,0,4,DENVER NUGGETS,HOME,DALLAS MAVERICKS,LOSS,144,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7
+True,2021-03-15,0,-2,DENVER NUGGETS,HOME,INDIANA PACERS,WIN,89,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

@@ -1,0 +1,6 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2021-01-08,4,4,MEMPHIS GRIZZLIES,HOME,BROOKLYN NETS,WIN,606,2,2,0,0,0,0,0,1,3,0,0,2,0,3.8
+True,2021-01-11,0,-12,MEMPHIS GRIZZLIES,AWAY,CLEVELAND CAVALIERS,WIN,647,0,3,0,1,0,0,0,2,2,0,0,1,1,-1.5
+True,2021-01-13,0,14,MEMPHIS GRIZZLIES,AWAY,MINNESOTA TIMBERWOLVES,WIN,697,0,3,0,1,0,0,0,1,2,1,0,0,3,-0.6
+True,2021-05-11,0,6,MEMPHIS GRIZZLIES,HOME,DALLAS MAVERICKS,WIN,313,0,1,0,1,0,0,0,1,2,0,1,0,0,1.7
+True,2021-05-14,4,-7,MEMPHIS GRIZZLIES,HOME,SACRAMENTO KINGS,WIN,1455,1,11,0,5,2,6,0,3,7,1,0,1,3,-0.3

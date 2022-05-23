@@ -1,0 +1,5 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2010-11-14,0,3,OKLAHOMA CITY THUNDER,HOME,SAN ANTONIO SPURS,LOSS,93,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2010-11-19,0,-1,OKLAHOMA CITY THUNDER,AWAY,BOSTON CELTICS,WIN,308,0,0,0,0,0,0,0,0,0,0,0,0,1,-0.4
+True,2010-12-03,2,6,OKLAHOMA CITY THUNDER,AWAY,TORONTO RAPTORS,LOSS,560,1,3,0,0,0,0,0,3,1,0,0,0,1,1.5
+True,2010-12-12,2,0,OKLAHOMA CITY THUNDER,HOME,CLEVELAND CAVALIERS,WIN,415,1,2,0,1,0,0,0,0,0,0,0,0,3,-0.2

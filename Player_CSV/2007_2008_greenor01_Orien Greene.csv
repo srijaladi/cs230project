@@ -1,0 +1,8 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2007-10-31,2,7,SACRAMENTO KINGS,AWAY,NEW ORLEANS HORNETS,LOSS,995,1,2,0,0,0,0,0,1,1,1,0,2,4,-0.6
+True,2007-11-02,0,-9,SACRAMENTO KINGS,AWAY,SAN ANTONIO SPURS,LOSS,948,0,2,0,0,0,0,0,1,1,0,0,2,3,-3.6
+True,2007-11-03,2,-8,SACRAMENTO KINGS,AWAY,DALLAS MAVERICKS,LOSS,561,1,3,0,0,0,0,0,0,0,1,0,1,1,-0.1
+True,2007-11-06,0,-7,SACRAMENTO KINGS,HOME,SEATTLE SUPERSONICS,WIN,409,0,1,0,1,0,0,0,2,1,1,0,1,1,0.2
+True,2007-11-09,2,-1,SACRAMENTO KINGS,HOME,CLEVELAND CAVALIERS,LOSS,392,1,2,0,0,0,0,0,0,0,0,0,1,0,0.0
+True,2007-11-10,0,0,SACRAMENTO KINGS,HOME,MINNESOTA TIMBERWOLVES,WIN,157,0,0,0,0,0,0,0,0,0,0,1,0,0,0.7
+True,2007-11-12,0,-2,SACRAMENTO KINGS,AWAY,UTAH JAZZ,LOSS,180,0,1,0,0,0,0,0,2,0,0,0,0,0,-0.1

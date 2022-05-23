@@ -1,0 +1,6 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2021-02-19,0,-9,TORONTO RAPTORS,AWAY,MINNESOTA TIMBERWOLVES,WIN,413,0,0,0,0,0,0,0,0,1,0,0,0,1,0.3
+True,2021-02-24,0,-8,TORONTO RAPTORS,AWAY,MIAMI HEAT,LOSS,503,0,0,0,0,0,0,0,0,2,0,0,0,1,1.0
+True,2021-02-26,0,2,TORONTO RAPTORS,HOME,HOUSTON ROCKETS,WIN,254,0,0,0,0,0,0,1,0,1,0,0,0,1,1.0
+True,2021-03-21,5,2,TORONTO RAPTORS,AWAY,CLEVELAND CAVALIERS,LOSS,584,1,1,0,0,3,3,0,2,0,2,0,0,2,6.5
+True,2021-03-22,0,-5,TORONTO RAPTORS,AWAY,HOUSTON ROCKETS,LOSS,248,0,0,0,0,0,0,0,0,0,0,0,0,1,-0.4

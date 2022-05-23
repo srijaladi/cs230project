@@ -1,0 +1,11 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2005-11-30,0,0,PHOENIX SUNS,HOME,INDIANA PACERS,WIN,127,0,1,0,1,0,0,0,0,0,0,0,0,1,-1.1
+True,2005-12-04,1,-15,PHOENIX SUNS,HOME,ATLANTA HAWKS,WIN,429,0,3,0,1,1,1,0,0,0,0,0,1,2,-2.9
+True,2005-12-06,10,2,PHOENIX SUNS,HOME,PORTLAND TRAIL BLAZERS,WIN,458,4,6,2,2,0,0,2,2,0,0,0,1,3,7.2
+True,2005-12-12,0,0,PHOENIX SUNS,HOME,NEW ORLEANS/OKLAHOMA CITY HORNETS,LOSS,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2005-12-20,2,5,PHOENIX SUNS,HOME,SEATTLE SUPERSONICS,WIN,222,1,2,0,1,0,0,0,2,1,1,0,0,0,3.3
+True,2006-01-04,5,-5,PHOENIX SUNS,HOME,PHILADELPHIA 76ERS,WIN,302,2,5,1,3,0,0,0,0,0,1,1,0,0,4.0
+True,2006-01-06,0,-1,PHOENIX SUNS,HOME,MIAMI HEAT,WIN,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2006-01-17,5,4,PHOENIX SUNS,AWAY,SACRAMENTO KINGS,LOSS,514,2,5,0,1,1,1,1,1,0,1,0,0,0,4.3
+True,2006-01-31,2,1,PHOENIX SUNS,AWAY,PHILADELPHIA 76ERS,WIN,181,1,1,0,0,0,0,0,0,0,0,0,0,0,1.7
+True,2006-02-04,3,-3,PHOENIX SUNS,HOME,CHICAGO BULLS,WIN,167,1,2,1,2,0,0,1,2,0,0,0,0,0,3.3

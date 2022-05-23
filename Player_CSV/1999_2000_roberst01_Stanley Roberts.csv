@@ -1,0 +1,6 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,1999-11-12,2,4,PHILADELPHIA 76ERS,HOME,CHICAGO BULLS,WIN,741,1,2,0,0,0,1,1,2,0,1,1,1,3,1.4
+True,1999-11-14,0,-14,PHILADELPHIA 76ERS,AWAY,TORONTO RAPTORS,WIN,442,0,2,0,1,0,0,0,0,0,0,0,1,4,-4.0
+True,1999-11-16,2,-1,PHILADELPHIA 76ERS,AWAY,WASHINGTON WIZARDS,WIN,626,1,3,0,0,0,0,1,2,1,0,0,0,3,1.1
+True,1999-11-17,2,1,PHILADELPHIA 76ERS,HOME,MIAMI HEAT,LOSS,500,1,3,0,0,0,2,2,1,0,0,0,0,3,0.0
+True,1999-11-19,4,-7,PHILADELPHIA 76ERS,HOME,PORTLAND TRAIL BLAZERS,LOSS,823,2,6,0,0,0,0,2,4,2,0,0,0,2,3.8

@@ -1,0 +1,6 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2017-04-04,0,-1,ORLANDO MAGIC,AWAY,CLEVELAND CAVALIERS,LOSS,257,0,1,0,0,0,0,1,0,0,0,0,0,0,0.0
+True,2017-04-06,0,-1,ORLANDO MAGIC,HOME,BROOKLYN NETS,WIN,832,0,4,0,3,0,0,0,2,0,0,0,0,1,-2.6
+True,2017-04-08,0,0,ORLANDO MAGIC,HOME,INDIANA PACERS,LOSS,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2017-04-10,0,-14,ORLANDO MAGIC,AWAY,CHICAGO BULLS,LOSS,720,0,1,0,1,0,0,0,4,0,0,0,1,1,-0.9
+True,2017-04-12,0,2,ORLANDO MAGIC,HOME,DETROIT PISTONS,WIN,694,0,1,0,1,0,0,0,0,0,0,0,2,2,-3.5

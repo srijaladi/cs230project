@@ -1,0 +1,9 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2016-12-27,7,8,DALLAS MAVERICKS,HOME,HOUSTON ROCKETS,LOSS,635,2,5,1,2,2,2,0,1,2,0,0,2,0,4.0
+True,2016-12-30,3,13,DALLAS MAVERICKS,AWAY,GOLDEN STATE WARRIORS,LOSS,720,1,6,0,1,1,1,0,1,5,1,0,0,1,3.6
+True,2017-01-03,2,5,DALLAS MAVERICKS,HOME,WASHINGTON WIZARDS,WIN,198,0,1,0,0,2,2,0,0,0,0,0,0,1,0.9
+True,2017-01-05,0,-5,DALLAS MAVERICKS,HOME,PHOENIX SUNS,LOSS,149,0,2,0,0,0,0,0,0,0,0,0,1,1,-2.8
+True,2017-01-15,0,-2,DALLAS MAVERICKS,HOME,MINNESOTA TIMBERWOLVES,WIN,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2017-01-22,10,28,DALLAS MAVERICKS,HOME,LOS ANGELES LAKERS,WIN,1088,4,9,1,3,1,1,0,2,5,1,0,0,1,10.0
+True,2017-01-25,4,1,DALLAS MAVERICKS,HOME,NEW YORK KNICKS,WIN,1462,2,8,0,4,0,1,0,3,3,0,0,0,0,1.8
+True,2017-01-26,9,7,DALLAS MAVERICKS,AWAY,OKLAHOMA CITY THUNDER,LOSS,782,4,8,1,1,0,0,1,1,4,0,0,0,1,8.4

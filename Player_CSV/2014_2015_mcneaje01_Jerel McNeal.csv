@@ -1,0 +1,7 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2015-04-02,2,0,PHOENIX SUNS,AWAY,GOLDEN STATE WARRIORS,LOSS,168,1,2,0,1,0,0,0,0,0,0,0,0,2,0.2
+True,2015-04-04,0,0,PHOENIX SUNS,HOME,UTAH JAZZ,WIN,612,0,2,0,0,0,0,0,1,1,0,1,2,2,-2.5
+True,2015-04-07,0,-6,PHOENIX SUNS,AWAY,ATLANTA HAWKS,LOSS,269,0,1,0,0,0,0,0,1,0,0,0,1,0,-1.4
+True,2015-04-10,0,2,PHOENIX SUNS,AWAY,NEW ORLEANS PELICANS,LOSS,110,0,1,0,0,0,0,0,0,1,0,0,0,0,0.0
+True,2015-04-12,0,3,PHOENIX SUNS,AWAY,SAN ANTONIO SPURS,LOSS,144,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7
+True,2015-04-14,7,-2,PHOENIX SUNS,HOME,LOS ANGELES CLIPPERS,LOSS,877,2,4,1,1,2,2,0,1,0,3,0,2,1,5.9

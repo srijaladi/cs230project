@@ -1,0 +1,8 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2000-03-10,0,-3,CHARLOTTE HORNETS,AWAY,LOS ANGELES CLIPPERS,WIN,155,0,0,0,0,0,0,0,2,1,0,0,0,0,1.3
+True,2000-03-18,0,0,CHARLOTTE HORNETS,AWAY,INDIANA PACERS,LOSS,102,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2000-03-22,0,0,CHARLOTTE HORNETS,HOME,NEW JERSEY NETS,WIN,98,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2000-03-25,0,-3,CHARLOTTE HORNETS,AWAY,ATLANTA HAWKS,WIN,142,0,0,0,0,0,0,0,0,0,0,0,0,1,-0.4
+True,2000-04-07,4,6,CHARLOTTE HORNETS,HOME,DETROIT PISTONS,LOSS,740,2,4,0,2,0,0,0,1,2,0,0,0,0,3.7
+True,2000-04-12,3,0,CHARLOTTE HORNETS,HOME,ATLANTA HAWKS,WIN,261,1,2,1,2,0,0,0,0,1,0,0,0,0,2.7
+True,2000-04-18,0,-2,CHARLOTTE HORNETS,AWAY,CLEVELAND CAVALIERS,WIN,200,0,1,0,0,0,0,0,1,1,0,0,0,0,0.3

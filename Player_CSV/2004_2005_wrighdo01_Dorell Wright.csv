@@ -1,0 +1,4 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2005-02-05,0,-8,MIAMI HEAT,HOME,CHICAGO BULLS,WIN,105,0,2,0,1,0,0,0,0,0,0,0,0,0,-1.4
+True,2005-04-19,0,2,MIAMI HEAT,HOME,CHARLOTTE BOBCATS,WIN,210,0,2,0,1,0,0,0,1,1,1,0,2,2,-2.2
+True,2005-04-20,7,-1,MIAMI HEAT,AWAY,ORLANDO MAGIC,WIN,1349,3,7,0,2,1,1,0,0,2,3,0,1,0,6.7

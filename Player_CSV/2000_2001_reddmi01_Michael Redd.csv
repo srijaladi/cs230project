@@ -1,0 +1,7 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2000-11-02,0,-2,MILWAUKEE BUCKS,AWAY,HOUSTON ROCKETS,LOSS,157,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7
+True,2000-11-04,0,-6,MILWAUKEE BUCKS,HOME,DETROIT PISTONS,WIN,119,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7
+True,2000-11-17,0,-2,MILWAUKEE BUCKS,HOME,CLEVELAND CAVALIERS,WIN,68,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7
+True,2000-11-24,8,10,MILWAUKEE BUCKS,HOME,CHARLOTTE HORNETS,LOSS,422,3,4,0,0,2,4,0,0,0,1,0,0,1,6.2
+True,2000-11-30,0,-3,MILWAUKEE BUCKS,HOME,BOSTON CELTICS,WIN,101,0,1,0,1,0,0,1,0,0,0,0,0,0,0.0
+True,2001-04-17,5,-5,MILWAUKEE BUCKS,AWAY,MIAMI HEAT,LOSS,1236,2,11,0,2,1,2,2,1,1,0,0,1,1,-1.3

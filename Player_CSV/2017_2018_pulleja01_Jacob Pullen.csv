@@ -1,0 +1,4 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2017-11-20,0,0,PHILADELPHIA 76ERS,HOME,UTAH JAZZ,WIN,54,0,1,0,1,0,0,0,0,0,0,0,0,0,-0.7
+True,2017-11-25,0,0,PHILADELPHIA 76ERS,HOME,ORLANDO MAGIC,WIN,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2017-12-23,2,0,PHILADELPHIA 76ERS,AWAY,TORONTO RAPTORS,LOSS,221,1,1,0,0,0,0,0,0,0,0,0,1,0,0.7

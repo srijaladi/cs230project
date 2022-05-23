@@ -1,0 +1,4 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2019-03-05,1,-4,PHILADELPHIA 76ERS,HOME,ORLANDO MAGIC,WIN,538,0,3,0,2,1,2,1,3,3,0,0,0,2,1.4
+True,2019-03-08,4,0,PHILADELPHIA 76ERS,AWAY,HOUSTON ROCKETS,LOSS,629,2,3,0,0,0,0,0,1,0,2,0,0,3,3.8
+True,2019-03-10,0,1,PHILADELPHIA 76ERS,HOME,INDIANA PACERS,WIN,69,0,1,0,0,0,0,1,0,0,0,0,0,0,0.0

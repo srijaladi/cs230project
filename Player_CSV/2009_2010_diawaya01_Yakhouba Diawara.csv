@@ -1,0 +1,7 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2009-10-30,0,3,MIAMI HEAT,AWAY,INDIANA PACERS,WIN,336,0,0,0,0,0,0,0,0,0,0,0,0,2,-0.8
+True,2009-12-13,0,-10,MIAMI HEAT,HOME,MEMPHIS GRIZZLIES,LOSS,553,0,1,0,1,0,0,0,0,1,1,0,1,1,-0.4
+True,2009-12-15,2,3,MIAMI HEAT,HOME,TORONTO RAPTORS,WIN,1222,1,5,0,2,0,0,1,2,2,0,0,2,3,-1.6
+True,2010-03-12,0,-5,MIAMI HEAT,HOME,CHICAGO BULLS,WIN,112,0,1,0,1,0,0,0,0,0,0,0,0,1,-1.1
+True,2010-03-31,0,-2,MIAMI HEAT,AWAY,DETROIT PISTONS,WIN,143,0,1,0,0,0,0,0,0,0,0,0,0,1,-1.1
+True,2010-04-14,3,8,MIAMI HEAT,HOME,NEW JERSEY NETS,WIN,300,1,2,1,2,0,0,0,1,0,0,0,0,0,2.3

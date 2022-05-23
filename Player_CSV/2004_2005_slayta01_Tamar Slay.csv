@@ -1,0 +1,9 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2004-11-04,0,0,CHARLOTTE BOBCATS,HOME,WASHINGTON WIZARDS,LOSS,281,0,1,0,0,0,2,0,1,0,0,0,2,2,-4.0
+True,2004-11-12,4,-6,CHARLOTTE BOBCATS,AWAY,BOSTON CELTICS,LOSS,410,2,3,0,1,0,0,1,1,0,0,0,3,2,-0.1
+True,2004-11-13,9,-3,CHARLOTTE BOBCATS,HOME,GOLDEN STATE WARRIORS,LOSS,671,4,8,1,3,0,0,1,4,0,1,0,1,5,4.9
+True,2004-11-30,0,2,CHARLOTTE BOBCATS,AWAY,NEW JERSEY NETS,LOSS,210,0,1,0,1,0,0,1,1,0,0,0,0,0,0.3
+True,2004-12-04,0,-4,CHARLOTTE BOBCATS,HOME,NEW YORK KNICKS,WIN,245,0,1,0,0,0,0,0,0,1,1,0,1,1,-0.4
+True,2004-12-06,7,1,CHARLOTTE BOBCATS,AWAY,LOS ANGELES CLIPPERS,LOSS,978,3,7,1,1,0,0,0,1,0,3,0,0,1,6.2
+True,2004-12-07,0,-16,CHARLOTTE BOBCATS,AWAY,SACRAMENTO KINGS,LOSS,681,0,7,0,2,0,0,1,0,0,0,0,1,5,-7.2
+True,2004-12-10,8,6,CHARLOTTE BOBCATS,AWAY,PHOENIX SUNS,LOSS,1165,4,11,0,4,0,0,2,0,2,0,0,0,4,3.1

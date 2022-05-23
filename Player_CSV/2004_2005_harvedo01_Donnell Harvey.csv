@@ -1,0 +1,4 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2005-02-02,6,5,NEW JERSEY NETS,AWAY,BOSTON CELTICS,LOSS,655,1,1,0,0,4,4,1,3,1,1,0,1,2,7.2
+True,2005-02-05,2,0,NEW JERSEY NETS,HOME,DETROIT PISTONS,WIN,209,1,1,0,0,0,0,1,1,0,0,1,0,0,3.4
+True,2005-02-13,0,-1,NEW JERSEY NETS,HOME,DENVER NUGGETS,WIN,114,0,0,0,0,0,0,0,1,0,0,0,0,0,0.3

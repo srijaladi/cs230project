@@ -1,0 +1,9 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2004-11-03,0,-7,PHILADELPHIA 76ERS,AWAY,BOSTON CELTICS,WIN,345,0,1,0,1,0,0,0,2,1,0,0,1,1,-0.8
+True,2004-11-10,0,-5,PHILADELPHIA 76ERS,HOME,NEW JERSEY NETS,WIN,144,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2005-01-19,0,4,PHILADELPHIA 76ERS,AWAY,CHARLOTTE BOBCATS,WIN,480,0,0,0,0,0,0,1,1,1,0,0,1,1,0.3
+True,2005-01-22,2,-9,PHILADELPHIA 76ERS,AWAY,ORLANDO MAGIC,LOSS,336,0,0,0,0,2,2,0,1,0,0,1,1,0,2.0
+True,2005-01-24,1,-3,PHILADELPHIA 76ERS,HOME,MIAMI HEAT,WIN,692,0,1,0,0,1,2,0,2,1,1,0,1,2,0.4
+True,2005-01-26,4,-7,PHILADELPHIA 76ERS,AWAY,WASHINGTON WIZARDS,LOSS,379,1,1,0,0,2,2,0,1,1,0,0,0,0,4.7
+True,2005-01-28,4,0,PHILADELPHIA 76ERS,AWAY,NEW ORLEANS HORNETS,LOSS,732,1,3,0,2,2,2,0,3,0,2,0,1,0,4.2
+True,2005-02-04,1,-3,PHILADELPHIA 76ERS,HOME,ATLANTA HAWKS,WIN,155,0,0,0,0,1,2,0,0,0,0,0,0,0,0.6

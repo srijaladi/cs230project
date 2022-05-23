@@ -1,0 +1,6 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2017-03-19,13,-22,PHOENIX SUNS,AWAY,DETROIT PISTONS,LOSS,1756,3,8,2,7,5,5,0,2,0,0,0,0,1,8.8
+True,2017-03-21,2,4,PHOENIX SUNS,AWAY,MIAMI HEAT,LOSS,221,1,2,0,1,0,0,1,0,0,0,0,0,0,1.7
+True,2017-03-23,2,-9,PHOENIX SUNS,AWAY,BROOKLYN NETS,LOSS,558,0,0,0,0,2,2,0,2,0,1,0,1,0,2.6
+True,2017-03-26,0,5,PHOENIX SUNS,AWAY,CHARLOTTE HORNETS,LOSS,143,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2017-03-28,7,17,PHOENIX SUNS,AWAY,ATLANTA HAWKS,LOSS,1063,2,9,2,8,1,2,0,2,0,0,0,0,0,1.7

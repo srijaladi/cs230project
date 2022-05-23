@@ -1,0 +1,7 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2014-11-21,2,-7,TORONTO RAPTORS,HOME,MILWAUKEE BUCKS,WIN,525,1,2,0,0,0,2,1,4,0,1,0,2,3,-0.1
+True,2014-12-12,0,-5,TORONTO RAPTORS,HOME,INDIANA PACERS,WIN,124,0,3,0,0,0,0,0,1,0,0,0,0,0,-1.8
+True,2014-12-21,0,-4,TORONTO RAPTORS,HOME,NEW YORK KNICKS,WIN,107,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7
+True,2015-01-02,0,2,TORONTO RAPTORS,AWAY,GOLDEN STATE WARRIORS,LOSS,98,0,0,0,0,0,0,0,1,0,0,0,0,0,0.3
+True,2015-01-04,4,4,TORONTO RAPTORS,AWAY,PHOENIX SUNS,LOSS,341,1,1,0,0,2,2,0,3,1,1,0,0,3,5.1
+True,2015-02-21,0,-2,TORONTO RAPTORS,AWAY,HOUSTON ROCKETS,LOSS,188,0,1,0,0,0,0,1,0,0,0,0,0,0,0.0

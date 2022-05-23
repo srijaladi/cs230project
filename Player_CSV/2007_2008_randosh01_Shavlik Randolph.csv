@@ -1,0 +1,10 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2007-12-07,0,0,PHILADELPHIA 76ERS,HOME,NEW YORK KNICKS,WIN,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2007-12-08,0,7,PHILADELPHIA 76ERS,AWAY,NEW YORK KNICKS,WIN,217,0,2,0,0,0,0,0,1,0,0,0,0,1,-1.5
+True,2008-02-29,0,-3,PHILADELPHIA 76ERS,AWAY,GOLDEN STATE WARRIORS,LOSS,119,0,2,0,0,0,0,2,0,1,0,0,1,0,-0.3
+True,2008-03-09,0,-1,PHILADELPHIA 76ERS,AWAY,MILWAUKEE BUCKS,WIN,213,0,0,0,0,0,0,0,1,1,0,1,1,1,0.3
+True,2008-03-10,0,5,PHILADELPHIA 76ERS,HOME,BOSTON CELTICS,LOSS,139,0,1,0,0,0,0,2,0,0,0,0,0,0,0.7
+True,2008-03-21,6,9,PHILADELPHIA 76ERS,AWAY,ORLANDO MAGIC,LOSS,323,3,5,0,0,0,0,4,0,1,1,0,0,1,7.8
+True,2008-03-28,0,4,PHILADELPHIA 76ERS,HOME,PHOENIX SUNS,LOSS,82,0,0,0,0,0,0,0,0,0,0,1,0,0,0.7
+True,2008-04-11,0,3,PHILADELPHIA 76ERS,HOME,INDIANA PACERS,LOSS,137,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2008-04-16,2,-10,PHILADELPHIA 76ERS,AWAY,CHARLOTTE BOBCATS,LOSS,402,1,4,0,0,0,0,1,0,0,0,1,0,2,0.2

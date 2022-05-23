@@ -1,0 +1,4 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2014-11-26,0,-2,SACRAMENTO KINGS,AWAY,HOUSTON ROCKETS,LOSS,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2014-11-30,0,0,SACRAMENTO KINGS,HOME,MEMPHIS GRIZZLIES,LOSS,74,0,0,0,0,0,0,0,1,0,0,0,0,1,-0.1
+True,2014-12-13,2,3,SACRAMENTO KINGS,HOME,DETROIT PISTONS,LOSS,17,1,1,0,0,0,0,0,0,0,0,0,0,0,1.7

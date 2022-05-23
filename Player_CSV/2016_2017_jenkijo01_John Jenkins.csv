@@ -1,0 +1,5 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2016-11-12,0,-2,PHOENIX SUNS,HOME,BROOKLYN NETS,LOSS,92,0,1,0,1,0,0,0,0,0,0,0,0,0,-0.7
+True,2016-11-19,2,8,PHOENIX SUNS,AWAY,PHILADELPHIA 76ERS,LOSS,245,0,1,0,0,2,2,0,1,0,0,0,0,0,1.6
+True,2016-12-03,2,1,PHOENIX SUNS,AWAY,GOLDEN STATE WARRIORS,LOSS,269,1,2,0,0,0,0,0,0,1,0,0,0,0,1.7
+True,2016-12-15,3,2,PHOENIX SUNS,HOME,SAN ANTONIO SPURS,LOSS,170,1,1,1,1,0,0,0,0,0,0,0,0,0,2.7

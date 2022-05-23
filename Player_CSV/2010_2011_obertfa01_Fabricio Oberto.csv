@@ -1,0 +1,6 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2010-10-26,0,0,PORTLAND TRAIL BLAZERS,HOME,PHOENIX SUNS,WIN,183,0,1,0,0,0,0,0,1,0,0,0,1,2,-2.2
+True,2010-10-27,3,-10,PORTLAND TRAIL BLAZERS,AWAY,LOS ANGELES CLIPPERS,WIN,632,1,1,0,0,1,2,1,2,0,0,0,1,3,1.4
+True,2010-10-30,4,-7,PORTLAND TRAIL BLAZERS,AWAY,NEW YORK KNICKS,WIN,1012,2,3,0,0,0,0,1,0,0,0,0,0,2,2.6
+True,2010-11-01,0,-5,PORTLAND TRAIL BLAZERS,AWAY,CHICAGO BULLS,LOSS,620,0,0,0,0,0,0,1,0,0,0,0,1,3,-1.5
+True,2010-11-02,0,2,PORTLAND TRAIL BLAZERS,AWAY,MILWAUKEE BUCKS,WIN,235,0,0,0,0,0,0,0,1,0,0,0,0,0,0.3

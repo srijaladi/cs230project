@@ -1,0 +1,11 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2003-03-28,14,29,INDIANA PACERS,HOME,CHICAGO BULLS,WIN,1260,5,9,4,8,0,0,0,4,7,3,0,3,1,15.4
+True,2003-03-30,3,-9,INDIANA PACERS,HOME,PHOENIX SUNS,WIN,711,1,5,1,4,0,0,0,1,2,2,0,1,1,2.2
+True,2003-04-01,0,-3,INDIANA PACERS,HOME,SACRAMENTO KINGS,LOSS,580,0,2,0,1,0,0,0,2,2,1,0,0,0,1.6
+True,2003-04-02,0,1,INDIANA PACERS,AWAY,CLEVELAND CAVALIERS,WIN,388,0,3,0,2,0,0,0,0,2,1,0,1,1,-1.1
+True,2003-04-04,0,0,INDIANA PACERS,AWAY,DETROIT PISTONS,WIN,228,0,1,0,1,0,0,0,0,2,0,0,1,1,-0.7
+True,2003-04-06,5,-6,INDIANA PACERS,HOME,MIAMI HEAT,WIN,908,2,6,1,2,0,0,0,2,2,0,0,2,2,0.8
+True,2003-04-11,6,13,INDIANA PACERS,HOME,ORLANDO MAGIC,LOSS,403,3,6,0,2,0,0,0,0,1,1,0,1,0,3.7
+True,2003-04-13,7,4,INDIANA PACERS,AWAY,MILWAUKEE BUCKS,LOSS,1386,2,8,2,6,1,3,1,2,1,1,0,1,2,2.6
+True,2003-04-15,12,12,INDIANA PACERS,AWAY,NEW YORK KNICKS,WIN,973,4,4,3,3,1,1,0,3,4,0,0,1,0,13.5
+True,2003-04-16,2,-4,INDIANA PACERS,HOME,NEW JERSEY NETS,WIN,738,1,5,0,2,0,0,0,0,1,0,0,0,0,-0.4

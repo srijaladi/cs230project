@@ -1,0 +1,7 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2000-12-22,0,-1,GOLDEN STATE WARRIORS,AWAY,SAN ANTONIO SPURS,LOSS,264,0,2,0,0,0,0,0,1,0,0,0,0,0,-1.1
+True,2000-12-23,0,-4,GOLDEN STATE WARRIORS,AWAY,HOUSTON ROCKETS,WIN,210,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2000-12-27,0,14,GOLDEN STATE WARRIORS,HOME,PHILADELPHIA 76ERS,LOSS,654,0,2,0,0,0,0,2,0,1,1,0,0,3,0.5
+True,2000-12-29,2,0,GOLDEN STATE WARRIORS,HOME,UTAH JAZZ,WIN,346,1,2,0,0,0,0,0,0,0,0,0,0,0,1.0
+True,2001-01-11,0,-5,GOLDEN STATE WARRIORS,AWAY,ATLANTA HAWKS,LOSS,226,0,1,0,0,0,0,1,0,0,0,0,1,1,-1.4
+True,2001-01-13,0,-2,GOLDEN STATE WARRIORS,AWAY,ORLANDO MAGIC,LOSS,224,0,1,0,0,0,0,0,1,1,0,0,1,0,-0.7

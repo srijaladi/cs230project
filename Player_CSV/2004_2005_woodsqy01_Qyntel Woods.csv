@@ -1,0 +1,4 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2005-03-31,0,1,MIAMI HEAT,AWAY,INDIANA PACERS,LOSS,648,0,1,0,0,0,0,0,2,0,0,0,1,1,-1.5
+True,2005-04-02,8,0,MIAMI HEAT,AWAY,NEW ORLEANS HORNETS,WIN,1320,4,9,0,0,0,0,1,1,0,4,0,1,4,5.7
+True,2005-04-08,2,-3,MIAMI HEAT,AWAY,MEMPHIS GRIZZLIES,LOSS,403,1,2,0,0,0,0,1,1,0,0,0,0,1,1.6

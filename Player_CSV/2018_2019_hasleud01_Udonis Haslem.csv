@@ -1,0 +1,11 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2018-10-24,0,-7,MIAMI HEAT,HOME,NEW YORK KNICKS,WIN,233,0,2,0,2,0,0,0,1,0,0,0,2,1,-3.5
+True,2018-11-14,2,1,MIAMI HEAT,AWAY,BROOKLYN NETS,WIN,130,1,2,0,0,0,0,0,0,0,0,0,0,1,0.6
+True,2018-12-08,2,2,MIAMI HEAT,AWAY,LOS ANGELES CLIPPERS,WIN,495,1,2,0,0,0,0,1,3,0,0,0,0,1,2.2
+True,2019-02-08,0,0,MIAMI HEAT,AWAY,SACRAMENTO KINGS,LOSS,29,0,0,0,0,0,0,0,1,0,0,0,0,0,0.3
+True,2019-02-27,0,1,MIAMI HEAT,HOME,GOLDEN STATE WARRIORS,WIN,335,0,1,0,1,0,0,0,2,0,0,0,0,0,-0.1
+True,2019-03-02,0,-1,MIAMI HEAT,HOME,BROOKLYN NETS,WIN,226,0,0,0,0,0,0,0,0,0,0,0,0,1,-0.4
+True,2019-03-04,0,-7,MIAMI HEAT,HOME,ATLANTA HAWKS,WIN,246,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2019-03-13,2,2,MIAMI HEAT,HOME,DETROIT PISTONS,WIN,390,1,2,0,1,0,0,0,4,0,0,0,0,0,2.2
+True,2019-04-09,7,-14,MIAMI HEAT,HOME,PHILADELPHIA 76ERS,WIN,603,2,7,0,2,3,4,0,4,0,0,0,1,3,1.5
+True,2019-04-10,12,-9,MIAMI HEAT,AWAY,BROOKLYN NETS,LOSS,1781,6,17,0,6,0,0,2,9,2,0,0,0,2,7.2

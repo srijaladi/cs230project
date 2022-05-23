@@ -1,0 +1,8 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2009-12-11,0,1,ATLANTA HAWKS,AWAY,TORONTO RAPTORS,WIN,138,0,1,0,0,0,0,0,2,0,0,0,0,0,-0.1
+True,2009-12-13,2,0,ATLANTA HAWKS,HOME,NEW JERSEY NETS,WIN,525,1,5,0,0,0,0,2,2,0,0,0,0,1,0.5
+True,2009-12-16,6,-8,ATLANTA HAWKS,HOME,MEMPHIS GRIZZLIES,WIN,470,2,4,0,0,2,2,4,0,0,0,0,1,1,5.4
+True,2009-12-18,3,-10,ATLANTA HAWKS,HOME,UTAH JAZZ,WIN,398,1,2,0,0,1,2,0,1,0,0,0,0,2,1.1
+True,2009-12-22,0,7,ATLANTA HAWKS,AWAY,MINNESOTA TIMBERWOLVES,WIN,188,0,0,0,0,0,0,0,1,0,0,0,1,0,-0.7
+True,2009-12-23,0,-2,ATLANTA HAWKS,AWAY,DENVER NUGGETS,LOSS,101,0,0,0,0,0,0,0,0,0,0,1,1,0,-0.3
+True,2009-12-26,0,-3,ATLANTA HAWKS,AWAY,INDIANA PACERS,WIN,159,0,0,0,0,0,0,0,0,0,0,0,0,1,-0.4

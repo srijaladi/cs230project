@@ -1,0 +1,4 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2018-01-23,0,-4,BOSTON CELTICS,AWAY,LOS ANGELES LAKERS,LOSS,214,0,1,0,1,0,0,0,1,0,0,0,0,0,-0.4
+True,2018-01-24,0,-5,BOSTON CELTICS,AWAY,LOS ANGELES CLIPPERS,WIN,124,0,0,0,0,0,0,0,0,0,1,0,0,0,1.0
+True,2018-03-05,0,10,CHICAGO BULLS,HOME,BOSTON CELTICS,LOSS,179,0,1,0,1,0,0,0,0,0,0,0,0,0,-0.7

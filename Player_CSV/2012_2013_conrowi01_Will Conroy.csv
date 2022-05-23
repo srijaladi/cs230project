@@ -1,0 +1,5 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2012-11-04,0,-14,MINNESOTA TIMBERWOLVES,AWAY,TORONTO RAPTORS,LOSS,483,0,4,0,1,0,0,1,0,0,0,0,0,0,-2.1
+True,2012-11-07,0,-12,MINNESOTA TIMBERWOLVES,HOME,ORLANDO MAGIC,WIN,303,0,3,0,1,0,0,0,0,0,0,0,0,1,-2.5
+True,2012-11-12,1,-4,MINNESOTA TIMBERWOLVES,AWAY,DALLAS MAVERICKS,WIN,211,0,0,0,0,1,2,0,0,0,0,0,0,0,0.6
+True,2012-11-14,0,-10,MINNESOTA TIMBERWOLVES,HOME,CHARLOTTE BOBCATS,LOSS,229,0,2,0,1,0,0,0,0,0,0,0,0,0,-1.4

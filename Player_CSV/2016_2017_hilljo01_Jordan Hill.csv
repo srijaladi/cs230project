@@ -1,0 +1,8 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2016-11-01,4,2,MINNESOTA TIMBERWOLVES,HOME,MEMPHIS GRIZZLIES,WIN,270,2,3,0,0,0,0,2,1,0,0,0,2,3,1.2
+True,2016-11-05,2,4,MINNESOTA TIMBERWOLVES,AWAY,OKLAHOMA CITY THUNDER,LOSS,375,0,0,0,0,2,2,1,2,0,0,0,0,0,3.3
+True,2016-12-09,0,1,MINNESOTA TIMBERWOLVES,HOME,DETROIT PISTONS,LOSS,285,0,0,0,0,0,0,0,0,0,0,0,0,1,-0.4
+True,2016-12-25,4,7,MINNESOTA TIMBERWOLVES,AWAY,OKLAHOMA CITY THUNDER,LOSS,1116,2,7,0,0,0,0,3,3,0,1,0,1,5,0.9
+True,2016-12-26,0,-8,MINNESOTA TIMBERWOLVES,HOME,ATLANTA HAWKS,WIN,331,0,1,0,0,0,0,1,0,0,0,0,0,0,0.0
+True,2017-03-17,0,0,MINNESOTA TIMBERWOLVES,AWAY,MIAMI HEAT,LOSS,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2017-04-04,2,6,MINNESOTA TIMBERWOLVES,AWAY,GOLDEN STATE WARRIORS,LOSS,345,1,2,0,0,0,0,1,0,0,0,0,1,0,0.7

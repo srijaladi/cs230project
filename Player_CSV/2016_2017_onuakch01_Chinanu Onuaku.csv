@@ -1,0 +1,6 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2016-12-26,6,-13,HOUSTON ROCKETS,HOME,PHOENIX SUNS,WIN,501,2,2,0,0,2,2,1,2,1,1,0,0,1,8.0
+True,2017-01-11,0,1,HOUSTON ROCKETS,AWAY,MINNESOTA TIMBERWOLVES,LOSS,89,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2017-04-07,2,0,HOUSTON ROCKETS,HOME,DETROIT PISTONS,LOSS,507,1,2,0,0,0,0,0,0,1,1,1,2,0,1.4
+True,2017-04-09,4,-11,HOUSTON ROCKETS,AWAY,SACRAMENTO KINGS,WIN,720,1,1,0,0,2,2,0,1,1,0,0,0,1,4.3
+True,2017-04-10,2,-22,HOUSTON ROCKETS,AWAY,LOS ANGELES CLIPPERS,LOSS,1279,1,2,0,0,0,0,1,5,0,1,0,2,4,0.6

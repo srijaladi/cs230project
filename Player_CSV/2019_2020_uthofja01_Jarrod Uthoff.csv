@@ -1,0 +1,8 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2020-03-02,0,3,MEMPHIS GRIZZLIES,AWAY,ATLANTA HAWKS,WIN,185,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2020-03-04,0,10,MEMPHIS GRIZZLIES,AWAY,BROOKLYN NETS,WIN,321,0,3,0,2,0,0,0,0,0,1,0,0,1,-1.5
+True,2020-03-06,4,-4,MEMPHIS GRIZZLIES,AWAY,DALLAS MAVERICKS,LOSS,249,1,4,0,2,2,2,1,0,0,0,0,0,0,2.3
+True,2020-03-07,0,0,MEMPHIS GRIZZLIES,HOME,ATLANTA HAWKS,WIN,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2020-08-09,4,-3,WASHINGTON WIZARDS,AWAY,OKLAHOMA CITY THUNDER,LOSS,720,2,3,0,0,0,0,0,2,0,0,0,0,0,3.3
+True,2020-08-11,3,3,WASHINGTON WIZARDS,HOME,MILWAUKEE BUCKS,LOSS,184,1,1,1,1,0,0,0,0,0,0,0,0,0,2.7
+True,2020-08-13,8,1,WASHINGTON WIZARDS,AWAY,BOSTON CELTICS,WIN,1460,3,7,2,4,0,0,1,2,0,0,0,0,1,5.2

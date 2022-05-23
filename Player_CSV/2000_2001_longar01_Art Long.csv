@@ -1,0 +1,10 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2001-02-20,0,-3,SACRAMENTO KINGS,HOME,ATLANTA HAWKS,WIN,156,0,0,0,0,0,0,0,1,0,0,1,1,1,-0.4
+True,2001-02-23,0,-4,SACRAMENTO KINGS,AWAY,TORONTO RAPTORS,WIN,232,0,0,0,0,0,0,0,1,0,0,0,0,0,0.3
+True,2001-02-28,0,-2,SACRAMENTO KINGS,AWAY,GOLDEN STATE WARRIORS,WIN,213,0,1,0,0,0,0,1,1,1,0,0,0,1,0.6
+True,2001-03-07,0,-4,SACRAMENTO KINGS,AWAY,PHOENIX SUNS,WIN,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2001-03-11,0,-1,SACRAMENTO KINGS,HOME,UTAH JAZZ,WIN,45,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7
+True,2001-03-16,0,1,SACRAMENTO KINGS,AWAY,PHILADELPHIA 76ERS,WIN,114,0,1,0,0,0,0,0,1,0,0,0,0,1,-0.8
+True,2001-03-25,0,4,SACRAMENTO KINGS,HOME,LOS ANGELES LAKERS,LOSS,91,0,0,0,0,0,0,1,0,0,0,1,1,1,0.0
+True,2001-03-28,0,2,SACRAMENTO KINGS,AWAY,LOS ANGELES LAKERS,WIN,119,0,1,0,0,0,0,0,0,0,0,1,0,0,0.0
+True,2001-03-30,0,-2,SACRAMENTO KINGS,HOME,MINNESOTA TIMBERWOLVES,WIN,82,0,0,0,0,0,2,0,2,0,0,0,0,1,-0.6

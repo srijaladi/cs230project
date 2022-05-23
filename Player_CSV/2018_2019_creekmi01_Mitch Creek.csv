@@ -1,0 +1,6 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2019-01-25,1,0,BROOKLYN NETS,HOME,NEW YORK KNICKS,WIN,2,0,0,0,0,1,2,0,0,0,0,0,0,0,0.6
+True,2019-01-28,6,6,BROOKLYN NETS,AWAY,BOSTON CELTICS,LOSS,1117,2,5,0,0,2,2,1,4,1,1,0,0,2,6.1
+True,2019-02-02,0,-1,BROOKLYN NETS,AWAY,ORLANDO MAGIC,LOSS,98,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2019-02-04,8,2,BROOKLYN NETS,HOME,MILWAUKEE BUCKS,LOSS,921,3,5,0,1,2,3,4,1,4,0,0,0,1,10.8
+True,2019-04-09,6,-1,MINNESOTA TIMBERWOLVES,HOME,TORONTO RAPTORS,LOSS,691,3,6,0,1,0,0,1,1,1,1,0,1,0,4.7

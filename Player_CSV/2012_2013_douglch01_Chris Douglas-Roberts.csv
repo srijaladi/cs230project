@@ -1,0 +1,7 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2012-12-23,3,1,DALLAS MAVERICKS,AWAY,SAN ANTONIO SPURS,LOSS,572,0,0,0,0,3,4,0,1,1,1,0,1,0,3.6
+True,2012-12-27,4,4,DALLAS MAVERICKS,AWAY,OKLAHOMA CITY THUNDER,LOSS,903,2,5,0,1,0,0,0,1,1,0,0,0,1,1.9
+True,2012-12-28,6,-8,DALLAS MAVERICKS,HOME,DENVER NUGGETS,LOSS,870,2,4,0,1,2,4,0,2,0,0,0,0,0,3.8
+True,2012-12-30,2,-3,DALLAS MAVERICKS,HOME,SAN ANTONIO SPURS,LOSS,986,1,4,0,2,0,0,0,0,1,1,0,0,3,0.1
+True,2013-01-01,2,-7,DALLAS MAVERICKS,AWAY,WASHINGTON WIZARDS,WIN,424,0,1,0,0,2,2,0,1,1,0,0,0,0,2.3
+True,2013-01-02,0,0,DALLAS MAVERICKS,AWAY,MIAMI HEAT,LOSS,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

@@ -1,0 +1,5 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2006-01-06,0,-3,CHICAGO BULLS,AWAY,MILWAUKEE BUCKS,WIN,140,0,0,0,0,0,0,0,0,0,0,0,0,1,-0.4
+True,2006-01-07,2,2,CHICAGO BULLS,HOME,MEMPHIS GRIZZLIES,WIN,396,1,1,0,0,0,0,0,0,0,0,0,0,0,1.7
+True,2006-01-09,0,-2,CHICAGO BULLS,HOME,TORONTO RAPTORS,WIN,25,0,0,0,0,0,0,0,0,0,0,0,0,1,-0.4
+True,2006-01-14,0,2,CHICAGO BULLS,HOME,INDIANA PACERS,LOSS,70,0,0,0,0,0,0,1,0,0,0,0,0,0,0.7

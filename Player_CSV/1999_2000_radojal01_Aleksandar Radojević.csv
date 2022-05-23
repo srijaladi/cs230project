@@ -1,0 +1,4 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,1999-11-02,0,2,TORONTO RAPTORS,HOME,BOSTON CELTICS,LOSS,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2000-04-18,1,-6,TORONTO RAPTORS,AWAY,MIAMI HEAT,LOSS,271,0,2,0,0,1,2,0,0,0,1,0,1,0,-0.8
+True,2000-04-19,6,-4,TORONTO RAPTORS,AWAY,ORLANDO MAGIC,LOSS,1144,2,5,0,0,2,4,2,6,1,1,1,4,5,2.1

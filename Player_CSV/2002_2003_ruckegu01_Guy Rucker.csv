@@ -1,0 +1,4 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2002-11-02,0,-1,GOLDEN STATE WARRIORS,AWAY,UTAH JAZZ,LOSS,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2002-11-05,0,0,GOLDEN STATE WARRIORS,AWAY,SAN ANTONIO SPURS,LOSS,146,0,0,0,0,0,0,0,1,1,0,0,0,1,0.6
+True,2002-11-08,0,-2,GOLDEN STATE WARRIORS,AWAY,NEW ORLEANS HORNETS,LOSS,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

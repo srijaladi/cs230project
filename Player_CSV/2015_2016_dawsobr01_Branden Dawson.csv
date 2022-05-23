@@ -1,0 +1,7 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2015-12-28,0,-8,LOS ANGELES CLIPPERS,AWAY,WASHINGTON WIZARDS,WIN,192,0,1,0,0,0,0,0,0,0,0,1,0,2,-0.8
+True,2016-01-02,2,-6,LOS ANGELES CLIPPERS,HOME,PHILADELPHIA 76ERS,WIN,564,1,2,0,0,0,0,2,1,0,0,0,0,0,2.7
+True,2016-02-18,0,1,LOS ANGELES CLIPPERS,HOME,SAN ANTONIO SPURS,WIN,88,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2016-04-06,0,-5,LOS ANGELES CLIPPERS,AWAY,LOS ANGELES LAKERS,WIN,364,0,0,0,0,0,0,0,1,0,0,0,0,0,0.3
+True,2016-04-08,0,-3,LOS ANGELES CLIPPERS,AWAY,UTAH JAZZ,WIN,133,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2016-04-13,3,6,LOS ANGELES CLIPPERS,AWAY,PHOENIX SUNS,LOSS,391,1,2,0,0,1,1,0,0,0,0,0,0,0,2.0

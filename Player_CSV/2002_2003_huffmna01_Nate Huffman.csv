@@ -1,0 +1,8 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2002-12-08,2,4,TORONTO RAPTORS,HOME,PORTLAND TRAIL BLAZERS,LOSS,137,1,1,0,0,0,0,0,1,0,0,1,0,0,2.7
+True,2002-12-11,3,0,TORONTO RAPTORS,AWAY,CLEVELAND CAVALIERS,LOSS,569,1,6,0,0,1,2,2,3,0,0,0,0,3,-0.1
+True,2002-12-17,10,16,TORONTO RAPTORS,AWAY,MILWAUKEE BUCKS,WIN,1322,4,7,0,0,2,2,3,6,2,0,2,1,2,11.6
+True,2002-12-18,0,-5,TORONTO RAPTORS,AWAY,CHICAGO BULLS,LOSS,741,0,2,0,0,0,0,0,1,3,0,0,1,1,-0.4
+True,2002-12-27,0,-6,TORONTO RAPTORS,AWAY,GOLDEN STATE WARRIORS,LOSS,311,0,0,0,0,0,0,2,0,0,0,0,0,0,1.4
+True,2002-12-29,5,-2,TORONTO RAPTORS,AWAY,LOS ANGELES LAKERS,LOSS,797,2,6,0,0,1,2,2,0,0,0,0,0,4,1.0
+True,2002-12-30,3,-7,TORONTO RAPTORS,AWAY,UTAH JAZZ,LOSS,810,1,3,0,0,1,2,0,3,0,1,0,1,3,0.6

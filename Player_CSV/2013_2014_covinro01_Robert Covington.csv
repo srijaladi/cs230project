@@ -1,0 +1,8 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2014-01-18,0,-2,HOUSTON ROCKETS,HOME,MILWAUKEE BUCKS,WIN,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2014-01-20,0,2,HOUSTON ROCKETS,HOME,PORTLAND TRAIL BLAZERS,WIN,31,0,0,0,0,0,0,0,1,0,0,0,0,0,0.3
+True,2014-01-22,5,-3,HOUSTON ROCKETS,HOME,SACRAMENTO KINGS,WIN,602,2,5,1,4,0,0,0,0,0,1,0,0,1,2.9
+True,2014-01-25,6,8,HOUSTON ROCKETS,AWAY,MEMPHIS GRIZZLIES,LOSS,404,2,4,2,4,0,0,1,0,0,0,0,0,1,4.3
+True,2014-02-05,0,0,HOUSTON ROCKETS,HOME,PHOENIX SUNS,WIN,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2014-04-09,5,15,HOUSTON ROCKETS,AWAY,DENVER NUGGETS,LOSS,665,2,3,1,1,0,0,1,1,0,1,0,1,0,4.7
+True,2014-04-16,0,-3,HOUSTON ROCKETS,AWAY,NEW ORLEANS PELICANS,LOSS,245,0,2,0,2,0,0,0,1,0,0,0,0,1,-1.5

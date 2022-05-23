@@ -1,0 +1,7 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2007-10-30,0,2,SAN ANTONIO SPURS,HOME,PORTLAND TRAIL BLAZERS,WIN,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2007-11-02,5,-8,SAN ANTONIO SPURS,HOME,SACRAMENTO KINGS,WIN,355,2,2,0,0,1,1,0,2,0,0,2,0,3,5.2
+True,2007-11-07,2,-1,SAN ANTONIO SPURS,HOME,MIAMI HEAT,WIN,29,0,0,0,0,2,2,0,0,0,0,0,0,0,2.0
+True,2007-11-09,0,1,SAN ANTONIO SPURS,AWAY,NEW ORLEANS HORNETS,WIN,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2007-11-11,12,-5,SAN ANTONIO SPURS,HOME,MILWAUKEE BUCKS,WIN,626,4,7,0,0,4,4,0,1,1,0,2,2,0,9.1
+True,2007-11-13,2,-3,SAN ANTONIO SPURS,HOME,LOS ANGELES LAKERS,WIN,233,0,3,0,0,2,2,0,2,0,0,0,0,1,0.1

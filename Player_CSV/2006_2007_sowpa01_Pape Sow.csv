@@ -1,0 +1,8 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2007-01-22,3,-4,TORONTO RAPTORS,HOME,CHARLOTTE BOBCATS,WIN,181,1,2,0,0,1,1,0,0,0,0,0,0,0,2.0
+True,2007-01-26,0,-9,TORONTO RAPTORS,HOME,BOSTON CELTICS,WIN,54,0,1,0,0,0,0,0,1,0,0,0,1,0,-1.4
+True,2007-01-27,0,-4,TORONTO RAPTORS,AWAY,INDIANA PACERS,LOSS,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2007-03-16,0,4,TORONTO RAPTORS,HOME,HOUSTON ROCKETS,LOSS,102,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2007-03-21,0,0,TORONTO RAPTORS,HOME,ORLANDO MAGIC,WIN,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2007-03-23,2,-3,TORONTO RAPTORS,HOME,DENVER NUGGETS,WIN,156,1,2,0,0,0,0,2,0,0,0,0,0,0,2.4
+True,2007-04-17,5,-15,TORONTO RAPTORS,AWAY,DETROIT PISTONS,LOSS,1472,1,4,0,0,3,5,4,4,2,1,1,0,2,8.1

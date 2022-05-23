@@ -1,0 +1,5 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2015-03-19,0,5,MINNESOTA TIMBERWOLVES,AWAY,NEW YORK KNICKS,WIN,617,0,1,0,1,0,0,0,1,0,0,0,1,0,-1.4
+True,2015-03-23,13,12,MINNESOTA TIMBERWOLVES,AWAY,UTAH JAZZ,WIN,1184,4,7,3,4,2,2,1,2,2,1,0,1,2,11.6
+True,2015-03-25,5,9,MINNESOTA TIMBERWOLVES,HOME,LOS ANGELES LAKERS,LOSS,1458,1,7,1,6,2,2,0,1,2,1,0,0,0,3.2
+True,2015-03-27,4,-11,MINNESOTA TIMBERWOLVES,AWAY,HOUSTON ROCKETS,LOSS,1032,2,5,0,2,0,0,0,1,0,1,0,0,1,2.2

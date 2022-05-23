@@ -1,0 +1,8 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,1999-12-14,4,-11,BOSTON CELTICS,AWAY,CLEVELAND CAVALIERS,LOSS,481,2,4,0,0,0,0,0,1,2,0,0,0,0,3.7
+True,1999-12-17,2,-4,BOSTON CELTICS,AWAY,SAN ANTONIO SPURS,LOSS,195,1,1,0,0,0,0,0,0,0,0,0,1,0,0.7
+True,1999-12-22,5,-4,BOSTON CELTICS,HOME,ATLANTA HAWKS,WIN,448,2,5,0,1,1,1,0,1,0,0,0,0,0,2.6
+True,2000-01-09,4,-9,GOLDEN STATE WARRIORS,HOME,SEATTLE SUPERSONICS,LOSS,776,2,4,0,0,0,0,0,2,1,0,0,0,1,2.9
+True,2000-01-11,0,-4,GOLDEN STATE WARRIORS,HOME,DALLAS MAVERICKS,LOSS,541,0,1,0,0,0,0,0,0,1,1,0,3,1,-2.4
+True,2000-01-13,0,-6,GOLDEN STATE WARRIORS,HOME,HOUSTON ROCKETS,LOSS,265,0,2,0,2,0,0,1,0,2,0,0,1,0,-0.3
+True,2000-01-17,2,-3,GOLDEN STATE WARRIORS,HOME,ORLANDO MAGIC,WIN,79,1,1,0,0,0,0,0,0,0,0,0,0,0,1.7

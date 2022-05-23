@@ -1,0 +1,5 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2000-10-31,0,-3,ATLANTA HAWKS,HOME,CHARLOTTE HORNETS,LOSS,178,0,1,0,0,0,0,0,0,0,0,0,1,0,-1.7
+True,2000-11-02,2,0,ATLANTA HAWKS,AWAY,NEW YORK KNICKS,LOSS,200,1,1,0,0,0,0,0,2,0,0,0,0,0,2.3
+True,2000-12-27,0,0,HOUSTON ROCKETS,HOME,SEATTLE SUPERSONICS,LOSS,166,0,0,0,0,0,0,0,0,0,0,0,0,1,-0.4
+True,2001-03-14,0,-4,PHILADELPHIA 76ERS,AWAY,CHICAGO BULLS,WIN,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

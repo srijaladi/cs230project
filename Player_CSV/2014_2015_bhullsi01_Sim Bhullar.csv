@@ -1,0 +1,4 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2015-04-07,0,-2,SACRAMENTO KINGS,HOME,MINNESOTA TIMBERWOLVES,WIN,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2015-04-08,2,0,SACRAMENTO KINGS,AWAY,UTAH JAZZ,LOSS,82,1,2,0,0,0,0,0,1,0,0,0,0,0,1.3
+True,2015-04-10,0,3,SACRAMENTO KINGS,AWAY,OKLAHOMA CITY THUNDER,LOSS,63,0,0,0,0,0,0,0,0,1,0,1,0,0,1.4

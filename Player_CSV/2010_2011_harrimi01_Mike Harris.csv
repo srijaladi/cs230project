@@ -1,0 +1,5 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2011-03-23,2,4,HOUSTON ROCKETS,HOME,GOLDEN STATE WARRIORS,WIN,132,1,1,0,0,0,0,0,0,0,0,0,0,1,1.3
+True,2011-03-29,2,2,HOUSTON ROCKETS,AWAY,NEW JERSEY NETS,WIN,193,1,2,0,0,0,0,0,0,0,0,0,0,0,1.0
+True,2011-03-30,0,0,HOUSTON ROCKETS,AWAY,PHILADELPHIA 76ERS,LOSS,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2011-04-09,4,12,HOUSTON ROCKETS,HOME,LOS ANGELES CLIPPERS,WIN,564,1,3,0,0,2,4,2,3,1,0,1,1,1,3.8

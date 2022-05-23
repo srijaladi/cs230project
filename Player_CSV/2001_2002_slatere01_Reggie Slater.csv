@@ -1,0 +1,9 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2001-11-02,0,3,NEW JERSEY NETS,AWAY,DETROIT PISTONS,LOSS,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2001-11-16,3,3,NEW JERSEY NETS,HOME,NEW YORK KNICKS,WIN,129,1,1,0,0,1,1,0,1,0,0,0,0,0,3.0
+True,2001-11-17,0,2,NEW JERSEY NETS,HOME,PHILADELPHIA 76ERS,LOSS,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2001-11-25,2,3,NEW JERSEY NETS,AWAY,GOLDEN STATE WARRIORS,LOSS,382,1,1,0,0,0,0,0,1,0,0,0,1,1,0.6
+True,2001-12-19,8,-20,ATLANTA HAWKS,AWAY,WASHINGTON WIZARDS,LOSS,1439,3,9,0,0,2,2,5,1,0,0,0,0,2,5.9
+True,2001-12-21,6,1,ATLANTA HAWKS,AWAY,PHILADELPHIA 76ERS,LOSS,433,1,2,0,0,4,6,0,0,0,1,0,0,0,5.2
+True,2001-12-27,0,3,ATLANTA HAWKS,HOME,MIAMI HEAT,WIN,239,0,1,0,0,0,0,0,1,1,0,1,0,0,1.0
+True,2001-12-29,2,0,ATLANTA HAWKS,AWAY,DALLAS MAVERICKS,LOSS,114,1,1,0,0,0,1,0,0,0,0,0,0,0,1.3

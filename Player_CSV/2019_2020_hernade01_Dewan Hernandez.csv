@@ -1,0 +1,7 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2019-11-18,2,2,TORONTO RAPTORS,HOME,CHARLOTTE HORNETS,WIN,382,1,2,0,1,0,0,0,4,0,1,0,1,3,1.0
+True,2019-11-20,0,-1,TORONTO RAPTORS,HOME,ORLANDO MAGIC,WIN,86,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2019-12-01,2,-2,TORONTO RAPTORS,HOME,UTAH JAZZ,WIN,101,0,3,0,0,2,2,2,1,0,0,0,0,2,0.8
+True,2019-12-16,0,2,TORONTO RAPTORS,HOME,CLEVELAND CAVALIERS,WIN,112,0,0,0,0,0,0,0,0,0,0,0,0,1,-0.4
+True,2020-08-12,6,10,TORONTO RAPTORS,AWAY,PHILADELPHIA 76ERS,WIN,252,2,3,1,1,1,3,0,0,2,0,0,1,0,4.3
+True,2020-08-14,4,0,TORONTO RAPTORS,HOME,DENVER NUGGETS,WIN,762,2,6,0,0,0,0,3,4,1,0,0,1,0,3.6

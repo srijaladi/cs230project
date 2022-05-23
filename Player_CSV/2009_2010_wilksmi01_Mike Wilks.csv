@@ -1,0 +1,5 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2009-11-27,2,-13,OKLAHOMA CITY THUNDER,HOME,MILWAUKEE BUCKS,WIN,599,1,2,0,0,0,0,0,0,0,0,0,0,2,0.2
+True,2009-11-29,2,-7,OKLAHOMA CITY THUNDER,HOME,HOUSTON ROCKETS,LOSS,829,1,2,0,0,0,0,0,1,1,0,0,1,1,0.6
+True,2009-12-02,5,-4,OKLAHOMA CITY THUNDER,HOME,PHILADELPHIA 76ERS,WIN,867,2,4,1,1,0,2,1,2,1,0,0,0,0,4.2
+True,2009-12-04,7,-5,OKLAHOMA CITY THUNDER,HOME,BOSTON CELTICS,LOSS,1249,2,4,1,2,2,2,0,0,2,0,0,3,2,2.6

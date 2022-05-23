@@ -1,0 +1,4 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2001-10-30,12,-2,ATLANTA HAWKS,AWAY,HOUSTON ROCKETS,LOSS,2342,5,10,0,0,2,3,1,7,0,1,6,4,3,9.4
+True,2001-11-01,12,-15,ATLANTA HAWKS,HOME,WASHINGTON WIZARDS,LOSS,1693,5,8,0,0,2,6,3,2,1,0,1,1,4,8.3
+True,2002-01-11,2,-6,ATLANTA HAWKS,AWAY,TORONTO RAPTORS,LOSS,894,0,2,0,0,2,2,1,2,0,0,1,2,1,0.2

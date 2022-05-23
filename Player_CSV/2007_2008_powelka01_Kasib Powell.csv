@@ -1,0 +1,12 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2008-03-22,0,3,MIAMI HEAT,AWAY,CHARLOTTE BOBCATS,LOSS,180,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7
+True,2008-03-24,4,-1,MIAMI HEAT,HOME,MILWAUKEE BUCKS,WIN,1376,2,6,0,2,0,0,0,1,0,0,0,0,1,0.5
+True,2008-03-26,14,-17,MIAMI HEAT,AWAY,NEW YORK KNICKS,LOSS,1282,5,10,3,6,1,2,0,3,2,0,0,0,2,10.1
+True,2008-03-27,2,-17,MIAMI HEAT,AWAY,DETROIT PISTONS,LOSS,2061,1,8,0,3,0,0,0,4,3,3,0,0,2,2.3
+True,2008-03-30,6,-22,MIAMI HEAT,AWAY,BOSTON CELTICS,LOSS,2399,2,8,0,3,2,2,1,4,3,4,0,2,3,6.0
+True,2008-03-31,15,-11,MIAMI HEAT,AWAY,INDIANA PACERS,LOSS,1959,6,10,1,2,2,3,1,1,1,1,1,1,2,11.6
+True,2008-04-08,18,18,MIAMI HEAT,HOME,CHICAGO BULLS,WIN,2227,8,16,2,5,0,0,1,5,3,0,0,1,1,12.9
+True,2008-04-11,11,-9,MIAMI HEAT,HOME,MEMPHIS GRIZZLIES,LOSS,2147,4,12,2,4,1,2,2,5,1,0,0,0,3,6.2
+True,2008-04-13,2,-6,MIAMI HEAT,AWAY,CLEVELAND CAVALIERS,LOSS,1803,1,5,0,2,0,0,0,5,2,1,0,0,1,2.4
+True,2008-04-14,6,-6,MIAMI HEAT,AWAY,TORONTO RAPTORS,LOSS,1483,3,10,0,2,0,0,2,8,3,0,0,0,1,5.7
+True,2008-04-16,6,-3,MIAMI HEAT,HOME,ATLANTA HAWKS,WIN,1334,3,9,0,4,0,0,1,0,0,0,1,1,2,0.5

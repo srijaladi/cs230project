@@ -1,0 +1,5 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2013-01-02,2,-3,MINNESOTA TIMBERWOLVES,AWAY,UTAH JAZZ,LOSS,359,0,1,0,1,2,2,0,1,2,0,0,0,1,2.6
+True,2013-01-05,0,-7,MINNESOTA TIMBERWOLVES,HOME,PORTLAND TRAIL BLAZERS,LOSS,374,0,1,0,1,0,0,0,1,0,0,0,0,0,-0.4
+True,2013-01-09,8,-14,MINNESOTA TIMBERWOLVES,AWAY,OKLAHOMA CITY THUNDER,LOSS,620,2,4,0,1,4,4,0,0,0,0,0,0,2,5.2
+True,2013-01-13,0,-2,MINNESOTA TIMBERWOLVES,AWAY,SAN ANTONIO SPURS,LOSS,511,0,4,0,1,0,0,0,2,1,2,0,0,0,0.5

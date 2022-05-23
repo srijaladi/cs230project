@@ -1,0 +1,6 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2017-03-14,0,-6,CLEVELAND CAVALIERS,HOME,DETROIT PISTONS,WIN,118,0,1,0,0,0,0,0,0,0,0,0,0,2,-1.5
+True,2017-03-25,0,0,CLEVELAND CAVALIERS,HOME,WASHINGTON WIZARDS,LOSS,143,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2017-04-05,0,-3,CLEVELAND CAVALIERS,AWAY,BOSTON CELTICS,WIN,244,0,1,0,0,0,0,1,1,0,0,0,0,1,-0.1
+True,2017-04-07,2,6,CLEVELAND CAVALIERS,HOME,ATLANTA HAWKS,LOSS,116,0,0,0,0,2,2,0,0,0,1,1,0,0,3.7
+True,2017-04-10,2,2,CLEVELAND CAVALIERS,AWAY,MIAMI HEAT,LOSS,141,1,2,0,0,0,0,2,0,0,0,0,2,2,-0.4

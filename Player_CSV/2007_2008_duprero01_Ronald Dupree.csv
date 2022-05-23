@@ -1,0 +1,6 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2007-11-02,0,2,DETROIT PISTONS,AWAY,ORLANDO MAGIC,WIN,197,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2008-04-04,2,6,SEATTLE SUPERSONICS,HOME,HOUSTON ROCKETS,LOSS,196,0,1,0,0,2,2,1,2,0,0,0,0,0,2.6
+True,2008-04-08,2,2,SEATTLE SUPERSONICS,AWAY,DALLAS MAVERICKS,LOSS,205,1,1,0,0,0,0,0,1,0,0,0,0,0,2.0
+True,2008-04-09,0,-3,SEATTLE SUPERSONICS,AWAY,HOUSTON ROCKETS,LOSS,376,0,0,0,0,0,0,0,1,1,1,0,0,0,2.0
+True,2008-04-11,0,-1,SEATTLE SUPERSONICS,AWAY,SAN ANTONIO SPURS,LOSS,274,0,1,0,0,0,0,0,3,0,0,0,0,0,0.2

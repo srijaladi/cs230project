@@ -1,0 +1,4 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2013-03-03,3,-4,HOUSTON ROCKETS,HOME,DALLAS MAVERICKS,WIN,337,1,2,0,0,1,1,0,0,1,1,0,1,1,2.3
+True,2013-03-30,0,-1,HOUSTON ROCKETS,HOME,LOS ANGELES CLIPPERS,WIN,192,0,0,0,0,0,0,0,1,0,0,0,2,0,-1.7
+True,2013-04-05,0,-2,HOUSTON ROCKETS,AWAY,PORTLAND TRAIL BLAZERS,WIN,175,0,1,0,0,0,0,0,0,0,0,0,1,0,-1.7

@@ -1,0 +1,8 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2000-12-01,0,-2,MINNESOTA TIMBERWOLVES,AWAY,BOSTON CELTICS,WIN,120,0,0,0,0,0,0,0,1,0,0,0,0,0,0.3
+True,2000-12-02,0,-7,MINNESOTA TIMBERWOLVES,AWAY,NEW YORK KNICKS,LOSS,203,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7
+True,2000-12-07,0,-3,MINNESOTA TIMBERWOLVES,HOME,WASHINGTON WIZARDS,WIN,111,0,1,0,0,0,0,0,0,1,0,0,0,1,-0.4
+True,2000-12-09,0,0,MINNESOTA TIMBERWOLVES,HOME,LOS ANGELES CLIPPERS,WIN,64,0,0,0,0,0,0,0,1,0,0,0,0,0,0.3
+True,2000-12-12,2,1,MINNESOTA TIMBERWOLVES,AWAY,NEW JERSEY NETS,LOSS,277,1,3,0,0,0,0,0,0,0,0,0,0,0,0.3
+True,2000-12-16,1,4,MINNESOTA TIMBERWOLVES,HOME,INDIANA PACERS,WIN,69,0,0,0,0,1,2,0,0,0,0,0,0,1,0.2
+True,2001-04-18,4,15,MINNESOTA TIMBERWOLVES,AWAY,DALLAS MAVERICKS,LOSS,960,2,5,0,0,0,0,2,0,0,0,0,3,6,-2.7

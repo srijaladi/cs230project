@@ -1,0 +1,4 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2010-10-29,0,0,TORONTO RAPTORS,HOME,CLEVELAND CAVALIERS,WIN,185,0,0,0,0,0,0,0,1,1,1,0,0,0,2.0
+True,2010-11-06,4,10,TORONTO RAPTORS,AWAY,PORTLAND TRAIL BLAZERS,LOSS,189,0,0,0,0,4,4,0,0,0,0,0,0,2,3.2
+True,2010-11-16,2,-1,TORONTO RAPTORS,AWAY,WASHINGTON WIZARDS,LOSS,931,0,2,0,0,2,4,0,0,2,0,0,2,2,-1.6

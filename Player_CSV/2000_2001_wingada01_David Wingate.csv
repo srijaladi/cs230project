@@ -1,0 +1,2 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2001-04-18,6,12,SEATTLE SUPERSONICS,HOME,SAN ANTONIO SPURS,WIN,538,3,3,0,0,0,0,0,0,2,0,0,0,1,6.1

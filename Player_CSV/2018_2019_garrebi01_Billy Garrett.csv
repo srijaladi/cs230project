@@ -1,0 +1,5 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2019-04-03,4,-14,NEW YORK KNICKS,AWAY,ORLANDO MAGIC,LOSS,692,2,6,0,2,0,0,0,0,2,0,0,0,0,2.0
+True,2019-04-05,8,-2,NEW YORK KNICKS,AWAY,HOUSTON ROCKETS,LOSS,1507,3,7,0,2,2,2,0,1,2,1,1,1,2,5.9
+True,2019-04-09,8,-5,NEW YORK KNICKS,AWAY,CHICAGO BULLS,WIN,783,4,9,0,2,0,0,0,2,2,0,0,0,1,4.9
+True,2019-04-10,6,5,NEW YORK KNICKS,HOME,DETROIT PISTONS,LOSS,824,2,5,0,2,2,2,0,0,1,0,0,1,0,3.0

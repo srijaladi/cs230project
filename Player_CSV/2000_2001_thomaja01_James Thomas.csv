@@ -1,0 +1,6 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2001-04-08,2,3,NEW JERSEY NETS,HOME,INDIANA PACERS,LOSS,446,1,5,0,0,0,0,0,1,0,1,0,0,0,0.2
+True,2001-04-12,9,-6,NEW JERSEY NETS,AWAY,CHARLOTTE HORNETS,LOSS,1383,4,10,1,2,0,0,4,3,0,1,0,3,2,4.5
+True,2001-04-13,2,-3,NEW JERSEY NETS,HOME,CLEVELAND CAVALIERS,LOSS,849,1,2,0,1,0,0,0,1,0,0,0,0,2,0.5
+True,2001-04-15,0,-2,NEW JERSEY NETS,AWAY,BOSTON CELTICS,LOSS,456,0,1,0,0,0,0,0,0,0,1,0,1,1,-1.1
+True,2001-04-17,0,-4,NEW JERSEY NETS,HOME,CHICAGO BULLS,LOSS,250,0,1,0,0,0,0,0,0,0,0,0,2,1,-3.1

@@ -1,0 +1,7 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2018-11-30,7,8,BOSTON CELTICS,HOME,CLEVELAND CAVALIERS,WIN,347,3,5,1,1,0,0,2,2,0,0,0,0,1,6.3
+True,2018-12-10,0,-2,BOSTON CELTICS,HOME,NEW ORLEANS PELICANS,WIN,104,0,1,0,1,0,0,0,0,0,0,0,0,0,-0.7
+True,2019-01-02,0,0,BOSTON CELTICS,HOME,MINNESOTA TIMBERWOLVES,WIN,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2019-01-04,0,6,BOSTON CELTICS,HOME,DALLAS MAVERICKS,WIN,144,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2019-03-24,0,3,BOSTON CELTICS,HOME,SAN ANTONIO SPURS,LOSS,202,0,1,0,0,0,0,0,2,0,0,0,0,0,-0.1
+True,2019-04-09,12,10,BOSTON CELTICS,AWAY,WASHINGTON WIZARDS,WIN,2240,5,14,1,6,1,2,4,7,5,2,0,0,1,13.8

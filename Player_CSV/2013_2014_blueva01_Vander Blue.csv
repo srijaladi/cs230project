@@ -1,0 +1,4 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2014-01-22,2,6,BOSTON CELTICS,AWAY,WASHINGTON WIZARDS,WIN,253,1,2,0,0,0,2,0,2,1,0,0,2,0,-0.5
+True,2014-01-24,1,2,BOSTON CELTICS,HOME,OKLAHOMA CITY THUNDER,LOSS,441,0,0,0,0,1,2,0,0,0,0,0,0,0,0.6
+True,2014-01-28,2,-2,BOSTON CELTICS,AWAY,NEW YORK KNICKS,LOSS,186,1,2,0,1,0,1,0,1,0,0,0,0,1,0.5

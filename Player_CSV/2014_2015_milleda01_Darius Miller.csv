@@ -1,0 +1,6 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2014-11-03,0,4,NEW ORLEANS PELICANS,AWAY,MEMPHIS GRIZZLIES,LOSS,238,0,0,0,0,0,0,0,0,2,0,0,0,0,1.4
+True,2014-11-14,2,0,NEW ORLEANS PELICANS,HOME,MINNESOTA TIMBERWOLVES,WIN,1013,1,3,0,0,0,0,0,0,0,0,0,1,4,-2.3
+True,2014-11-17,0,-1,NEW ORLEANS PELICANS,AWAY,PORTLAND TRAIL BLAZERS,LOSS,275,0,0,0,0,0,0,0,0,0,1,0,0,1,0.6
+True,2014-11-21,0,4,NEW ORLEANS PELICANS,AWAY,DENVER NUGGETS,LOSS,214,0,1,0,0,0,0,0,1,0,0,0,0,0,-0.4
+True,2014-11-25,0,-19,NEW ORLEANS PELICANS,HOME,SACRAMENTO KINGS,LOSS,862,0,3,0,1,0,0,0,0,0,0,0,0,3,-3.3

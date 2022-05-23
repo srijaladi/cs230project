@@ -1,0 +1,8 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2001-03-12,3,1,MIAMI HEAT,AWAY,MINNESOTA TIMBERWOLVES,LOSS,806,0,4,0,0,3,4,0,3,0,0,0,0,1,0.3
+True,2001-03-14,0,-6,MIAMI HEAT,HOME,SACRAMENTO KINGS,WIN,236,0,0,0,0,0,0,0,0,2,0,0,0,0,1.4
+True,2001-03-21,10,5,MIAMI HEAT,HOME,CHICAGO BULLS,WIN,409,4,4,0,0,2,2,0,1,1,0,0,0,1,9.4
+True,2001-04-13,2,5,MIAMI HEAT,AWAY,TORONTO RAPTORS,LOSS,68,1,2,0,0,0,0,0,0,0,0,0,0,0,1.0
+True,2001-04-15,11,7,MIAMI HEAT,HOME,ORLANDO MAGIC,LOSS,973,4,9,1,1,2,2,0,1,1,1,1,2,1,6.6
+True,2001-04-17,0,-1,MIAMI HEAT,HOME,MILWAUKEE BUCKS,WIN,366,0,1,0,0,0,0,0,0,1,1,0,1,2,-0.8
+True,2001-04-18,6,19,MIAMI HEAT,AWAY,ORLANDO MAGIC,WIN,1413,3,9,0,0,0,0,1,1,6,3,1,2,2,7.0

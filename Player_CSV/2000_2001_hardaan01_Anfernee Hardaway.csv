@@ -1,0 +1,5 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2001-01-07,9,-12,PHOENIX SUNS,HOME,MINNESOTA TIMBERWOLVES,LOSS,1424,4,10,1,1,0,0,0,3,3,1,0,1,1,6.2
+True,2001-01-11,16,4,PHOENIX SUNS,HOME,INDIANA PACERS,WIN,1165,6,11,0,1,4,5,2,2,2,1,0,0,0,14.7
+True,2001-01-13,8,8,PHOENIX SUNS,AWAY,DALLAS MAVERICKS,WIN,2431,3,9,0,2,2,2,2,6,5,3,1,0,3,12.1
+True,2001-01-14,6,-6,PHOENIX SUNS,HOME,SEATTLE SUPERSONICS,LOSS,1598,2,6,1,4,1,4,1,2,5,1,0,2,2,4.4

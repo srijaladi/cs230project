@@ -1,0 +1,4 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,1999-11-27,4,-6,PORTLAND TRAIL BLAZERS,AWAY,LOS ANGELES CLIPPERS,WIN,493,2,5,0,0,0,0,0,0,0,1,0,1,3,0.1
+True,1999-12-07,2,-7,PORTLAND TRAIL BLAZERS,HOME,MIAMI HEAT,LOSS,496,1,4,0,0,0,0,0,3,0,0,0,1,0,-0.5
+True,2000-04-01,6,5,PORTLAND TRAIL BLAZERS,HOME,MILWAUKEE BUCKS,WIN,500,3,5,0,0,0,0,0,0,1,0,0,0,0,4.4

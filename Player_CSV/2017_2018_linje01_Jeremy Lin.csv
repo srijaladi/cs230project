@@ -1,0 +1,2 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2017-10-18,18,-6,BROOKLYN NETS,AWAY,INDIANA PACERS,LOSS,1511,5,12,1,2,7,7,0,0,4,0,0,3,3,10.2

@@ -1,0 +1,11 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2008-10-30,0,-2,CHARLOTTE BOBCATS,AWAY,CLEVELAND CAVALIERS,LOSS,590,0,0,0,0,0,0,0,0,0,0,0,0,1,-0.4
+True,2008-11-05,0,-3,CHARLOTTE BOBCATS,AWAY,NEW YORK KNICKS,LOSS,186,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2009-03-11,0,7,CHICAGO BULLS,AWAY,ORLANDO MAGIC,LOSS,658,0,2,0,0,0,0,1,2,0,0,0,1,1,-1.5
+True,2009-03-14,0,-5,CHICAGO BULLS,HOME,NEW ORLEANS HORNETS,WIN,206,0,0,0,0,0,0,0,0,0,0,0,0,1,-0.4
+True,2009-03-26,0,0,CHICAGO BULLS,HOME,MIAMI HEAT,WIN,91,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7
+True,2009-03-29,4,-6,CHICAGO BULLS,AWAY,TORONTO RAPTORS,LOSS,318,2,3,0,0,0,0,0,0,0,0,0,0,1,2.3
+True,2009-04-07,0,-6,CHICAGO BULLS,HOME,NEW YORK KNICKS,WIN,361,0,1,0,0,0,0,1,0,0,0,0,0,1,-0.4
+True,2009-04-09,3,4,CHICAGO BULLS,HOME,PHILADELPHIA 76ERS,WIN,137,1,1,1,1,0,0,0,1,0,1,0,1,0,3.0
+True,2009-04-11,0,-5,CHICAGO BULLS,HOME,CHARLOTTE BOBCATS,WIN,501,0,1,0,0,0,0,1,1,2,0,0,0,2,0.9
+True,2009-04-15,2,-3,CHICAGO BULLS,HOME,TORONTO RAPTORS,LOSS,265,1,2,0,1,0,0,0,1,0,0,0,0,0,1.3

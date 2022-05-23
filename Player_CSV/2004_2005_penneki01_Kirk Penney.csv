@@ -1,0 +1,5 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2004-12-26,0,-1,LOS ANGELES CLIPPERS,AWAY,HOUSTON ROCKETS,LOSS,154,0,0,0,0,0,0,0,1,0,0,0,2,0,-1.7
+True,2004-12-27,2,1,LOS ANGELES CLIPPERS,AWAY,MEMPHIS GRIZZLIES,LOSS,366,1,2,0,1,0,0,0,0,1,0,0,0,0,1.7
+True,2004-12-29,0,0,LOS ANGELES CLIPPERS,HOME,UTAH JAZZ,WIN,121,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7
+True,2004-12-31,0,-1,LOS ANGELES CLIPPERS,HOME,SAN ANTONIO SPURS,LOSS,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

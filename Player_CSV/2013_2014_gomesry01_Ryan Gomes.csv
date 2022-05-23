@@ -1,0 +1,6 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2013-11-01,0,12,OKLAHOMA CITY THUNDER,AWAY,MINNESOTA TIMBERWOLVES,LOSS,376,0,1,0,0,0,0,0,1,1,0,0,0,0,0.3
+True,2013-11-13,2,-5,OKLAHOMA CITY THUNDER,AWAY,LOS ANGELES CLIPPERS,LOSS,358,1,1,0,0,0,0,0,0,0,0,0,1,4,-0.9
+True,2013-11-24,2,-7,OKLAHOMA CITY THUNDER,HOME,UTAH JAZZ,WIN,621,1,4,0,2,0,0,0,1,0,0,0,0,1,-0.5
+True,2013-12-06,0,1,OKLAHOMA CITY THUNDER,AWAY,NEW ORLEANS PELICANS,WIN,324,0,0,0,0,0,0,0,1,0,0,0,0,0,0.3
+True,2013-12-29,2,6,OKLAHOMA CITY THUNDER,HOME,HOUSTON ROCKETS,WIN,376,1,2,0,0,0,0,0,1,0,0,0,0,0,1.3

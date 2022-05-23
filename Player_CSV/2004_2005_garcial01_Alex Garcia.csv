@@ -1,0 +1,9 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2004-11-03,2,-1,NEW ORLEANS HORNETS,HOME,DALLAS MAVERICKS,LOSS,138,1,2,0,0,0,0,1,0,0,0,0,1,0,0.7
+True,2004-11-13,7,8,NEW ORLEANS HORNETS,AWAY,MILWAUKEE BUCKS,LOSS,1090,3,5,1,2,0,0,0,1,4,0,0,1,0,6.8
+True,2004-11-17,4,-7,NEW ORLEANS HORNETS,HOME,PHOENIX SUNS,LOSS,1093,2,5,0,0,0,0,0,4,2,0,1,0,0,4.6
+True,2004-12-04,11,-7,NEW ORLEANS HORNETS,HOME,DETROIT PISTONS,LOSS,1594,3,7,3,5,2,2,1,0,3,0,0,2,4,6.5
+True,2004-12-07,2,-12,NEW ORLEANS HORNETS,AWAY,HOUSTON ROCKETS,LOSS,1203,1,6,0,2,0,0,1,1,4,1,0,1,2,1.2
+True,2004-12-08,3,-8,NEW ORLEANS HORNETS,HOME,NEW YORK KNICKS,LOSS,1235,1,7,0,3,1,2,3,0,3,0,0,0,3,1.1
+True,2004-12-10,9,4,NEW ORLEANS HORNETS,AWAY,NEW JERSEY NETS,LOSS,1330,4,13,1,4,0,0,1,1,2,1,0,1,4,2.3
+True,2004-12-12,6,-14,NEW ORLEANS HORNETS,AWAY,WASHINGTON WIZARDS,LOSS,1053,3,7,0,2,0,0,0,1,0,2,0,2,2,1.8

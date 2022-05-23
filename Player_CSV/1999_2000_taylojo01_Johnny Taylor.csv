@@ -1,0 +1,7 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,1999-11-05,0,5,DENVER NUGGETS,AWAY,PORTLAND TRAIL BLAZERS,LOSS,279,0,2,0,0,0,0,0,1,0,0,0,0,1,-1.5
+True,2000-02-07,4,0,ORLANDO MAGIC,HOME,GOLDEN STATE WARRIORS,WIN,286,2,3,0,0,0,0,1,1,0,0,0,0,0,3.7
+True,2000-02-09,0,-1,ORLANDO MAGIC,HOME,WASHINGTON WIZARDS,WIN,77,0,1,0,0,0,0,0,0,1,0,0,0,0,0.0
+True,2000-02-16,2,4,ORLANDO MAGIC,HOME,LOS ANGELES CLIPPERS,WIN,402,1,2,0,0,0,0,0,2,0,0,0,1,1,0.2
+True,2000-02-22,3,3,ORLANDO MAGIC,AWAY,SEATTLE SUPERSONICS,LOSS,640,1,4,1,1,0,0,1,0,0,1,1,0,1,2.6
+True,2000-04-19,2,2,ORLANDO MAGIC,HOME,TORONTO RAPTORS,WIN,287,1,2,0,0,0,0,0,0,0,0,0,1,2,-0.8

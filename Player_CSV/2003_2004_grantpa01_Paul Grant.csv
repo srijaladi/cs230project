@@ -1,0 +1,11 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2004-01-02,2,2,UTAH JAZZ,AWAY,MEMPHIS GRIZZLIES,LOSS,361,1,1,0,0,0,0,0,0,0,0,0,0,0,1.7
+True,2004-01-03,6,-13,UTAH JAZZ,AWAY,HOUSTON ROCKETS,LOSS,1487,3,8,0,0,0,2,3,3,1,0,0,1,5,1.5
+True,2004-01-05,2,-6,UTAH JAZZ,HOME,DALLAS MAVERICKS,WIN,171,1,2,0,0,0,0,1,0,1,1,0,0,2,2.6
+True,2004-01-09,4,0,UTAH JAZZ,AWAY,DENVER NUGGETS,LOSS,408,2,3,0,0,0,0,1,1,0,0,0,0,2,2.9
+True,2004-01-10,5,1,UTAH JAZZ,HOME,ATLANTA HAWKS,WIN,1267,2,5,0,0,1,2,0,2,0,0,1,4,5,-2.8
+True,2004-01-13,0,-5,UTAH JAZZ,HOME,GOLDEN STATE WARRIORS,WIN,321,0,0,0,0,0,0,0,1,0,0,0,2,1,-2.1
+True,2004-01-15,0,-2,UTAH JAZZ,HOME,MIAMI HEAT,WIN,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2004-01-19,2,1,UTAH JAZZ,AWAY,GOLDEN STATE WARRIORS,LOSS,912,1,1,0,0,0,0,0,2,0,0,0,0,1,1.9
+True,2004-01-20,2,-3,UTAH JAZZ,HOME,DENVER NUGGETS,LOSS,473,0,1,0,0,2,4,2,1,1,0,0,0,1,2.5
+True,2004-01-23,2,4,UTAH JAZZ,AWAY,LOS ANGELES CLIPPERS,LOSS,347,1,2,0,0,0,0,0,0,0,0,0,0,0,1.0

@@ -1,0 +1,9 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2000-11-02,0,-7,PORTLAND TRAIL BLAZERS,AWAY,PHOENIX SUNS,LOSS,218,0,1,0,1,0,0,0,0,1,0,0,0,0,0.0
+True,2000-11-09,2,3,PORTLAND TRAIL BLAZERS,HOME,DENVER NUGGETS,WIN,77,1,1,0,0,0,0,0,0,1,0,0,0,0,2.4
+True,2000-11-11,2,2,PORTLAND TRAIL BLAZERS,HOME,HOUSTON ROCKETS,WIN,281,1,2,0,0,0,0,0,0,1,0,0,0,0,1.7
+True,2000-11-13,0,-1,PORTLAND TRAIL BLAZERS,AWAY,NEW JERSEY NETS,WIN,102,0,2,0,1,0,0,0,0,0,0,0,1,0,-2.4
+True,2000-12-09,9,-4,PORTLAND TRAIL BLAZERS,HOME,DETROIT PISTONS,WIN,512,4,5,1,1,0,0,0,0,1,0,0,2,2,5.0
+True,2001-02-13,0,-4,PORTLAND TRAIL BLAZERS,HOME,MINNESOTA TIMBERWOLVES,WIN,286,0,3,0,1,0,0,0,0,1,0,0,0,0,-1.4
+True,2001-02-15,0,2,PORTLAND TRAIL BLAZERS,HOME,SACRAMENTO KINGS,WIN,237,0,1,0,0,0,0,0,0,0,1,0,1,0,-0.7
+True,2001-03-03,6,-1,PORTLAND TRAIL BLAZERS,HOME,GOLDEN STATE WARRIORS,WIN,528,2,7,2,4,0,0,0,3,1,1,0,1,0,3.5

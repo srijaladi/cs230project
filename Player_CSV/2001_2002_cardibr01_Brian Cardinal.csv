@@ -1,0 +1,9 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2002-01-07,3,1,DETROIT PISTONS,AWAY,MINNESOTA TIMBERWOLVES,LOSS,276,1,3,1,2,0,0,1,0,1,0,0,0,1,2.3
+True,2002-01-08,2,4,DETROIT PISTONS,HOME,LOS ANGELES LAKERS,LOSS,387,0,2,0,2,2,2,0,0,1,0,0,0,2,0.5
+True,2002-01-11,3,2,DETROIT PISTONS,AWAY,BOSTON CELTICS,LOSS,241,1,1,1,1,0,0,0,1,0,0,0,0,0,3.0
+True,2002-01-12,0,0,DETROIT PISTONS,HOME,CHARLOTTE HORNETS,WIN,258,0,1,0,0,0,0,0,1,0,0,0,0,0,-0.4
+True,2002-01-21,6,5,DETROIT PISTONS,HOME,MILWAUKEE BUCKS,LOSS,880,3,5,0,1,0,0,0,1,0,0,0,0,1,3.6
+True,2002-01-25,3,2,DETROIT PISTONS,AWAY,ATLANTA HAWKS,WIN,149,1,1,1,1,0,0,1,1,0,0,0,0,1,3.3
+True,2002-01-30,0,-1,DETROIT PISTONS,HOME,ATLANTA HAWKS,WIN,71,0,0,0,0,0,0,0,0,0,1,0,0,0,1.0
+True,2002-03-08,0,2,DETROIT PISTONS,AWAY,BOSTON CELTICS,LOSS,293,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

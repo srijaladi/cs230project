@@ -1,0 +1,8 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2012-01-21,0,2,NEW JERSEY NETS,HOME,OKLAHOMA CITY THUNDER,LOSS,72,0,0,0,0,0,0,0,1,0,0,0,0,0,0.3
+True,2012-01-22,0,0,NEW JERSEY NETS,HOME,CHARLOTTE BOBCATS,WIN,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2012-01-23,7,-7,NEW JERSEY NETS,AWAY,CHICAGO BULLS,LOSS,1722,2,5,1,2,2,2,1,5,2,0,0,0,3,6.7
+True,2012-01-25,0,0,NEW JERSEY NETS,AWAY,PHILADELPHIA 76ERS,WIN,442,0,1,0,0,0,0,0,3,1,0,0,1,2,-0.9
+True,2012-01-27,0,-9,NEW JERSEY NETS,AWAY,CLEVELAND CAVALIERS,WIN,758,0,1,0,1,0,0,0,2,1,0,0,0,3,-0.6
+True,2012-01-29,6,-13,NEW JERSEY NETS,HOME,TORONTO RAPTORS,LOSS,1226,2,3,1,1,1,2,1,0,0,0,1,0,2,4.9
+True,2012-01-31,0,-10,NEW JERSEY NETS,AWAY,INDIANA PACERS,LOSS,280,0,1,0,1,0,0,0,0,0,0,0,1,0,-1.7

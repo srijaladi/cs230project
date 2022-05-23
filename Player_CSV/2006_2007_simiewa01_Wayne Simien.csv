@@ -1,0 +1,9 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2006-10-31,2,-12,MIAMI HEAT,HOME,CHICAGO BULLS,LOSS,463,1,1,0,0,0,0,0,1,0,0,0,1,1,0.6
+True,2006-11-07,0,-8,MIAMI HEAT,HOME,SEATTLE SUPERSONICS,WIN,614,0,2,0,0,0,0,1,1,0,0,0,1,1,-1.8
+True,2006-11-17,4,-3,MIAMI HEAT,HOME,NEW YORK KNICKS,LOSS,800,2,3,0,0,0,0,1,0,0,1,0,0,4,2.8
+True,2006-11-21,0,-6,MIAMI HEAT,AWAY,NEW ORLEANS/OKLAHOMA CITY HORNETS,LOSS,722,0,4,0,0,0,0,1,2,0,0,0,0,1,-1.9
+True,2006-11-22,5,3,MIAMI HEAT,AWAY,SAN ANTONIO SPURS,LOSS,720,1,2,0,0,3,5,0,1,1,0,0,0,2,3.4
+True,2007-03-23,0,5,MIAMI HEAT,AWAY,INDIANA PACERS,LOSS,345,0,3,0,0,0,0,0,0,0,0,0,0,1,-2.5
+True,2007-04-10,2,6,MIAMI HEAT,AWAY,CHARLOTTE BOBCATS,LOSS,352,1,1,0,0,0,0,2,1,2,0,0,0,1,4.4
+True,2007-04-18,10,-10,MIAMI HEAT,AWAY,ORLANDO MAGIC,LOSS,1551,4,7,0,0,2,2,0,0,1,1,0,1,2,6.6

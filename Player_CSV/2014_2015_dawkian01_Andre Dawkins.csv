@@ -1,0 +1,5 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2014-11-01,0,0,MIAMI HEAT,AWAY,PHILADELPHIA 76ERS,WIN,110,0,0,0,0,0,0,0,0,0,0,0,1,1,-1.4
+True,2014-11-04,0,-1,MIAMI HEAT,HOME,HOUSTON ROCKETS,LOSS,126,0,1,0,1,0,0,0,0,0,0,0,0,0,-0.7
+True,2014-11-17,3,3,MIAMI HEAT,AWAY,BROOKLYN NETS,WIN,532,1,2,1,2,0,0,0,1,0,0,0,0,1,1.9
+True,2015-01-03,0,-6,MIAMI HEAT,AWAY,HOUSTON ROCKETS,LOSS,533,0,3,0,3,0,0,0,1,1,0,0,0,1,-1.5

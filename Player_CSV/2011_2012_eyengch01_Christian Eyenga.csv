@@ -1,0 +1,8 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2012-01-03,0,4,CLEVELAND CAVALIERS,HOME,CHARLOTTE BOBCATS,WIN,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2012-02-07,0,-19,CLEVELAND CAVALIERS,AWAY,MIAMI HEAT,LOSS,1248,0,4,0,0,0,0,2,2,1,1,1,0,3,0.4
+True,2012-02-08,6,0,CLEVELAND CAVALIERS,HOME,LOS ANGELES CLIPPERS,WIN,964,2,3,1,1,1,2,1,1,0,0,2,1,2,4.9
+True,2012-02-10,2,-15,CLEVELAND CAVALIERS,HOME,MILWAUKEE BUCKS,LOSS,822,1,5,0,1,0,2,0,1,1,1,0,1,1,-1.3
+True,2012-02-11,1,-10,CLEVELAND CAVALIERS,HOME,PHILADELPHIA 76ERS,LOSS,1089,0,3,0,0,1,2,0,2,1,0,1,0,1,0.1
+True,2012-02-17,0,0,CLEVELAND CAVALIERS,HOME,MIAMI HEAT,LOSS,807,0,4,0,0,0,0,0,3,1,1,0,0,0,-0.2
+True,2012-04-26,8,3,LOS ANGELES LAKERS,AWAY,SACRAMENTO KINGS,LOSS,1154,3,6,0,1,2,2,1,1,1,0,1,1,0,6.4

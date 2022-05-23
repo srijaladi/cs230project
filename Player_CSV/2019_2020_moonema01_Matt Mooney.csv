@@ -1,0 +1,5 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2020-01-20,2,1,CLEVELAND CAVALIERS,HOME,NEW YORK KNICKS,LOSS,178,1,2,0,1,0,0,0,1,1,0,1,0,0,2.7
+True,2020-01-28,0,1,CLEVELAND CAVALIERS,HOME,NEW ORLEANS PELICANS,LOSS,98,0,0,0,0,0,0,0,0,0,0,0,0,1,-0.4
+True,2020-03-02,0,-1,CLEVELAND CAVALIERS,HOME,UTAH JAZZ,LOSS,74,0,0,0,0,0,0,0,0,0,1,0,0,0,1.0
+True,2020-03-10,0,6,CLEVELAND CAVALIERS,AWAY,CHICAGO BULLS,LOSS,775,0,2,0,1,0,0,0,2,0,1,0,0,0,0.2

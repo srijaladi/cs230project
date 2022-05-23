@@ -1,0 +1,5 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2017-10-25,0,-5,CHARLOTTE HORNETS,HOME,DENVER NUGGETS,WIN,208,0,2,0,0,0,0,1,1,0,0,0,0,0,-0.4
+True,2017-12-18,0,0,CHARLOTTE HORNETS,HOME,NEW YORK KNICKS,WIN,129,0,0,0,0,0,0,0,1,0,0,0,0,1,-0.1
+True,2017-12-20,0,3,CHARLOTTE HORNETS,HOME,TORONTO RAPTORS,LOSS,285,0,0,0,0,0,0,0,3,0,0,0,0,1,0.5
+True,2018-03-22,8,3,CHARLOTTE HORNETS,HOME,MEMPHIS GRIZZLIES,WIN,566,4,5,0,0,0,1,2,2,0,1,0,0,3,7.5

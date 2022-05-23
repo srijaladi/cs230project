@@ -1,0 +1,9 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2021-03-22,0,1,MILWAUKEE BUCKS,HOME,INDIANA PACERS,WIN,201,0,1,0,0,0,0,0,1,0,0,2,0,1,0.6
+True,2021-03-26,2,11,MILWAUKEE BUCKS,HOME,BOSTON CELTICS,LOSS,369,1,1,0,0,0,0,0,0,1,0,0,0,0,2.4
+True,2021-03-27,2,-11,MILWAUKEE BUCKS,HOME,NEW YORK KNICKS,LOSS,1636,1,4,0,1,0,0,0,2,1,0,1,0,2,0.8
+True,2021-03-29,0,-4,MILWAUKEE BUCKS,AWAY,LOS ANGELES CLIPPERS,LOSS,153,0,1,0,0,0,0,0,1,0,0,0,0,0,-0.4
+True,2021-03-31,0,1,MILWAUKEE BUCKS,AWAY,LOS ANGELES LAKERS,WIN,86,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2021-04-06,0,-3,MILWAUKEE BUCKS,AWAY,GOLDEN STATE WARRIORS,LOSS,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2021-04-08,1,-1,MILWAUKEE BUCKS,AWAY,DALLAS MAVERICKS,LOSS,130,0,0,0,0,1,2,0,0,0,0,0,0,0,0.6
+True,2021-04-09,9,3,MILWAUKEE BUCKS,HOME,CHARLOTTE HORNETS,LOSS,1065,2,4,1,1,4,5,0,2,2,2,0,0,3,9.4

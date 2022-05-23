@@ -1,0 +1,4 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2019-04-05,2,-6,SAN ANTONIO SPURS,AWAY,WASHINGTON WIZARDS,WIN,261,1,4,0,0,0,0,1,0,0,0,1,1,1,-0.4
+True,2019-04-07,2,-4,SAN ANTONIO SPURS,AWAY,CLEVELAND CAVALIERS,WIN,350,1,1,0,0,0,2,0,1,1,0,0,0,4,0.3
+True,2019-04-10,2,-6,SAN ANTONIO SPURS,HOME,DALLAS MAVERICKS,WIN,156,1,1,0,0,0,0,1,0,0,0,0,2,1,0.0

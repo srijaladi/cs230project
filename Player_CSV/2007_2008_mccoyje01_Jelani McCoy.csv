@@ -1,0 +1,7 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2007-11-29,0,-5,DENVER NUGGETS,AWAY,LOS ANGELES LAKERS,LOSS,304,0,0,0,0,0,0,0,2,0,0,2,0,1,1.6
+True,2007-11-30,1,-2,DENVER NUGGETS,HOME,LOS ANGELES CLIPPERS,WIN,82,0,0,0,0,1,2,0,0,0,0,0,1,0,-0.4
+True,2007-12-02,0,-5,DENVER NUGGETS,HOME,MIAMI HEAT,WIN,306,0,0,0,0,0,0,0,1,0,0,1,1,3,-1.2
+True,2007-12-15,0,-4,DENVER NUGGETS,AWAY,SAN ANTONIO SPURS,LOSS,123,0,0,0,0,0,0,0,0,0,0,1,0,0,0.7
+True,2007-12-16,0,3,DENVER NUGGETS,HOME,PORTLAND TRAIL BLAZERS,LOSS,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+True,2007-12-21,2,-1,DENVER NUGGETS,AWAY,PORTLAND TRAIL BLAZERS,LOSS,1103,1,1,0,0,0,0,1,3,0,0,1,2,3,0.8

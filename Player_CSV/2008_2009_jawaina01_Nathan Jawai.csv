@@ -1,0 +1,7 @@
+active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+True,2009-01-21,0,-2,TORONTO RAPTORS,AWAY,DETROIT PISTONS,LOSS,185,0,0,0,0,0,0,0,0,0,0,0,1,0,-1.0
+True,2009-01-25,0,-1,TORONTO RAPTORS,HOME,SACRAMENTO KINGS,WIN,109,0,1,0,0,0,0,0,0,0,0,0,0,1,-1.1
+True,2009-02-01,0,-1,TORONTO RAPTORS,HOME,ORLANDO MAGIC,LOSS,177,0,0,0,0,0,0,0,0,0,0,0,1,0,-1.0
+True,2009-02-18,2,3,TORONTO RAPTORS,HOME,CLEVELAND CAVALIERS,LOSS,325,1,2,0,0,0,0,1,0,0,0,0,0,0,1.7
+True,2009-02-20,0,-3,TORONTO RAPTORS,AWAY,NEW YORK KNICKS,LOSS,301,0,1,0,0,0,0,0,1,0,0,0,0,2,-1.2
+True,2009-03-25,0,-4,TORONTO RAPTORS,HOME,MILWAUKEE BUCKS,WIN,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
