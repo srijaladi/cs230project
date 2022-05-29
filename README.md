@@ -1,5 +1,4 @@
 # cs230project
-CS230 Project: 
 Predicting Daily Fantasy Basketball Scores Using Sequential Deep Learning
 
 Created by:
@@ -9,11 +8,17 @@ Will Denton, Sri Jaladi
 Model Files:
 
 BaselineBasicRNN contains code for the baseline RNN built from scratch
+
 GruRNNModel contains code for the GRU Model
+
 RNNModel contains code for the PyTorch-based RNN Model
+
 NN_LSTM_Models contains 3 MODELS
+
   Deep Neural Network Model
+  
   LSTM Model (End-to-End)
+  
   LSTM Model (Stats-Evaluating)
   
   
