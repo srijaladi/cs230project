@@ -1,5 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2017-11-11,2,7,SAN ANTONIO SPURS,HOME,CHICAGO BULLS,WIN,634,1,1,0,0,0,0,0,5,0,0,2,0,3,3.4
-True,2018-01-08,0,-1,SAN ANTONIO SPURS,AWAY,SACRAMENTO KINGS,WIN,268,0,1,0,0,0,0,0,0,0,0,0,0,1,-1.1
-True,2018-01-11,0,3,SAN ANTONIO SPURS,AWAY,LOS ANGELES LAKERS,LOSS,154,0,1,0,0,0,0,1,1,0,0,0,1,1,-1.1
-True,2018-03-12,2,6,SAN ANTONIO SPURS,AWAY,HOUSTON ROCKETS,LOSS,876,1,1,0,0,0,0,0,2,2,2,0,0,2,4.9

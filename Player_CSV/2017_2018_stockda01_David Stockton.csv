@@ -1,4 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2018-03-25,2,-5,UTAH JAZZ,AWAY,GOLDEN STATE WARRIORS,WIN,180,0,0,0,0,2,2,0,0,0,0,0,1,1,0.6
-True,2018-04-01,5,-4,UTAH JAZZ,AWAY,MINNESOTA TIMBERWOLVES,WIN,208,1,2,1,2,2,2,0,0,0,0,0,0,1,3.6
-True,2018-04-05,3,-2,UTAH JAZZ,HOME,LOS ANGELES CLIPPERS,WIN,172,1,1,1,1,0,0,0,0,0,0,0,0,1,2.3

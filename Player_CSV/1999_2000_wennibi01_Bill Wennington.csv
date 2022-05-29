@@ -1,8 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,1999-12-20,6,7,SACRAMENTO KINGS,AWAY,GOLDEN STATE WARRIORS,LOSS,257,2,2,0,0,2,2,2,2,0,0,0,0,2,6.6
-True,2000-03-12,2,-11,SACRAMENTO KINGS,AWAY,LOS ANGELES LAKERS,LOSS,450,1,3,0,0,0,0,0,0,0,1,0,0,3,0.1
-True,2000-03-15,2,1,SACRAMENTO KINGS,HOME,LOS ANGELES CLIPPERS,WIN,255,1,1,0,0,0,0,0,0,0,0,0,0,1,1.3
-True,2000-03-18,0,7,SACRAMENTO KINGS,AWAY,LOS ANGELES CLIPPERS,WIN,347,0,1,0,0,0,0,0,3,1,0,1,0,2,0.8
-True,2000-04-02,0,0,SACRAMENTO KINGS,HOME,PHILADELPHIA 76ERS,WIN,184,0,1,0,0,0,0,0,1,0,0,0,0,0,-0.4
-True,2000-04-05,2,-9,SACRAMENTO KINGS,AWAY,SAN ANTONIO SPURS,WIN,207,1,2,0,0,0,0,1,0,0,0,0,1,1,0.3
-True,2000-04-19,2,-1,SACRAMENTO KINGS,AWAY,UTAH JAZZ,LOSS,1740,1,9,0,0,0,0,2,8,0,1,1,0,4,0.0

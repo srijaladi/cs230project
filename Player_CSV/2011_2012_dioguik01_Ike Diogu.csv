@@ -1,3 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2012-01-05,0,0,SAN ANTONIO SPURS,HOME,DALLAS MAVERICKS,WIN,283,0,1,0,0,0,0,0,0,0,0,0,1,1,-2.1
-True,2012-01-08,2,11,SAN ANTONIO SPURS,AWAY,OKLAHOMA CITY THUNDER,LOSS,569,0,1,0,0,2,2,0,1,0,0,0,0,0,1.6

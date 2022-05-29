@@ -1,4 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2001-11-02,2,5,LOS ANGELES LAKERS,HOME,PHOENIX SUNS,WIN,220,1,1,0,0,0,0,0,0,1,2,0,0,0,4.4
-True,2001-11-04,1,1,LOS ANGELES LAKERS,HOME,UTAH JAZZ,WIN,121,0,0,0,0,1,2,0,1,1,0,0,0,0,1.6
-True,2001-11-09,2,-8,LOS ANGELES LAKERS,HOME,MEMPHIS GRIZZLIES,WIN,372,0,1,0,0,2,2,0,1,0,0,0,0,0,1.6

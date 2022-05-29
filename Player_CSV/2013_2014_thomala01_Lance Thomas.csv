@@ -1,6 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2013-10-30,0,-10,NEW ORLEANS PELICANS,HOME,INDIANA PACERS,LOSS,429,0,2,0,0,0,0,1,0,0,0,0,1,1,-2.1
-True,2013-11-02,4,4,NEW ORLEANS PELICANS,HOME,CHARLOTTE BOBCATS,WIN,829,1,2,0,0,2,4,0,2,0,0,0,1,1,1.4
-True,2013-11-06,0,3,NEW ORLEANS PELICANS,AWAY,MEMPHIS GRIZZLIES,WIN,225,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2013-11-08,0,1,NEW ORLEANS PELICANS,HOME,LOS ANGELES LAKERS,WIN,622,0,1,0,0,0,0,1,2,2,0,0,0,2,1.2
-True,2013-11-10,2,-1,NEW ORLEANS PELICANS,AWAY,PHOENIX SUNS,LOSS,429,1,4,0,0,0,0,0,1,1,0,0,0,0,0.6

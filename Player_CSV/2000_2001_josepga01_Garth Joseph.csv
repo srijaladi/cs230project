@@ -1,5 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2000-11-10,2,-4,TORONTO RAPTORS,HOME,CLEVELAND CAVALIERS,WIN,191,1,1,0,0,0,0,1,0,1,0,0,1,1,1.7
-True,2000-12-05,0,-4,TORONTO RAPTORS,AWAY,UTAH JAZZ,LOSS,300,0,1,0,0,0,0,1,0,0,0,0,0,0,0.0
-True,2001-01-15,0,-4,DENVER NUGGETS,HOME,SEATTLE SUPERSONICS,WIN,88,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7
-True,2001-01-17,0,2,DENVER NUGGETS,HOME,VANCOUVER GRIZZLIES,WIN,364,0,2,0,0,0,2,0,0,0,0,1,1,0,-2.5

@@ -1,3 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2017-04-09,0,-6,PHOENIX SUNS,HOME,DALLAS MAVERICKS,WIN,720,0,5,0,2,0,0,0,2,1,0,0,1,2,-4.0
-True,2017-04-11,3,0,PHOENIX SUNS,AWAY,SACRAMENTO KINGS,LOSS,668,1,2,0,0,1,2,3,1,0,0,0,1,0,3.0

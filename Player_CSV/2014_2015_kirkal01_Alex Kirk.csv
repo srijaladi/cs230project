@@ -1,6 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2014-11-04,2,-1,CLEVELAND CAVALIERS,AWAY,PORTLAND TRAIL BLAZERS,LOSS,186,0,0,0,0,2,2,0,0,1,0,0,0,0,2.7
-True,2014-11-10,0,-3,CLEVELAND CAVALIERS,HOME,NEW ORLEANS PELICANS,WIN,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2014-11-29,2,-7,CLEVELAND CAVALIERS,HOME,INDIANA PACERS,WIN,178,1,2,0,0,0,0,0,0,0,0,0,0,1,0.6
-True,2014-12-31,0,-1,CLEVELAND CAVALIERS,HOME,MILWAUKEE BUCKS,LOSS,114,0,1,0,0,0,0,1,0,0,0,0,0,0,0.0
-True,2015-01-04,0,-2,CLEVELAND CAVALIERS,HOME,DALLAS MAVERICKS,LOSS,358,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7

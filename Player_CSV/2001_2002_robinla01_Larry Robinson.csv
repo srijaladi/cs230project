@@ -1,3 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2002-04-12,0,-4,NEW YORK KNICKS,AWAY,BOSTON CELTICS,LOSS,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2002-04-14,3,9,NEW YORK KNICKS,AWAY,MIAMI HEAT,WIN,566,1,4,1,2,0,0,0,2,0,0,0,0,1,0.8

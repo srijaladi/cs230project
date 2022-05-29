@@ -1,3 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2002-02-14,7,-17,MEMPHIS GRIZZLIES,HOME,DENVER NUGGETS,LOSS,1300,3,3,0,0,1,2,0,3,3,1,0,4,2,4.9
-True,2002-02-21,4,-19,MEMPHIS GRIZZLIES,HOME,PHOENIX SUNS,LOSS,1556,2,7,0,0,0,0,0,1,4,2,0,3,4,0.4

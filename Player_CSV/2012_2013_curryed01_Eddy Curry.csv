@@ -1,3 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2012-10-30,7,6,DALLAS MAVERICKS,AWAY,LOS ANGELES LAKERS,WIN,1004,3,7,0,0,1,2,2,2,0,0,0,1,4,2.3
-True,2012-10-31,2,0,DALLAS MAVERICKS,AWAY,UTAH JAZZ,LOSS,481,1,1,0,0,0,2,0,0,0,0,0,2,3,-2.3

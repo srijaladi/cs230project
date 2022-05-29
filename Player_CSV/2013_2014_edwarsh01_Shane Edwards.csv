@@ -1,3 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2014-03-16,0,-3,CLEVELAND CAVALIERS,AWAY,LOS ANGELES CLIPPERS,LOSS,78,0,1,0,0,0,0,1,0,0,0,0,0,0,0.0
-True,2014-03-20,2,-5,CLEVELAND CAVALIERS,HOME,OKLAHOMA CITY THUNDER,LOSS,627,1,2,0,0,0,0,0,1,0,0,0,1,1,-0.1

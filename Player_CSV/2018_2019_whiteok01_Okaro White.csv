@@ -1,4 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2018-11-23,0,1,WASHINGTON WIZARDS,AWAY,TORONTO RAPTORS,LOSS,193,0,1,0,1,0,0,1,1,0,0,0,0,0,0.3
-True,2018-12-05,0,-3,WASHINGTON WIZARDS,AWAY,ATLANTA HAWKS,WIN,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2018-12-16,0,-1,WASHINGTON WIZARDS,HOME,LOS ANGELES LAKERS,WIN,127,0,1,0,1,0,0,0,0,0,0,0,0,0,-0.7

@@ -1,7 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2015-04-03,8,0,LOS ANGELES LAKERS,HOME,PORTLAND TRAIL BLAZERS,LOSS,390,3,4,2,2,0,0,0,1,1,0,0,2,0,5.4
-True,2015-04-05,9,-11,LOS ANGELES LAKERS,HOME,LOS ANGELES CLIPPERS,LOSS,1302,3,6,2,2,1,1,1,2,1,2,0,4,1,5.6
-True,2015-04-07,5,-3,LOS ANGELES LAKERS,AWAY,LOS ANGELES CLIPPERS,LOSS,755,1,4,1,1,2,2,0,1,1,0,0,0,0,3.6
-True,2015-04-08,15,6,LOS ANGELES LAKERS,AWAY,DENVER NUGGETS,LOSS,1989,5,8,1,2,4,5,1,4,3,1,0,4,0,12.0
-True,2015-04-10,5,-3,LOS ANGELES LAKERS,HOME,MINNESOTA TIMBERWOLVES,WIN,1487,2,7,1,2,0,0,0,1,6,0,0,1,0,4.4
-True,2015-04-12,10,-13,LOS ANGELES LAKERS,HOME,DALLAS MAVERICKS,LOSS,1441,4,11,0,2,2,2,0,1,2,0,0,1,2,3.8

@@ -1,9 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2008-10-29,0,-5,SACRAMENTO KINGS,AWAY,MINNESOTA TIMBERWOLVES,LOSS,407,0,1,0,0,0,0,1,0,0,0,0,0,0,0.0
-True,2008-11-01,0,-4,SACRAMENTO KINGS,AWAY,ORLANDO MAGIC,LOSS,434,0,0,0,0,0,0,0,0,0,1,0,0,0,1.0
-True,2009-01-05,2,7,SACRAMENTO KINGS,AWAY,NEW JERSEY NETS,LOSS,1440,1,1,0,0,0,0,1,7,0,4,1,0,2,8.4
-True,2009-01-09,4,0,SACRAMENTO KINGS,HOME,MIAMI HEAT,LOSS,492,2,3,0,0,0,0,1,1,1,0,0,0,2,3.6
-True,2009-01-13,0,0,SACRAMENTO KINGS,HOME,ORLANDO MAGIC,LOSS,151,0,1,0,0,0,0,1,1,0,0,0,0,0,0.3
-True,2009-01-20,0,-5,SACRAMENTO KINGS,AWAY,DENVER NUGGETS,LOSS,243,0,0,0,0,0,0,0,1,0,0,0,0,2,-0.5
-True,2009-02-11,0,2,SACRAMENTO KINGS,AWAY,HOUSTON ROCKETS,LOSS,227,0,1,0,0,0,0,0,1,0,1,0,1,2,-1.2
-True,2009-02-20,0,-1,SACRAMENTO KINGS,AWAY,MEMPHIS GRIZZLIES,WIN,312,0,1,0,0,0,0,0,0,0,0,0,0,1,-1.1

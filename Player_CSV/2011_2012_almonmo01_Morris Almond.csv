@@ -1,5 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2012-04-18,2,6,WASHINGTON WIZARDS,HOME,MILWAUKEE BUCKS,WIN,344,1,1,0,0,0,0,0,0,0,0,0,0,0,1.7
-True,2012-04-23,2,4,WASHINGTON WIZARDS,HOME,CHARLOTTE BOBCATS,WIN,508,1,1,0,0,0,0,0,1,0,1,0,0,0,3.0
-True,2012-04-25,5,0,WASHINGTON WIZARDS,AWAY,CLEVELAND CAVALIERS,WIN,1574,2,9,1,3,0,1,1,2,1,1,0,0,2,1.3
-True,2012-04-26,5,24,WASHINGTON WIZARDS,HOME,MIAMI HEAT,WIN,1570,2,6,0,0,1,2,0,4,1,5,0,1,4,5.5

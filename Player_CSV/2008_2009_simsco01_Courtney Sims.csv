@@ -1,3 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2009-02-22,0,-1,PHOENIX SUNS,HOME,BOSTON CELTICS,LOSS,119,0,0,0,0,0,0,0,0,0,0,0,1,0,-1.0
-True,2009-04-08,6,2,NEW YORK KNICKS,HOME,DETROIT PISTONS,LOSS,678,3,6,0,0,0,0,2,2,0,0,0,0,1,4.6

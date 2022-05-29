@@ -1,9 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2019-02-25,0,-9,MILWAUKEE BUCKS,AWAY,CHICAGO BULLS,WIN,183,0,1,0,1,0,0,0,0,0,0,0,0,0,-0.7
-True,2019-03-24,3,5,MILWAUKEE BUCKS,HOME,CLEVELAND CAVALIERS,WIN,91,1,2,1,1,0,0,1,1,1,0,0,0,0,3.7
-True,2019-03-26,0,-1,MILWAUKEE BUCKS,HOME,HOUSTON ROCKETS,WIN,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2019-03-28,0,-4,MILWAUKEE BUCKS,HOME,LOS ANGELES CLIPPERS,WIN,70,0,0,0,0,0,0,0,1,0,0,0,0,0,0.3
-True,2019-03-31,15,9,MILWAUKEE BUCKS,AWAY,ATLANTA HAWKS,LOSS,2465,5,18,1,9,4,4,5,11,2,1,1,1,2,12.5
-True,2019-04-01,0,-5,MILWAUKEE BUCKS,AWAY,BROOKLYN NETS,WIN,87,0,1,0,0,0,0,0,0,0,0,0,0,1,-1.1
-True,2019-04-07,0,-6,MILWAUKEE BUCKS,HOME,ATLANTA HAWKS,WIN,251,0,1,0,1,0,0,0,1,0,1,0,0,0,0.6
-True,2019-04-10,21,-11,MILWAUKEE BUCKS,HOME,OKLAHOMA CITY THUNDER,LOSS,2690,7,16,3,9,4,5,2,8,0,3,0,2,0,17.0

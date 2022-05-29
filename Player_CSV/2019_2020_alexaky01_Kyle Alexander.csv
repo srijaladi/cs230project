@@ -1,3 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2020-08-06,0,0,MIAMI HEAT,AWAY,MILWAUKEE BUCKS,LOSS,82,0,1,0,0,0,0,1,0,0,0,0,0,0,0.0
-True,2020-08-14,2,-3,MIAMI HEAT,AWAY,INDIANA PACERS,LOSS,720,1,1,0,0,0,0,1,1,0,0,0,1,1,1.3

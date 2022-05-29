@@ -1,7 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2008-03-01,2,0,ORLANDO MAGIC,HOME,NEW YORK KNICKS,WIN,141,1,1,0,0,0,0,0,1,0,0,0,0,1,1.6
-True,2008-03-04,0,0,ORLANDO MAGIC,HOME,TORONTO RAPTORS,WIN,37,0,0,0,0,0,0,0,1,0,0,0,0,0,0.3
-True,2008-03-05,4,-1,ORLANDO MAGIC,AWAY,WASHINGTON WIZARDS,WIN,324,2,3,0,0,0,0,2,0,0,0,0,1,1,2.7
-True,2008-03-10,0,-8,ORLANDO MAGIC,HOME,ATLANTA HAWKS,WIN,128,0,2,0,0,0,0,0,0,0,0,0,0,1,-1.8
-True,2008-03-28,0,-2,ORLANDO MAGIC,AWAY,MILWAUKEE BUCKS,WIN,139,0,0,0,0,0,0,1,0,0,0,0,0,0,0.7
-True,2008-04-16,12,11,ORLANDO MAGIC,HOME,WASHINGTON WIZARDS,WIN,1671,5,11,0,0,2,3,5,6,2,1,1,1,1,12.9

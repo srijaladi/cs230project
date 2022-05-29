@@ -1,6 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2014-04-03,0,2,SAN ANTONIO SPURS,AWAY,OKLAHOMA CITY THUNDER,LOSS,296,0,1,0,0,0,0,0,2,0,0,0,0,0,-0.1
-True,2014-04-08,0,-1,SAN ANTONIO SPURS,AWAY,MINNESOTA TIMBERWOLVES,LOSS,283,0,1,0,0,0,0,0,1,0,0,0,0,0,-0.4
-True,2014-04-11,0,0,SAN ANTONIO SPURS,HOME,PHOENIX SUNS,WIN,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2014-04-14,6,13,SAN ANTONIO SPURS,AWAY,HOUSTON ROCKETS,LOSS,1717,2,5,0,2,2,2,1,8,2,0,1,1,2,6.7
-True,2014-04-16,0,-2,SAN ANTONIO SPURS,HOME,LOS ANGELES LAKERS,LOSS,720,0,2,0,0,0,0,0,0,1,0,0,0,1,-1.1

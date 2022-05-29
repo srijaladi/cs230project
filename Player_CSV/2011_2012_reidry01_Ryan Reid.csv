@@ -1,6 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2012-02-14,4,3,OKLAHOMA CITY THUNDER,HOME,UTAH JAZZ,WIN,231,2,2,0,0,0,0,1,0,0,0,0,1,0,3.1
-True,2012-02-17,4,-5,OKLAHOMA CITY THUNDER,HOME,GOLDEN STATE WARRIORS,WIN,398,2,2,0,0,0,0,0,0,0,0,0,0,1,3.0
-True,2012-02-22,0,0,OKLAHOMA CITY THUNDER,HOME,BOSTON CELTICS,WIN,27,0,0,0,0,0,0,0,1,0,0,0,0,0,0.3
-True,2012-02-23,0,1,OKLAHOMA CITY THUNDER,HOME,LOS ANGELES LAKERS,WIN,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2012-03-10,0,4,OKLAHOMA CITY THUNDER,HOME,CHARLOTTE BOBCATS,WIN,298,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7

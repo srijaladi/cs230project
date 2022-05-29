@@ -1,7 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2006-01-05,0,0,CLEVELAND CAVALIERS,HOME,HOUSTON ROCKETS,LOSS,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2006-02-02,0,0,CLEVELAND CAVALIERS,AWAY,MIAMI HEAT,LOSS,179,0,1,0,0,0,0,1,0,0,1,0,0,0,1.0
-True,2006-02-10,0,1,CLEVELAND CAVALIERS,AWAY,WASHINGTON WIZARDS,LOSS,83,0,0,0,0,0,0,0,1,0,0,0,0,1,-0.1
-True,2006-02-13,0,-1,CLEVELAND CAVALIERS,HOME,SAN ANTONIO SPURS,WIN,98,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2006-02-22,0,2,CLEVELAND CAVALIERS,AWAY,PHILADELPHIA 76ERS,LOSS,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2006-02-26,0,9,CLEVELAND CAVALIERS,AWAY,DETROIT PISTONS,LOSS,124,0,0,0,0,0,0,0,2,0,1,0,0,0,1.6

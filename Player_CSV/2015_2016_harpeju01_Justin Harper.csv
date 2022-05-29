@@ -1,6 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2016-02-24,1,-7,DETROIT PISTONS,HOME,PHILADELPHIA 76ERS,WIN,304,0,1,0,1,1,2,0,0,0,1,0,1,0,-0.1
-True,2016-02-27,0,-5,DETROIT PISTONS,AWAY,MILWAUKEE BUCKS,WIN,102,0,1,0,1,0,0,0,0,0,0,0,0,0,-0.7
-True,2016-02-28,9,-17,DETROIT PISTONS,HOME,TORONTO RAPTORS,WIN,950,3,6,3,5,0,0,0,1,0,0,0,1,1,4.9
-True,2016-03-05,0,-3,DETROIT PISTONS,AWAY,NEW YORK KNICKS,LOSS,674,0,1,0,1,0,0,0,0,0,0,0,0,2,-1.5
-True,2016-03-06,3,0,DETROIT PISTONS,HOME,PORTLAND TRAIL BLAZERS,WIN,75,1,1,1,1,0,0,0,0,0,0,0,0,0,2.7

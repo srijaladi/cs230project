@@ -1,6 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2005-02-23,0,1,LOS ANGELES CLIPPERS,AWAY,PHOENIX SUNS,LOSS,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2005-03-12,0,8,PORTLAND TRAIL BLAZERS,HOME,MEMPHIS GRIZZLIES,WIN,486,0,1,0,0,0,0,0,0,1,0,0,0,3,-1.2
-True,2005-03-14,0,3,PORTLAND TRAIL BLAZERS,AWAY,MEMPHIS GRIZZLIES,LOSS,311,0,0,0,0,0,0,0,0,0,1,0,1,0,0.0
-True,2005-03-16,0,-3,PORTLAND TRAIL BLAZERS,AWAY,HOUSTON ROCKETS,LOSS,282,0,0,0,0,0,0,1,1,0,0,0,0,0,1.0
-True,2005-03-19,0,0,PORTLAND TRAIL BLAZERS,HOME,ORLANDO MAGIC,LOSS,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

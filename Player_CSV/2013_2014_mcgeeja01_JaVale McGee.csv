@@ -1,6 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2013-10-30,4,2,DENVER NUGGETS,AWAY,SACRAMENTO KINGS,LOSS,606,2,5,0,0,0,0,1,0,0,0,2,1,4,0.8
-True,2013-11-01,6,-11,DENVER NUGGETS,HOME,PORTLAND TRAIL BLAZERS,LOSS,767,3,6,0,0,0,0,2,1,1,0,1,0,1,5.7
-True,2013-11-05,9,1,DENVER NUGGETS,HOME,SAN ANTONIO SPURS,LOSS,1231,4,10,0,0,1,1,4,3,0,0,2,5,5,1.7
-True,2013-11-07,14,12,DENVER NUGGETS,HOME,ATLANTA HAWKS,WIN,1420,7,13,0,0,0,0,1,2,0,1,2,0,3,10.2
-True,2013-11-08,2,-9,DENVER NUGGETS,AWAY,PHOENIX SUNS,LOSS,745,1,4,0,0,0,0,2,1,1,0,0,2,3,-1.2

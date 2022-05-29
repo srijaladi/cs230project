@@ -1,4 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2001-02-17,0,-7,ATLANTA HAWKS,AWAY,SEATTLE SUPERSONICS,WIN,318,0,0,0,0,0,0,0,0,1,0,0,0,0,0.7
-True,2001-02-18,0,-1,ATLANTA HAWKS,AWAY,GOLDEN STATE WARRIORS,WIN,76,0,0,0,0,0,0,0,0,1,0,0,1,0,-0.3
-True,2001-02-20,0,1,ATLANTA HAWKS,AWAY,SACRAMENTO KINGS,LOSS,762,0,2,0,0,0,0,1,1,5,0,0,0,0,3.1

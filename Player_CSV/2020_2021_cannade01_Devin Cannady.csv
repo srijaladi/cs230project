@@ -1,9 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2021-04-07,2,2,ORLANDO MAGIC,HOME,WASHINGTON WIZARDS,LOSS,104,0,2,0,2,2,2,0,0,0,1,0,0,1,1.2
-True,2021-04-11,4,-9,ORLANDO MAGIC,HOME,MILWAUKEE BUCKS,LOSS,416,1,2,0,1,2,2,0,0,0,0,0,0,1,2.6
-True,2021-04-12,8,2,ORLANDO MAGIC,HOME,SAN ANTONIO SPURS,LOSS,281,2,3,2,2,2,3,0,0,0,0,1,0,0,7.0
-True,2021-04-16,0,3,ORLANDO MAGIC,AWAY,TORONTO RAPTORS,LOSS,117,0,0,0,0,0,0,0,0,0,1,0,0,0,1.0
-True,2021-04-18,0,-3,ORLANDO MAGIC,HOME,HOUSTON ROCKETS,LOSS,923,0,3,0,1,0,0,0,2,1,1,0,1,1,-1.2
-True,2021-04-20,3,-5,ORLANDO MAGIC,AWAY,ATLANTA HAWKS,LOSS,1097,1,7,1,5,0,0,0,0,0,0,0,1,3,-3.7
-True,2021-04-22,17,-10,ORLANDO MAGIC,HOME,NEW ORLEANS PELICANS,LOSS,1469,7,11,3,5,0,0,0,3,0,2,0,0,2,14.2
-True,2021-04-25,0,-3,ORLANDO MAGIC,HOME,INDIANA PACERS,LOSS,54,0,0,0,0,0,0,0,0,0,0,0,0,1,-0.4

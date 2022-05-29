@@ -1,5 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2020-12-26,0,3,INDIANA PACERS,AWAY,CHICAGO BULLS,WIN,125,0,1,0,0,0,0,1,1,0,0,0,0,0,0.3
-True,2020-12-31,3,1,INDIANA PACERS,HOME,CLEVELAND CAVALIERS,WIN,96,1,1,0,0,1,1,0,1,1,0,0,0,0,3.7
-True,2021-01-17,2,-7,INDIANA PACERS,AWAY,LOS ANGELES CLIPPERS,LOSS,306,0,2,0,1,2,2,0,1,1,0,0,0,0,1.6
-True,2021-03-22,0,-1,INDIANA PACERS,AWAY,MILWAUKEE BUCKS,LOSS,201,0,5,0,0,0,0,1,0,0,0,0,0,0,-2.8

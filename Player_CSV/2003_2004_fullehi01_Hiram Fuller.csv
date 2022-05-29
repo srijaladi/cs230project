@@ -1,5 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2004-02-27,4,8,ATLANTA HAWKS,AWAY,DETROIT PISTONS,LOSS,894,2,4,0,0,0,2,3,3,1,0,0,1,1,3.5
-True,2004-03-02,1,1,ATLANTA HAWKS,HOME,LOS ANGELES LAKERS,WIN,346,0,0,0,0,1,2,0,1,0,0,0,1,3,-1.3
-True,2004-03-03,3,-3,ATLANTA HAWKS,AWAY,CLEVELAND CAVALIERS,LOSS,1125,1,4,0,0,1,2,1,3,1,0,1,2,1,0.8
-True,2004-03-05,0,-3,ATLANTA HAWKS,AWAY,ORLANDO MAGIC,LOSS,187,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

@@ -1,5 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2012-02-21,9,-25,SAN ANTONIO SPURS,AWAY,PORTLAND TRAIL BLAZERS,LOSS,1901,4,8,0,0,1,2,3,3,0,1,1,2,4,5.7
-True,2012-02-23,0,0,SAN ANTONIO SPURS,AWAY,DENVER NUGGETS,WIN,123,0,0,0,0,0,0,0,1,0,0,0,0,0,0.3
-True,2012-03-21,0,-4,SAN ANTONIO SPURS,HOME,MINNESOTA TIMBERWOLVES,WIN,248,0,1,0,0,0,0,2,1,0,0,0,1,1,-0.4
-True,2012-03-23,6,5,SAN ANTONIO SPURS,HOME,DALLAS MAVERICKS,WIN,82,3,3,0,0,0,0,0,0,0,0,1,0,1,5.4

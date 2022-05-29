@@ -1,5 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2001-04-12,5,-1,CHARLOTTE HORNETS,HOME,NEW JERSEY NETS,WIN,713,2,5,1,2,0,0,1,0,0,0,0,0,2,2.2
-True,2001-04-15,5,-1,CHARLOTTE HORNETS,AWAY,DETROIT PISTONS,WIN,473,2,3,0,1,1,2,0,0,0,1,0,0,3,3.1
-True,2001-04-16,4,-1,CHARLOTTE HORNETS,HOME,ATLANTA HAWKS,WIN,506,2,4,0,1,0,2,0,0,0,2,0,0,1,2.8
-True,2001-04-18,3,-5,CHARLOTTE HORNETS,AWAY,BOSTON CELTICS,WIN,705,1,3,1,2,0,0,0,2,1,0,0,0,2,1.8

@@ -1,4 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2015-02-21,1,6,SACRAMENTO KINGS,AWAY,LOS ANGELES CLIPPERS,LOSS,402,0,2,0,1,1,1,0,2,1,0,0,2,0,-1.1
-True,2015-04-12,2,2,SACRAMENTO KINGS,AWAY,DENVER NUGGETS,LOSS,420,0,1,0,0,2,4,0,0,1,0,0,0,0,1.2
-True,2015-04-15,5,15,SACRAMENTO KINGS,AWAY,LOS ANGELES LAKERS,WIN,1163,2,3,1,1,0,1,0,0,7,2,0,2,1,7.8

@@ -1,8 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2004-03-19,0,7,HOUSTON ROCKETS,AWAY,GOLDEN STATE WARRIORS,LOSS,119,0,0,0,0,0,0,0,1,0,0,0,0,2,-0.5
-True,2004-03-21,0,0,HOUSTON ROCKETS,AWAY,SACRAMENTO KINGS,LOSS,80,0,0,0,0,0,0,0,1,0,0,0,0,0,0.3
-True,2004-03-22,2,-4,HOUSTON ROCKETS,AWAY,PORTLAND TRAIL BLAZERS,WIN,274,0,0,0,0,2,2,0,0,0,0,0,0,2,1.2
-True,2004-03-24,2,0,HOUSTON ROCKETS,HOME,TORONTO RAPTORS,WIN,32,1,1,0,0,0,0,0,0,0,0,0,0,0,1.7
-True,2004-03-26,0,-2,HOUSTON ROCKETS,AWAY,MEMPHIS GRIZZLIES,LOSS,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2004-04-01,1,-2,HOUSTON ROCKETS,AWAY,LOS ANGELES LAKERS,LOSS,440,0,3,0,0,1,2,0,1,1,0,0,0,3,-1.7
-True,2004-04-02,4,5,HOUSTON ROCKETS,AWAY,DENVER NUGGETS,LOSS,467,1,2,0,0,2,2,0,2,1,0,0,1,1,2.9

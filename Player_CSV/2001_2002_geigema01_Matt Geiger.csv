@@ -1,5 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2001-10-30,0,-10,PHILADELPHIA 76ERS,AWAY,MINNESOTA TIMBERWOLVES,LOSS,713,0,2,0,0,0,0,1,0,0,0,1,0,1,-0.4
-True,2001-11-01,3,-7,PHILADELPHIA 76ERS,HOME,DALLAS MAVERICKS,LOSS,646,1,4,0,0,1,2,1,2,0,0,0,1,1,0.1
-True,2001-11-03,0,1,PHILADELPHIA 76ERS,AWAY,WASHINGTON WIZARDS,LOSS,353,0,1,0,0,0,0,1,1,0,0,0,0,0,0.3
-True,2001-11-06,0,-10,PHILADELPHIA 76ERS,HOME,INDIANA PACERS,LOSS,399,0,1,0,0,0,0,0,0,0,0,1,1,0,-1.0

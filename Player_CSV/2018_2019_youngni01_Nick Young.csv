@@ -1,5 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2018-12-14,6,4,DENVER NUGGETS,HOME,OKLAHOMA CITY THUNDER,WIN,534,2,3,2,3,0,0,0,0,0,0,0,0,2,3.9
-True,2018-12-16,3,-1,DENVER NUGGETS,HOME,TORONTO RAPTORS,WIN,395,1,1,1,1,0,0,0,1,0,0,0,2,0,1.0
-True,2018-12-18,0,-2,DENVER NUGGETS,HOME,DALLAS MAVERICKS,WIN,515,0,1,0,1,0,0,0,0,1,0,0,0,2,-0.8
-True,2018-12-22,0,-6,DENVER NUGGETS,AWAY,LOS ANGELES CLIPPERS,LOSS,784,0,4,0,3,0,0,0,0,1,0,1,0,0,-1.4

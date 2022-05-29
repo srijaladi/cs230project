@@ -1,4 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2018-12-29,0,-10,UTAH JAZZ,HOME,NEW YORK KNICKS,WIN,516,0,3,0,0,0,0,2,1,0,0,0,1,1,-1.8
-True,2019-04-05,2,1,UTAH JAZZ,HOME,SACRAMENTO KINGS,WIN,185,1,1,0,0,0,0,0,2,0,0,0,0,1,1.9
-True,2019-04-10,15,-9,UTAH JAZZ,AWAY,LOS ANGELES CLIPPERS,LOSS,1453,7,12,0,0,1,2,7,3,1,2,2,2,4,15.3

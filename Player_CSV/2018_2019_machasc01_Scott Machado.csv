@@ -1,5 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2019-03-24,0,-5,LOS ANGELES LAKERS,HOME,SACRAMENTO KINGS,WIN,98,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2019-03-26,3,5,LOS ANGELES LAKERS,HOME,WASHINGTON WIZARDS,WIN,66,1,2,0,0,1,1,0,0,0,0,0,0,0,2.0
-True,2019-03-27,7,3,LOS ANGELES LAKERS,AWAY,UTAH JAZZ,LOSS,921,3,4,1,1,0,0,0,0,3,1,0,0,2,7.7
-True,2019-03-29,0,-3,LOS ANGELES LAKERS,HOME,CHARLOTTE HORNETS,WIN,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

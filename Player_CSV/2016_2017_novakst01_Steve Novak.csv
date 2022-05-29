@@ -1,9 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2016-11-05,0,0,MILWAUKEE BUCKS,HOME,SACRAMENTO KINGS,WIN,214,0,1,0,1,0,0,0,0,0,0,0,0,0,-0.7
-True,2016-11-29,0,-2,MILWAUKEE BUCKS,HOME,CLEVELAND CAVALIERS,WIN,98,0,1,0,1,0,0,0,1,0,0,0,0,0,-0.4
-True,2016-12-16,0,-3,MILWAUKEE BUCKS,AWAY,CHICAGO BULLS,WIN,178,0,1,0,1,0,0,0,0,0,0,0,0,0,-0.7
-True,2016-12-21,0,4,MILWAUKEE BUCKS,AWAY,CLEVELAND CAVALIERS,LOSS,152,0,0,0,0,0,0,0,1,0,0,0,0,1,-0.1
-True,2016-12-23,0,-1,MILWAUKEE BUCKS,HOME,WASHINGTON WIZARDS,WIN,227,0,1,0,1,0,0,0,0,0,0,0,0,0,-0.7
-True,2016-12-28,0,-1,MILWAUKEE BUCKS,AWAY,DETROIT PISTONS,WIN,163,0,1,0,1,0,0,0,1,0,0,0,0,0,-0.4
-True,2016-12-30,3,-2,MILWAUKEE BUCKS,AWAY,MINNESOTA TIMBERWOLVES,LOSS,174,1,1,1,1,0,0,0,0,0,0,0,0,0,2.7
-True,2016-12-31,2,5,MILWAUKEE BUCKS,AWAY,CHICAGO BULLS,WIN,109,1,1,0,0,0,0,0,0,0,0,0,0,0,1.7

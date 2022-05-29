@@ -1,4 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2007-10-31,0,5,INDIANA PACERS,HOME,WASHINGTON WIZARDS,WIN,462,0,0,0,0,0,0,0,1,0,0,0,0,2,-0.5
-True,2007-11-20,0,-2,INDIANA PACERS,HOME,LOS ANGELES LAKERS,LOSS,71,0,0,0,0,0,0,0,0,1,0,0,0,0,0.7
-True,2007-12-12,0,-4,INDIANA PACERS,HOME,CHICAGO BULLS,WIN,135,0,1,0,0,0,0,1,0,0,0,0,0,0,0.0

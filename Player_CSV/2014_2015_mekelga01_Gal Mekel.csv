@@ -1,5 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2014-12-06,0,6,NEW ORLEANS PELICANS,AWAY,LOS ANGELES CLIPPERS,LOSS,647,0,4,0,1,0,0,0,0,6,0,0,2,0,-0.6
-True,2014-12-07,2,-2,NEW ORLEANS PELICANS,AWAY,LOS ANGELES LAKERS,WIN,749,1,5,0,1,0,0,0,0,4,0,0,0,0,1.7
-True,2014-12-09,0,-1,NEW ORLEANS PELICANS,HOME,NEW YORK KNICKS,WIN,695,0,5,0,0,0,0,0,0,1,1,0,0,0,-1.8
-True,2014-12-10,4,-1,NEW ORLEANS PELICANS,AWAY,DALLAS MAVERICKS,LOSS,518,2,6,0,1,0,0,0,1,2,1,0,0,1,2.9

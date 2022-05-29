@@ -1,4 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2017-03-03,0,-6,PHILADELPHIA 76ERS,HOME,NEW YORK KNICKS,WIN,286,0,1,0,1,0,0,0,1,0,0,0,1,0,-1.4
-True,2017-03-04,9,-12,PHILADELPHIA 76ERS,HOME,DETROIT PISTONS,LOSS,1356,4,10,1,5,0,0,2,2,1,0,0,3,2,2.5
-True,2017-03-06,3,7,PHILADELPHIA 76ERS,HOME,MILWAUKEE BUCKS,LOSS,237,1,1,1,1,0,0,0,0,1,0,0,0,0,3.4

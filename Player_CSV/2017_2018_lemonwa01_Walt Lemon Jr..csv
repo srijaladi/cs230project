@@ -1,6 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2018-02-23,0,-4,NEW ORLEANS PELICANS,HOME,MIAMI HEAT,WIN,243,0,3,0,0,0,0,0,0,1,0,0,0,0,-1.4
-True,2018-02-26,2,-8,NEW ORLEANS PELICANS,HOME,PHOENIX SUNS,WIN,289,1,1,0,0,0,0,0,0,0,0,0,1,1,0.3
-True,2018-02-28,2,-5,NEW ORLEANS PELICANS,AWAY,SAN ANTONIO SPURS,WIN,319,1,2,0,0,0,0,0,0,0,0,0,0,1,0.6
-True,2018-03-04,6,0,NEW ORLEANS PELICANS,AWAY,DALLAS MAVERICKS,WIN,535,2,4,1,1,1,2,0,1,1,0,0,2,1,2.2
-True,2018-03-09,7,2,NEW ORLEANS PELICANS,HOME,WASHINGTON WIZARDS,LOSS,720,3,6,0,0,1,1,0,1,3,0,1,1,2,5.3

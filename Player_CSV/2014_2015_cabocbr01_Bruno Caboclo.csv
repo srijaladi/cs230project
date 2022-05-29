@@ -1,9 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2014-11-21,8,-3,TORONTO RAPTORS,HOME,MILWAUKEE BUCKS,WIN,720,3,6,2,3,0,0,0,1,0,0,1,1,1,4.6
-True,2014-12-17,0,0,TORONTO RAPTORS,HOME,BROOKLYN NETS,WIN,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2014-12-21,0,-4,TORONTO RAPTORS,HOME,NEW YORK KNICKS,WIN,107,0,3,0,0,0,0,1,0,0,0,0,0,0,-1.4
-True,2015-02-04,0,1,TORONTO RAPTORS,HOME,BROOKLYN NETS,LOSS,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2015-03-22,0,-2,TORONTO RAPTORS,HOME,NEW YORK KNICKS,WIN,95,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7
-True,2015-03-27,0,-4,TORONTO RAPTORS,HOME,LOS ANGELES LAKERS,WIN,85,0,0,0,0,0,0,0,0,0,0,0,2,1,-2.4
-True,2015-04-01,2,-12,TORONTO RAPTORS,AWAY,MINNESOTA TIMBERWOLVES,WIN,213,1,2,0,0,0,0,0,0,0,0,0,0,1,0.6
-True,2015-04-08,0,-4,TORONTO RAPTORS,AWAY,CHARLOTTE HORNETS,WIN,69,0,0,0,0,0,0,0,0,0,0,0,1,0,-1.0

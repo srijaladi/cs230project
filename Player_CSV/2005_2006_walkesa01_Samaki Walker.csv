@@ -1,8 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2005-11-02,0,0,INDIANA PACERS,AWAY,ORLANDO MAGIC,WIN,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2005-11-03,0,1,INDIANA PACERS,AWAY,MIAMI HEAT,WIN,261,0,0,0,0,0,0,0,0,0,0,0,1,2,-1.8
-True,2005-11-11,2,-10,INDIANA PACERS,HOME,NEW JERSEY NETS,WIN,276,0,0,0,0,2,2,0,0,0,0,0,0,2,1.2
-True,2005-11-24,0,3,INDIANA PACERS,HOME,CLEVELAND CAVALIERS,WIN,212,0,0,0,0,0,0,0,2,0,0,0,0,1,0.2
-True,2005-11-29,0,-1,INDIANA PACERS,AWAY,UTAH JAZZ,WIN,286,0,2,0,0,0,0,0,1,0,0,1,1,2,-2.2
-True,2005-12-08,0,-2,INDIANA PACERS,HOME,WASHINGTON WIZARDS,WIN,194,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2005-12-14,0,-2,INDIANA PACERS,AWAY,BOSTON CELTICS,LOSS,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

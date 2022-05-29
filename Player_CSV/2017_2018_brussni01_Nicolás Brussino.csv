@@ -1,5 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2017-10-20,0,2,ATLANTA HAWKS,AWAY,CHARLOTTE HORNETS,LOSS,156,0,1,0,1,0,0,0,1,0,0,0,0,0,-0.4
-True,2017-11-01,0,2,ATLANTA HAWKS,AWAY,PHILADELPHIA 76ERS,LOSS,51,0,0,0,0,0,0,0,1,0,0,0,0,0,0.3
-True,2017-11-03,0,13,ATLANTA HAWKS,HOME,HOUSTON ROCKETS,LOSS,384,0,1,0,1,0,0,0,1,0,0,0,0,0,-0.4
-True,2017-11-10,0,0,ATLANTA HAWKS,AWAY,DETROIT PISTONS,LOSS,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

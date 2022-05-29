@@ -1,7 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2012-03-24,2,4,SAN ANTONIO SPURS,AWAY,NEW ORLEANS HORNETS,WIN,392,1,2,0,1,0,0,0,1,1,0,0,0,1,1.6
-True,2012-03-25,2,-9,SAN ANTONIO SPURS,HOME,PHILADELPHIA 76ERS,WIN,728,1,4,0,3,0,0,0,0,0,1,0,1,1,-0.8
-True,2012-04-06,3,-7,TORONTO RAPTORS,HOME,CLEVELAND CAVALIERS,LOSS,826,1,4,0,1,1,2,0,1,0,0,0,2,3,-2.7
-True,2012-04-11,5,-10,TORONTO RAPTORS,HOME,PHILADELPHIA 76ERS,LOSS,1267,2,3,1,1,0,0,0,3,2,0,0,1,0,5.0
-True,2012-04-13,4,-5,TORONTO RAPTORS,HOME,BOSTON CELTICS,WIN,924,2,5,0,2,0,0,0,0,3,0,0,0,2,2.6
-True,2012-04-15,10,5,TORONTO RAPTORS,AWAY,ATLANTA HAWKS,WIN,1306,3,10,1,6,3,4,0,3,4,1,0,3,3,4.3

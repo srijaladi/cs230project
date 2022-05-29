@@ -1,6 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,1999-12-23,0,0,PHOENIX SUNS,HOME,DALLAS MAVERICKS,LOSS,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,1999-12-26,4,-4,PHOENIX SUNS,HOME,GOLDEN STATE WARRIORS,WIN,235,2,3,0,0,0,0,2,0,0,0,0,1,0,3.1
-True,1999-12-29,0,-6,PHOENIX SUNS,AWAY,LOS ANGELES LAKERS,LOSS,99,0,1,0,0,0,0,1,0,0,0,0,0,0,0.0
-True,2000-01-04,0,-2,PHOENIX SUNS,HOME,CHARLOTTE HORNETS,WIN,339,0,1,0,0,0,0,0,1,1,0,1,0,1,0.6
-True,2000-01-07,0,-4,PHOENIX SUNS,HOME,SAN ANTONIO SPURS,LOSS,541,0,1,0,0,0,0,0,5,1,1,0,2,1,0.1

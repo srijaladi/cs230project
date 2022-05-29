@@ -1,4 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2020-01-29,0,-6,OKLAHOMA CITY THUNDER,AWAY,SACRAMENTO KINGS,WIN,91,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7
-True,2020-02-23,0,0,OKLAHOMA CITY THUNDER,HOME,SAN ANTONIO SPURS,WIN,205,0,0,0,0,0,0,0,1,0,0,0,0,0,0.3
-True,2020-02-28,0,2,OKLAHOMA CITY THUNDER,AWAY,MILWAUKEE BUCKS,LOSS,388,0,0,0,0,0,0,0,1,0,0,0,1,1,-1.1

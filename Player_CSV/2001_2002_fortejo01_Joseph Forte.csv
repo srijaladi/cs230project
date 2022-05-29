@@ -1,9 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2001-10-30,2,-14,BOSTON CELTICS,AWAY,CLEVELAND CAVALIERS,WIN,764,0,2,0,1,2,2,0,1,2,0,0,2,0,0.3
-True,2001-11-21,0,-7,BOSTON CELTICS,HOME,ATLANTA HAWKS,LOSS,231,0,2,0,1,0,0,0,1,0,0,0,0,0,-1.1
-True,2002-01-25,0,-2,BOSTON CELTICS,HOME,PHILADELPHIA 76ERS,LOSS,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2002-01-29,0,-4,BOSTON CELTICS,AWAY,MILWAUKEE BUCKS,LOSS,135,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7
-True,2002-02-06,0,4,BOSTON CELTICS,HOME,SACRAMENTO KINGS,LOSS,212,0,1,0,0,0,0,0,2,1,0,0,0,0,0.6
-True,2002-02-13,2,-4,BOSTON CELTICS,AWAY,GOLDEN STATE WARRIORS,LOSS,128,0,1,0,0,2,2,1,0,0,0,0,1,0,1.0
-True,2002-03-29,2,12,BOSTON CELTICS,HOME,DALLAS MAVERICKS,LOSS,530,1,5,0,1,0,0,0,0,2,2,0,0,1,1.9
-True,2002-03-31,0,-2,BOSTON CELTICS,HOME,MILWAUKEE BUCKS,WIN,220,0,0,0,0,0,0,0,1,1,0,0,0,0,1.0

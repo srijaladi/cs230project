@@ -1,8 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2009-10-30,0,0,CLEVELAND CAVALIERS,AWAY,MINNESOTA TIMBERWOLVES,WIN,160,0,0,0,0,0,0,0,2,0,0,0,1,0,-0.4
-True,2009-11-18,0,0,CLEVELAND CAVALIERS,AWAY,WASHINGTON WIZARDS,LOSS,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2009-12-06,0,-5,CLEVELAND CAVALIERS,AWAY,MILWAUKEE BUCKS,WIN,135,0,0,0,0,0,0,0,0,0,0,0,3,0,-3.0
-True,2010-01-31,6,4,GOLDEN STATE WARRIORS,AWAY,OKLAHOMA CITY THUNDER,LOSS,1466,2,4,0,0,2,2,1,0,6,2,1,0,6,9.2
-True,2010-02-02,12,-15,GOLDEN STATE WARRIORS,AWAY,HOUSTON ROCKETS,LOSS,2260,5,13,1,4,1,2,2,5,7,1,0,3,3,9.1
-True,2010-02-03,0,-8,GOLDEN STATE WARRIORS,AWAY,DALLAS MAVERICKS,LOSS,956,0,3,0,1,0,0,1,5,1,0,0,0,2,0.0
-True,2010-02-06,10,-5,GOLDEN STATE WARRIORS,HOME,OKLAHOMA CITY THUNDER,LOSS,1797,4,12,1,6,1,2,0,2,1,0,0,3,3,-0.1

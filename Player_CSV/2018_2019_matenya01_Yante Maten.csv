@@ -1,3 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2019-04-09,0,2,MIAMI HEAT,HOME,PHILADELPHIA 76ERS,WIN,62,0,2,0,0,0,0,1,0,0,0,0,0,0,-0.7
-True,2019-04-10,2,2,MIAMI HEAT,AWAY,BROOKLYN NETS,LOSS,720,1,2,0,1,0,0,0,2,0,1,0,0,0,2.6

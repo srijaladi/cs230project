@@ -1,4 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2006-11-14,0,1,UTAH JAZZ,HOME,LOS ANGELES CLIPPERS,WIN,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2006-11-18,2,-9,UTAH JAZZ,HOME,PHOENIX SUNS,WIN,431,0,1,0,1,2,2,2,0,0,0,0,2,2,-0.1
-True,2006-11-20,0,-2,UTAH JAZZ,HOME,TORONTO RAPTORS,WIN,286,0,2,0,0,0,0,1,0,0,0,0,1,0,-1.7

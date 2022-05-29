@@ -1,9 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2008-04-02,19,7,LOS ANGELES CLIPPERS,AWAY,SEATTLE SUPERSONICS,WIN,1549,7,14,0,0,5,5,1,4,3,1,1,2,3,14.5
-True,2008-04-03,15,-6,LOS ANGELES CLIPPERS,AWAY,SACRAMENTO KINGS,LOSS,1618,7,15,0,0,1,4,3,6,3,1,2,1,2,12.7
-True,2008-04-06,19,-12,LOS ANGELES CLIPPERS,HOME,HOUSTON ROCKETS,LOSS,2165,8,16,0,0,3,4,3,5,0,0,4,3,2,13.2
-True,2008-04-08,17,-18,LOS ANGELES CLIPPERS,HOME,DENVER NUGGETS,LOSS,2125,5,12,0,0,7,8,2,3,2,1,1,1,2,13.8
-True,2008-04-10,23,-19,LOS ANGELES CLIPPERS,HOME,LOS ANGELES LAKERS,LOSS,2008,10,20,0,0,3,6,3,4,1,0,0,1,5,12.8
-True,2008-04-12,21,-17,LOS ANGELES CLIPPERS,AWAY,GOLDEN STATE WARRIORS,LOSS,2430,6,14,0,0,9,10,5,9,4,0,3,3,2,20.5
-True,2008-04-15,9,-20,LOS ANGELES CLIPPERS,AWAY,NEW ORLEANS HORNETS,LOSS,2086,4,9,0,0,1,2,1,3,2,0,1,4,2,2.8
-True,2008-04-16,18,-12,LOS ANGELES CLIPPERS,AWAY,HOUSTON ROCKETS,LOSS,2447,5,14,0,0,8,8,3,9,1,0,3,2,3,14.6

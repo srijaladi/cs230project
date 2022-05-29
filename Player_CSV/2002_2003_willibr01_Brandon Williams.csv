@@ -1,7 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2003-02-23,0,-6,ATLANTA HAWKS,AWAY,GOLDEN STATE WARRIORS,LOSS,469,0,2,0,0,0,0,0,0,0,1,0,1,1,-1.8
-True,2003-02-26,0,1,ATLANTA HAWKS,AWAY,SEATTLE SUPERSONICS,LOSS,217,0,0,0,0,0,0,0,0,0,0,0,1,2,-1.8
-True,2003-02-28,0,2,ATLANTA HAWKS,AWAY,CHICAGO BULLS,WIN,149,0,0,0,0,0,0,0,0,0,0,0,1,0,-1.0
-True,2003-03-02,0,-4,ATLANTA HAWKS,AWAY,MILWAUKEE BUCKS,LOSS,201,0,2,0,1,0,0,1,0,0,0,0,0,1,-1.1
-True,2003-03-08,2,2,ATLANTA HAWKS,HOME,TORONTO RAPTORS,LOSS,61,1,1,0,0,0,0,0,0,0,1,0,0,0,2.7
-True,2003-03-12,0,2,ATLANTA HAWKS,HOME,MILWAUKEE BUCKS,WIN,99,0,2,0,0,0,0,1,0,0,0,0,0,0,-0.7

@@ -1,9 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2003-03-24,0,7,DENVER NUGGETS,HOME,DALLAS MAVERICKS,LOSS,652,0,2,0,0,0,0,0,1,0,0,0,2,0,-3.1
-True,2003-03-30,9,6,DENVER NUGGETS,HOME,WASHINGTON WIZARDS,WIN,532,3,4,1,1,2,2,1,0,0,0,0,1,1,6.7
-True,2003-04-01,3,-3,DENVER NUGGETS,AWAY,PHOENIX SUNS,LOSS,493,1,5,1,2,0,0,1,0,0,2,0,0,0,2.6
-True,2003-04-08,4,-4,DENVER NUGGETS,HOME,PHOENIX SUNS,LOSS,235,2,4,0,0,0,0,1,0,1,0,0,0,0,3.4
-True,2003-04-11,2,-1,DENVER NUGGETS,AWAY,SACRAMENTO KINGS,LOSS,540,0,3,0,0,2,2,0,1,0,0,0,0,1,-0.2
-True,2003-04-12,15,2,DENVER NUGGETS,HOME,LOS ANGELES CLIPPERS,LOSS,1598,6,11,1,2,2,2,3,2,1,4,0,1,1,15.7
-True,2003-04-15,5,0,DENVER NUGGETS,AWAY,LOS ANGELES LAKERS,LOSS,1032,2,5,0,1,1,1,0,2,2,2,0,3,1,2.9
-True,2003-04-16,7,-12,DENVER NUGGETS,HOME,HOUSTON ROCKETS,LOSS,723,3,6,1,2,0,0,2,2,2,0,0,1,1,6.0

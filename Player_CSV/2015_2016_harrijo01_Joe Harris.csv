@@ -1,6 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2015-10-28,0,2,CLEVELAND CAVALIERS,AWAY,MEMPHIS GRIZZLIES,WIN,315,0,1,0,1,0,0,0,2,1,0,0,0,0,0.6
-True,2015-10-30,3,-4,CLEVELAND CAVALIERS,HOME,MIAMI HEAT,WIN,88,1,1,1,1,0,0,0,0,0,0,0,0,0,2.7
-True,2015-11-02,0,-14,CLEVELAND CAVALIERS,AWAY,PHILADELPHIA 76ERS,WIN,279,0,1,0,1,0,0,0,0,1,0,0,0,0,0.0
-True,2015-11-06,0,-4,CLEVELAND CAVALIERS,HOME,PHILADELPHIA 76ERS,WIN,161,0,0,0,0,0,0,0,1,0,0,0,0,0,0.3
-True,2015-11-23,0,-1,CLEVELAND CAVALIERS,HOME,ORLANDO MAGIC,WIN,63,0,1,0,1,0,0,0,0,0,0,0,1,1,-2.1

@@ -1,6 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2015-01-03,0,-2,UTAH JAZZ,AWAY,MINNESOTA TIMBERWOLVES,WIN,65,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7
-True,2015-03-12,4,1,WASHINGTON WIZARDS,HOME,MEMPHIS GRIZZLIES,WIN,233,1,1,0,0,2,2,0,0,0,1,0,2,2,1.9
-True,2015-03-18,0,0,WASHINGTON WIZARDS,AWAY,UTAH JAZZ,WIN,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2015-03-22,0,-2,WASHINGTON WIZARDS,AWAY,SACRAMENTO KINGS,LOSS,550,0,2,0,0,0,0,1,0,0,0,0,1,0,-1.7
-True,2015-03-23,2,3,WASHINGTON WIZARDS,AWAY,GOLDEN STATE WARRIORS,LOSS,234,1,1,0,0,0,0,0,0,1,0,0,1,0,1.4

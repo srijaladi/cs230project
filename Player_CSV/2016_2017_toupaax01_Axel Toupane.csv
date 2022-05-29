@@ -1,5 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2017-03-01,0,-4,MILWAUKEE BUCKS,HOME,DENVER NUGGETS,LOSS,270,0,1,0,1,0,0,0,0,0,0,0,0,1,-1.1
-True,2017-03-03,0,-5,MILWAUKEE BUCKS,HOME,LOS ANGELES CLIPPERS,WIN,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2017-04-11,3,-14,NEW ORLEANS PELICANS,AWAY,LOS ANGELES LAKERS,LOSS,1231,1,4,1,3,0,0,0,0,0,0,1,0,1,0.9
-True,2017-04-12,8,12,NEW ORLEANS PELICANS,AWAY,PORTLAND TRAIL BLAZERS,WIN,1253,4,4,0,0,0,0,0,1,0,1,0,0,4,6.5

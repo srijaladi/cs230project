@@ -1,8 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2020-02-27,2,-18,GOLDEN STATE WARRIORS,HOME,LOS ANGELES LAKERS,LOSS,1323,1,6,0,5,0,0,0,4,0,0,0,0,0,-0.6
-True,2020-02-29,14,16,GOLDEN STATE WARRIORS,AWAY,PHOENIX SUNS,WIN,2020,5,12,3,8,1,1,2,4,0,0,0,0,4,8.6
-True,2020-03-01,17,5,GOLDEN STATE WARRIORS,HOME,WASHINGTON WIZARDS,LOSS,1871,6,10,3,7,2,3,0,2,1,1,1,0,5,13.0
-True,2020-03-03,15,14,GOLDEN STATE WARRIORS,AWAY,DENVER NUGGETS,WIN,2087,5,11,5,10,0,0,1,2,3,0,0,2,4,9.1
-True,2020-03-05,8,1,GOLDEN STATE WARRIORS,HOME,TORONTO RAPTORS,LOSS,1432,3,9,2,8,0,0,0,3,1,1,0,2,2,2.7
-True,2020-03-07,18,15,GOLDEN STATE WARRIORS,HOME,PHILADELPHIA 76ERS,WIN,1908,5,10,3,7,5,6,0,1,3,0,0,0,3,13.8
-True,2020-03-10,3,-10,GOLDEN STATE WARRIORS,HOME,LOS ANGELES CLIPPERS,LOSS,1581,1,9,0,7,1,2,0,4,0,0,0,1,2,-3.9

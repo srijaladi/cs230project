@@ -1,6 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2012-01-27,0,-3,PHILADELPHIA 76ERS,HOME,CHARLOTTE BOBCATS,WIN,230,0,1,0,0,0,0,0,1,0,0,1,0,0,0.3
-True,2012-01-28,2,-7,PHILADELPHIA 76ERS,HOME,DETROIT PISTONS,WIN,265,1,1,0,0,0,0,0,0,0,0,0,0,0,1.7
-True,2012-02-03,0,-1,PHILADELPHIA 76ERS,HOME,MIAMI HEAT,LOSS,249,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7
-True,2012-02-15,0,0,PHILADELPHIA 76ERS,AWAY,ORLANDO MAGIC,LOSS,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2012-02-28,0,-3,PHILADELPHIA 76ERS,AWAY,DETROIT PISTONS,WIN,188,0,0,0,0,0,0,0,0,1,1,0,1,0,0.7

@@ -1,9 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2006-11-08,0,1,DETROIT PISTONS,AWAY,SACRAMENTO KINGS,LOSS,99,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2006-11-11,4,0,DETROIT PISTONS,AWAY,GOLDEN STATE WARRIORS,LOSS,577,2,2,0,0,0,0,1,2,0,0,1,0,2,4.6
-True,2007-01-04,0,-1,DETROIT PISTONS,AWAY,NEW ORLEANS/OKLAHOMA CITY HORNETS,WIN,229,0,0,0,0,0,0,0,1,0,0,0,2,2,-2.5
-True,2007-01-06,0,3,DETROIT PISTONS,AWAY,CHICAGO BULLS,LOSS,344,0,0,0,0,0,0,0,1,0,0,1,0,1,0.6
-True,2007-04-13,3,-2,DETROIT PISTONS,AWAY,TORONTO RAPTORS,LOSS,1091,1,2,0,0,1,1,1,3,0,0,1,2,3,1.1
-True,2007-04-15,12,-9,DETROIT PISTONS,HOME,PHILADELPHIA 76ERS,LOSS,2092,3,12,0,1,6,7,5,5,3,1,6,1,5,13.7
-True,2007-04-17,8,5,DETROIT PISTONS,HOME,TORONTO RAPTORS,WIN,791,2,3,0,0,4,6,2,4,0,1,0,1,2,7.7
-True,2007-04-18,20,3,DETROIT PISTONS,AWAY,BOSTON CELTICS,WIN,2229,10,14,0,2,0,0,6,6,0,3,4,3,4,21.4

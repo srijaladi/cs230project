@@ -1,8 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2015-11-05,0,5,MEMPHIS GRIZZLIES,AWAY,PORTLAND TRAIL BLAZERS,LOSS,198,0,0,0,0,0,0,1,1,0,0,0,0,0,1.0
-True,2015-11-07,0,-4,MEMPHIS GRIZZLIES,AWAY,UTAH JAZZ,LOSS,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2016-01-20,4,0,MIAMI HEAT,AWAY,WASHINGTON WIZARDS,LOSS,312,2,4,0,0,0,0,0,0,0,0,0,0,0,2.0
-True,2016-01-22,0,-2,MIAMI HEAT,AWAY,TORONTO RAPTORS,LOSS,96,0,0,0,0,0,0,0,1,0,0,0,0,0,0.3
-True,2016-01-31,2,2,MIAMI HEAT,HOME,ATLANTA HAWKS,WIN,71,1,1,0,0,0,0,0,1,0,0,0,0,0,2.0
-True,2016-02-02,0,4,MIAMI HEAT,AWAY,HOUSTON ROCKETS,LOSS,196,0,0,0,0,0,0,0,0,1,0,0,0,0,0.7
-True,2016-02-09,1,4,MIAMI HEAT,HOME,SAN ANTONIO SPURS,LOSS,174,0,0,0,0,1,2,0,0,0,1,0,0,1,1.2

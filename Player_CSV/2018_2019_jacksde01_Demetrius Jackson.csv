@@ -1,7 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2018-11-28,2,-4,PHILADELPHIA 76ERS,HOME,NEW YORK KNICKS,WIN,334,1,1,0,0,0,0,0,0,0,1,0,1,0,1.7
-True,2018-12-19,2,1,PHILADELPHIA 76ERS,HOME,NEW YORK KNICKS,WIN,227,1,1,0,0,0,0,0,1,1,0,0,0,0,2.7
-True,2018-12-22,0,2,PHILADELPHIA 76ERS,HOME,TORONTO RAPTORS,WIN,254,0,1,0,0,0,0,0,0,2,0,0,0,1,0.3
-True,2018-12-27,0,-1,PHILADELPHIA 76ERS,AWAY,UTAH JAZZ,WIN,118,0,1,0,1,0,0,0,0,0,0,0,0,0,-0.7
-True,2018-12-30,10,7,PHILADELPHIA 76ERS,AWAY,PORTLAND TRAIL BLAZERS,LOSS,614,3,8,0,3,4,4,2,0,1,1,0,0,0,8.7
-True,2019-01-02,8,-16,PHILADELPHIA 76ERS,AWAY,PHOENIX SUNS,WIN,820,3,3,2,2,0,0,0,0,1,0,0,0,3,6.6

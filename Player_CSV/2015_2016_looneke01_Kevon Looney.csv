@@ -1,6 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2016-01-27,2,-1,GOLDEN STATE WARRIORS,HOME,DALLAS MAVERICKS,WIN,359,1,1,0,0,0,0,0,2,0,0,0,0,1,1.9
-True,2016-02-10,3,-7,GOLDEN STATE WARRIORS,AWAY,PHOENIX SUNS,WIN,132,1,2,1,1,0,0,0,0,0,0,0,0,0,2.0
-True,2016-02-19,2,-5,GOLDEN STATE WARRIORS,AWAY,PORTLAND TRAIL BLAZERS,LOSS,529,1,2,0,1,0,0,4,4,0,0,0,0,0,5.0
-True,2016-02-20,0,-10,GOLDEN STATE WARRIORS,AWAY,LOS ANGELES CLIPPERS,WIN,94,0,0,0,0,0,0,0,0,0,0,0,0,1,-0.4
-True,2016-02-25,2,1,GOLDEN STATE WARRIORS,AWAY,ORLANDO MAGIC,WIN,122,1,2,0,0,0,0,0,0,0,0,0,1,0,0.0

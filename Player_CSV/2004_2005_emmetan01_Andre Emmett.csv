@@ -1,9 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2005-01-14,1,3,MEMPHIS GRIZZLIES,AWAY,CHARLOTTE BOBCATS,WIN,105,0,1,0,0,1,1,0,0,0,0,0,0,0,0.3
-True,2005-01-17,3,0,MEMPHIS GRIZZLIES,HOME,HOUSTON ROCKETS,WIN,115,1,1,0,0,1,2,0,0,0,0,0,0,0,2.3
-True,2005-01-21,0,2,MEMPHIS GRIZZLIES,AWAY,DENVER NUGGETS,LOSS,100,0,1,0,0,0,0,0,1,0,0,0,0,0,-0.4
-True,2005-01-22,0,-4,MEMPHIS GRIZZLIES,AWAY,UTAH JAZZ,WIN,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2005-03-07,0,-3,MEMPHIS GRIZZLIES,AWAY,LOS ANGELES CLIPPERS,WIN,230,0,0,0,0,0,0,0,0,0,0,0,1,2,-1.8
-True,2005-03-08,3,1,MEMPHIS GRIZZLIES,AWAY,SACRAMENTO KINGS,LOSS,315,1,2,0,0,1,2,0,0,0,0,0,0,0,1.6
-True,2005-03-11,0,-1,MEMPHIS GRIZZLIES,AWAY,UTAH JAZZ,WIN,225,0,1,0,0,0,0,0,1,0,0,0,0,1,-0.8
-True,2005-03-12,0,-5,MEMPHIS GRIZZLIES,AWAY,PORTLAND TRAIL BLAZERS,LOSS,428,0,0,0,0,0,0,0,0,0,0,0,0,1,-0.4

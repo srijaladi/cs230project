@@ -1,4 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,1999-12-29,4,3,CHICAGO BULLS,HOME,DETROIT PISTONS,LOSS,828,2,3,0,1,0,0,2,2,4,0,0,3,5,2.5
-True,1999-12-30,4,9,CHICAGO BULLS,AWAY,MINNESOTA TIMBERWOLVES,LOSS,1608,0,7,0,2,4,4,0,0,8,2,0,2,3,3.5
-True,2000-01-03,3,5,CHICAGO BULLS,HOME,PORTLAND TRAIL BLAZERS,LOSS,411,1,2,0,0,1,1,0,0,1,0,0,1,0,1.7

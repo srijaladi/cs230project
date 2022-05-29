@@ -1,4 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2020-12-25,9,1,MIAMI HEAT,HOME,NEW ORLEANS PELICANS,WIN,1188,3,5,3,5,0,0,0,2,1,0,0,1,5,5.0
-True,2020-12-29,0,-10,MIAMI HEAT,HOME,MILWAUKEE BUCKS,LOSS,122,0,1,0,1,0,0,0,1,0,0,0,0,0,-0.4
-True,2021-01-09,1,5,MIAMI HEAT,AWAY,WASHINGTON WIZARDS,WIN,453,0,1,0,1,1,2,0,4,1,0,0,1,0,0.8

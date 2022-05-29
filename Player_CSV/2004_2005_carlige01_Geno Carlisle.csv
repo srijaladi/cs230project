@@ -1,7 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2004-11-17,0,0,PORTLAND TRAIL BLAZERS,HOME,MEMPHIS GRIZZLIES,LOSS,114,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2004-11-28,0,-2,PORTLAND TRAIL BLAZERS,HOME,NEW JERSEY NETS,WIN,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2004-12-04,0,2,PORTLAND TRAIL BLAZERS,AWAY,SEATTLE SUPERSONICS,LOSS,55,0,0,0,0,0,0,0,0,1,0,0,0,0,0.7
-True,2004-12-05,2,-4,PORTLAND TRAIL BLAZERS,HOME,PHOENIX SUNS,LOSS,329,0,1,0,0,2,2,1,0,0,0,0,0,0,2.0
-True,2004-12-12,0,-1,PORTLAND TRAIL BLAZERS,HOME,UTAH JAZZ,WIN,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2004-12-15,6,-2,PORTLAND TRAIL BLAZERS,AWAY,CLEVELAND CAVALIERS,LOSS,370,2,2,0,0,2,4,0,0,0,0,0,1,1,3.2

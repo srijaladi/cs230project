@@ -1,7 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2013-11-29,0,6,UTAH JAZZ,HOME,PHOENIX SUNS,LOSS,249,0,0,0,0,0,0,0,0,0,0,0,0,1,-0.4
-True,2013-12-04,0,-3,UTAH JAZZ,HOME,INDIANA PACERS,LOSS,253,0,0,0,0,0,0,0,3,0,0,0,1,1,-0.5
-True,2013-12-06,2,-10,UTAH JAZZ,AWAY,PORTLAND TRAIL BLAZERS,LOSS,426,1,1,0,0,0,0,1,1,0,0,0,0,2,1.9
-True,2013-12-07,1,9,UTAH JAZZ,HOME,SACRAMENTO KINGS,LOSS,811,0,0,0,0,1,6,0,4,0,0,0,1,1,-1.2
-True,2013-12-09,0,4,UTAH JAZZ,HOME,PORTLAND TRAIL BLAZERS,LOSS,794,0,0,0,0,0,0,1,6,0,0,0,0,1,2.1
-True,2013-12-16,0,-4,UTAH JAZZ,AWAY,MIAMI HEAT,LOSS,142,0,0,0,0,0,0,0,1,0,0,0,0,0,0.3

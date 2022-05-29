@@ -1,9 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2012-03-26,10,-5,HOUSTON ROCKETS,HOME,SACRAMENTO KINGS,WIN,1297,2,6,0,0,6,6,0,1,5,1,0,3,1,8.0
-True,2012-03-27,4,-4,HOUSTON ROCKETS,AWAY,DALLAS MAVERICKS,LOSS,934,1,3,0,2,2,2,0,0,1,0,0,0,2,2.2
-True,2012-03-30,4,2,HOUSTON ROCKETS,HOME,MEMPHIS GRIZZLIES,WIN,824,1,3,0,0,2,2,0,2,2,0,0,3,1,0.9
-True,2012-04-01,5,-1,HOUSTON ROCKETS,HOME,INDIANA PACERS,LOSS,824,2,8,1,2,0,0,0,1,4,0,0,0,0,3.3
-True,2012-04-02,9,-2,HOUSTON ROCKETS,AWAY,CHICAGO BULLS,WIN,945,4,8,1,2,0,0,0,3,3,0,0,1,1,6.6
-True,2012-04-06,2,-9,HOUSTON ROCKETS,AWAY,LOS ANGELES LAKERS,WIN,588,1,3,0,0,0,1,0,1,1,0,0,0,0,0.9
-True,2012-04-15,4,5,HOUSTON ROCKETS,AWAY,DENVER NUGGETS,LOSS,373,1,2,0,1,2,2,0,2,0,0,0,0,0,3.6
-True,2012-04-22,1,1,HOUSTON ROCKETS,AWAY,MIAMI HEAT,LOSS,856,0,3,0,2,1,2,0,1,1,0,0,0,0,-0.5

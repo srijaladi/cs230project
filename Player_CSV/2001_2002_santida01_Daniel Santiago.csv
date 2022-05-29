@@ -1,4 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2002-01-02,4,9,PHOENIX SUNS,HOME,PHILADELPHIA 76ERS,LOSS,795,2,5,0,0,0,0,0,3,2,0,0,0,2,2.8
-True,2002-01-04,4,-13,PHOENIX SUNS,AWAY,LOS ANGELES LAKERS,LOSS,516,2,3,0,0,0,0,0,3,0,0,1,2,1,1.9
-True,2002-01-05,0,-2,PHOENIX SUNS,HOME,SACRAMENTO KINGS,LOSS,148,0,0,0,0,0,0,0,1,0,0,0,0,1,-0.1

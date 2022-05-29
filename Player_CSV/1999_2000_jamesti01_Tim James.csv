@@ -1,5 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2000-01-25,4,3,MIAMI HEAT,HOME,BOSTON CELTICS,WIN,420,2,4,0,0,0,1,1,0,1,0,0,1,0,2.0
-True,2000-01-28,2,6,MIAMI HEAT,AWAY,TORONTO RAPTORS,LOSS,381,1,4,0,0,0,0,1,0,0,0,1,1,0,0.0
-True,2000-04-18,4,9,MIAMI HEAT,HOME,TORONTO RAPTORS,WIN,360,2,5,0,0,0,0,1,1,1,0,2,0,1,4.0
-True,2000-04-19,1,1,MIAMI HEAT,AWAY,CHARLOTTE HORNETS,LOSS,245,0,1,0,0,1,2,0,0,0,0,0,0,0,-0.1

@@ -1,3 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2009-04-14,1,6,ATLANTA HAWKS,HOME,MIAMI HEAT,WIN,428,0,2,0,0,1,2,0,0,1,0,0,0,1,-0.5
-True,2009-04-15,4,-11,ATLANTA HAWKS,AWAY,MEMPHIS GRIZZLIES,LOSS,477,2,5,0,0,0,0,0,0,2,0,0,0,0,2.7

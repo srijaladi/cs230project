@@ -1,9 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2020-12-23,15,3,ORLANDO MAGIC,HOME,MIAMI HEAT,WIN,1729,6,15,0,3,3,3,0,5,4,1,1,4,4,7.3
-True,2020-12-26,21,5,ORLANDO MAGIC,AWAY,WASHINGTON WIZARDS,WIN,1865,7,13,0,2,7,8,2,2,7,1,0,2,3,19.0
-True,2020-12-27,26,-11,ORLANDO MAGIC,AWAY,WASHINGTON WIZARDS,WIN,1743,11,21,2,3,2,2,0,2,2,1,0,2,1,16.3
-True,2020-12-29,11,9,ORLANDO MAGIC,AWAY,OKLAHOMA CITY THUNDER,WIN,1900,4,16,1,2,2,2,3,1,10,1,0,0,3,10.6
-True,2020-12-31,9,-31,ORLANDO MAGIC,HOME,PHILADELPHIA 76ERS,LOSS,1452,4,11,0,1,1,1,0,2,4,1,1,2,3,4.8
-True,2021-01-02,12,-7,ORLANDO MAGIC,HOME,OKLAHOMA CITY THUNDER,LOSS,2098,5,16,1,4,1,2,0,3,8,2,0,3,2,7.1
-True,2021-01-04,6,11,ORLANDO MAGIC,HOME,CLEVELAND CAVALIERS,WIN,1860,3,9,0,1,0,0,0,5,8,0,0,5,2,2.2
-True,2021-01-06,3,-8,ORLANDO MAGIC,HOME,CLEVELAND CAVALIERS,WIN,265,1,3,0,0,1,1,0,0,0,1,0,0,0,2.3

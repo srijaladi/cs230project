@@ -1,7 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2019-03-09,0,-2,ATLANTA HAWKS,HOME,BROOKLYN NETS,LOSS,420,0,2,0,1,0,0,2,2,0,0,0,0,2,-0.2
-True,2019-03-13,0,-6,ATLANTA HAWKS,HOME,MEMPHIS GRIZZLIES,WIN,219,0,0,0,0,0,0,0,2,1,0,0,0,2,0.5
-True,2019-04-05,10,1,MEMPHIS GRIZZLIES,AWAY,DALLAS MAVERICKS,WIN,1075,3,6,0,0,4,4,2,1,0,1,0,0,3,8.5
-True,2019-04-07,15,16,MEMPHIS GRIZZLIES,HOME,DALLAS MAVERICKS,LOSS,1569,6,9,0,0,3,4,3,2,0,0,1,0,5,12.1
-True,2019-04-09,13,0,MEMPHIS GRIZZLIES,AWAY,DETROIT PISTONS,LOSS,1167,4,7,0,0,5,6,1,5,3,0,2,3,6,9.6
-True,2019-04-10,8,3,MEMPHIS GRIZZLIES,HOME,GOLDEN STATE WARRIORS,WIN,1122,3,6,0,0,2,4,3,1,0,0,0,1,2,4.8

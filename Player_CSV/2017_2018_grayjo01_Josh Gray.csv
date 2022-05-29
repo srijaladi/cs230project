@@ -1,6 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2018-02-02,7,-4,PHOENIX SUNS,HOME,UTAH JAZZ,LOSS,533,2,3,1,1,2,3,0,1,1,1,1,0,1,7.6
-True,2018-02-06,8,-15,PHOENIX SUNS,AWAY,LOS ANGELES LAKERS,LOSS,1002,3,7,2,3,0,0,1,1,2,0,0,2,2,3.9
-True,2018-02-07,9,-19,PHOENIX SUNS,HOME,SAN ANTONIO SPURS,LOSS,1888,4,16,0,5,1,2,1,3,7,4,0,1,5,6.5
-True,2018-02-10,3,-7,PHOENIX SUNS,HOME,DENVER NUGGETS,LOSS,764,0,4,0,1,3,4,0,3,2,3,1,2,0,3.8
-True,2018-02-12,5,-24,PHOENIX SUNS,AWAY,GOLDEN STATE WARRIORS,LOSS,999,2,11,0,3,1,2,0,0,0,0,0,2,0,-4.3

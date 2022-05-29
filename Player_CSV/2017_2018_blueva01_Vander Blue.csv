@@ -1,6 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2017-11-09,2,4,LOS ANGELES LAKERS,AWAY,WASHINGTON WIZARDS,LOSS,186,1,2,0,0,0,0,0,0,0,0,0,0,0,1.0
-True,2017-11-11,0,6,LOS ANGELES LAKERS,AWAY,MILWAUKEE BUCKS,LOSS,861,0,0,0,0,0,0,0,1,0,0,0,1,1,-1.1
-True,2017-11-13,0,3,LOS ANGELES LAKERS,AWAY,PHOENIX SUNS,WIN,331,0,1,0,0,0,0,0,0,1,0,0,0,1,-0.4
-True,2017-11-17,0,-4,LOS ANGELES LAKERS,HOME,PHOENIX SUNS,LOSS,304,0,0,0,0,0,0,0,0,0,0,0,1,0,-1.0
-True,2018-01-01,1,6,LOS ANGELES LAKERS,AWAY,MINNESOTA TIMBERWOLVES,LOSS,1013,0,2,0,2,1,2,0,0,2,1,0,1,0,0.6

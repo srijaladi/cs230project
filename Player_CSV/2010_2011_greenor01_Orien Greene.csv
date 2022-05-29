@@ -1,4 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2011-02-02,2,-1,NEW JERSEY NETS,HOME,PHILADELPHIA 76ERS,LOSS,49,1,1,0,0,0,0,0,0,0,0,0,0,0,1.7
-True,2011-02-04,0,4,NEW JERSEY NETS,AWAY,DETROIT PISTONS,LOSS,91,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7
-True,2011-02-06,1,2,NEW JERSEY NETS,HOME,INDIANA PACERS,LOSS,178,0,0,0,0,1,2,0,0,1,1,0,0,0,2.3

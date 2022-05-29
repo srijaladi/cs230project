@@ -1,7 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2019-03-23,0,-7,PHOENIX SUNS,AWAY,SACRAMENTO KINGS,LOSS,261,0,1,0,1,0,0,0,2,0,0,0,1,1,-1.5
-True,2019-03-25,6,-25,PHOENIX SUNS,AWAY,UTAH JAZZ,LOSS,862,1,10,0,5,4,4,0,1,1,1,0,2,2,-1.4
-True,2019-04-01,6,9,PHOENIX SUNS,HOME,CLEVELAND CAVALIERS,WIN,352,2,3,0,0,2,2,0,0,1,0,0,0,0,5.4
-True,2019-04-03,10,-21,PHOENIX SUNS,HOME,UTAH JAZZ,LOSS,1303,5,11,0,4,0,0,0,1,1,2,0,1,2,5.5
-True,2019-04-07,0,-1,PHOENIX SUNS,AWAY,HOUSTON ROCKETS,LOSS,309,0,1,0,1,0,0,1,0,1,0,0,0,0,0.7
-True,2019-04-09,0,7,PHOENIX SUNS,AWAY,DALLAS MAVERICKS,LOSS,799,0,3,0,2,0,0,0,2,4,0,0,1,0,0.3

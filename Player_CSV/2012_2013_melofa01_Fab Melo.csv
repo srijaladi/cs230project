@@ -1,7 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2013-02-01,0,-1,BOSTON CELTICS,HOME,ORLANDO MAGIC,WIN,158,0,0,0,0,0,0,0,0,0,1,0,0,0,1.0
-True,2013-02-07,2,-6,BOSTON CELTICS,HOME,LOS ANGELES LAKERS,WIN,298,1,2,0,0,0,0,0,0,0,0,1,0,2,0.9
-True,2013-02-19,0,0,BOSTON CELTICS,AWAY,DENVER NUGGETS,LOSS,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2013-02-20,2,6,BOSTON CELTICS,AWAY,LOS ANGELES LAKERS,LOSS,426,1,1,0,0,0,2,0,0,0,0,1,0,1,1.2
-True,2013-02-22,1,-1,BOSTON CELTICS,AWAY,PHOENIX SUNS,WIN,222,0,1,0,0,1,2,0,1,0,0,0,0,0,0.2
-True,2013-04-17,2,-5,BOSTON CELTICS,AWAY,TORONTO RAPTORS,LOSS,1046,1,2,0,0,0,0,0,2,0,1,0,1,4,0.0

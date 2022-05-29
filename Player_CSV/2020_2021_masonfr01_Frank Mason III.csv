@@ -1,5 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2021-02-05,4,-12,ORLANDO MAGIC,HOME,CHICAGO BULLS,WIN,933,1,4,1,1,1,2,0,1,4,0,0,2,4,0.7
-True,2021-02-06,10,-2,ORLANDO MAGIC,HOME,CHICAGO BULLS,LOSS,1573,4,10,0,1,2,2,1,3,4,0,0,0,1,8.6
-True,2021-02-09,11,0,ORLANDO MAGIC,AWAY,PORTLAND TRAIL BLAZERS,LOSS,1994,4,10,1,3,2,3,2,5,4,0,0,3,1,7.5
-True,2021-02-11,0,-5,ORLANDO MAGIC,AWAY,GOLDEN STATE WARRIORS,LOSS,257,0,0,0,0,0,0,0,0,0,0,0,0,1,-0.4

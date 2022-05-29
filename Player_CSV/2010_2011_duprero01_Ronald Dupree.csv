@@ -1,4 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2010-12-27,0,2,TORONTO RAPTORS,AWAY,MEMPHIS GRIZZLIES,LOSS,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2011-01-02,0,0,TORONTO RAPTORS,HOME,BOSTON CELTICS,LOSS,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
-True,2011-01-04,2,-7,TORONTO RAPTORS,AWAY,CHICAGO BULLS,LOSS,678,1,4,0,1,0,0,0,3,1,0,0,0,2,0.4

@@ -1,4 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2014-03-16,1,0,OKLAHOMA CITY THUNDER,HOME,DALLAS MAVERICKS,LOSS,376,0,2,0,1,1,2,0,0,2,0,0,1,2,-1.2
-True,2014-03-20,0,-9,OKLAHOMA CITY THUNDER,AWAY,CLEVELAND CAVALIERS,WIN,141,0,0,0,0,0,0,0,0,0,0,0,1,0,-1.0
-True,2014-03-24,0,1,OKLAHOMA CITY THUNDER,HOME,DENVER NUGGETS,WIN,172,0,1,0,0,0,0,0,0,2,0,0,0,0,0.7

@@ -1,6 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2019-11-12,0,-3,INDIANA PACERS,HOME,OKLAHOMA CITY THUNDER,WIN,155,0,1,0,1,0,0,0,0,1,0,1,0,0,0.7
-True,2019-11-16,2,0,INDIANA PACERS,HOME,MILWAUKEE BUCKS,LOSS,863,1,5,0,4,0,0,0,3,3,0,0,1,0,0.9
-True,2019-11-18,12,21,INDIANA PACERS,AWAY,BROOKLYN NETS,WIN,1533,5,10,2,6,0,0,0,3,3,1,0,1,1,9.6
-True,2020-08-06,0,2,INDIANA PACERS,AWAY,PHOENIX SUNS,LOSS,124,0,1,0,1,0,0,0,1,0,0,0,0,0,-0.4
-True,2020-08-14,0,0,INDIANA PACERS,HOME,MIAMI HEAT,WIN,136,0,0,0,0,0,0,0,0,1,0,0,1,1,-0.7

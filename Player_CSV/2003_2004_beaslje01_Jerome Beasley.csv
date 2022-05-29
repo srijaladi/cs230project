@@ -1,3 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2003-10-29,2,7,MIAMI HEAT,AWAY,BOSTON CELTICS,LOSS,159,1,2,0,0,0,0,0,0,0,0,0,0,0,1.0
-True,2003-11-16,0,-3,MIAMI HEAT,AWAY,LOS ANGELES LAKERS,LOSS,148,0,1,0,0,0,0,0,1,0,0,0,0,0,-0.4

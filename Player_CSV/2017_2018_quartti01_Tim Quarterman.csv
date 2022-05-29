@@ -1,4 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2018-04-01,0,3,HOUSTON ROCKETS,AWAY,SAN ANTONIO SPURS,LOSS,134,0,0,0,0,0,0,0,1,1,0,0,0,0,1.0
-True,2018-04-03,2,-3,HOUSTON ROCKETS,HOME,WASHINGTON WIZARDS,WIN,215,1,2,0,1,0,0,0,1,0,0,0,0,1,0.9
-True,2018-04-10,2,-10,HOUSTON ROCKETS,AWAY,LOS ANGELES LAKERS,WIN,416,0,1,0,1,2,2,0,1,0,0,0,2,0,-0.4

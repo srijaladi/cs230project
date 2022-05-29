@@ -1,9 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2000-03-06,9,1,SAN ANTONIO SPURS,HOME,NEW JERSEY NETS,WIN,589,4,5,1,2,0,2,2,0,0,0,0,0,2,6.9
-True,2000-03-09,2,4,SAN ANTONIO SPURS,AWAY,ATLANTA HAWKS,WIN,497,1,5,0,0,0,0,0,0,1,0,0,0,0,-0.4
-True,2000-03-10,7,16,SAN ANTONIO SPURS,AWAY,WASHINGTON WIZARDS,WIN,1032,3,6,0,1,1,1,2,5,1,0,1,2,2,5.5
-True,2000-03-12,2,3,SAN ANTONIO SPURS,AWAY,NEW YORK KNICKS,LOSS,553,1,7,0,3,0,0,1,2,0,0,0,0,1,-1.6
-True,2000-03-16,5,-10,SAN ANTONIO SPURS,HOME,DALLAS MAVERICKS,LOSS,1416,2,10,1,2,0,0,4,2,2,0,0,3,4,-1.0
-True,2000-03-18,4,-5,SAN ANTONIO SPURS,HOME,DENVER NUGGETS,WIN,311,1,3,0,0,2,2,1,2,0,0,0,0,0,3.6
-True,2000-03-22,5,10,SAN ANTONIO SPURS,HOME,LOS ANGELES CLIPPERS,WIN,780,2,5,1,3,0,0,3,0,1,0,0,0,0,5.1
-True,2000-03-25,6,6,SAN ANTONIO SPURS,HOME,CLEVELAND CAVALIERS,WIN,545,3,5,0,1,0,0,1,1,0,1,0,1,1,4.3

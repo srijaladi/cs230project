@@ -1,6 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2011-04-01,2,-2,UTAH JAZZ,HOME,LOS ANGELES LAKERS,LOSS,575,0,3,0,0,2,2,0,1,2,0,0,3,1,-1.8
-True,2011-04-03,19,1,UTAH JAZZ,AWAY,SACRAMENTO KINGS,LOSS,1772,7,11,3,5,2,2,0,2,3,1,2,2,2,16.4
-True,2011-04-05,0,-2,UTAH JAZZ,AWAY,LOS ANGELES LAKERS,WIN,720,0,5,0,1,0,0,1,2,1,0,0,2,0,-3.5
-True,2011-04-07,2,2,UTAH JAZZ,HOME,PORTLAND TRAIL BLAZERS,LOSS,455,0,2,0,0,2,2,0,1,0,0,0,0,0,0.9
-True,2011-04-09,5,1,UTAH JAZZ,AWAY,SAN ANTONIO SPURS,LOSS,638,2,4,0,1,1,2,1,2,1,1,0,0,0,5.6

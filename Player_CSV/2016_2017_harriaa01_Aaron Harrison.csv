@@ -1,6 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2016-11-07,0,-3,CHARLOTTE HORNETS,HOME,INDIANA PACERS,WIN,195,0,1,0,0,0,0,0,1,1,0,0,0,0,0.3
-True,2016-11-21,0,1,CHARLOTTE HORNETS,HOME,MEMPHIS GRIZZLIES,LOSS,194,0,1,0,1,0,0,0,0,0,0,0,0,1,-1.1
-True,2016-11-28,1,-3,CHARLOTTE HORNETS,AWAY,MEMPHIS GRIZZLIES,WIN,224,0,1,0,0,1,2,0,0,1,0,0,0,0,0.6
-True,2016-11-29,0,-3,CHARLOTTE HORNETS,HOME,DETROIT PISTONS,LOSS,262,0,1,0,1,0,0,0,1,0,0,0,0,1,-0.8
-True,2016-12-31,0,3,CHARLOTTE HORNETS,HOME,CLEVELAND CAVALIERS,LOSS,119,0,0,0,0,0,0,0,1,1,0,0,0,0,1.0
